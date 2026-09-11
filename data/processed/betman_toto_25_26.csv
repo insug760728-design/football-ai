@@ -1,0 +1,1555 @@
+﻿gmTs,Match_No,Date,League,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Vote_Home,Vote_Draw,Vote_Away,Public_Pick,Is_Upset
+250001,1,2024-08-03,LaLiga,Barcelona,Mallorca,1,0,H,82.0,14.9,3.1,H,0
+250001,2,2024-08-11,LaLiga,Vallecano,Las Palmas,1,3,A,64.3,20.8,15.0,H,1
+250001,3,2024-08-12,EPL,Leicester,Brighton,2,2,D,13.5,18.6,67.9,A,1
+250001,4,2024-08-12,EPL,Fulham,Arsenal,1,1,D,9.6,16.4,74.0,A,1
+250001,5,2024-08-12,LaLiga,Leganes,Sociedad,0,3,A,19.9,30.5,49.5,A,0
+250001,6,2024-08-12,LaLiga,Ath Bilbao,Villarreal,2,0,H,48.7,26.4,25.0,H,0
+250001,7,2024-08-12,LaLiga,Osasuna,Alaves,2,2,D,46.1,28.7,25.2,H,1
+250001,8,2024-08-12,LaLiga,Ath Madrid,Sevilla,4,3,H,86.0,15.0,-1.0,H,0
+250001,9,2024-08-12,EPL,Ipswich,Bournemouth,1,2,A,27.1,25.3,47.5,A,0
+250001,10,2024-08-12,EPL,Tottenham,Chelsea,3,4,A,28.0,24.4,47.6,A,0
+250001,11,2024-08-15,LaLiga,Ath Bilbao,Getafe,1,1,D,80.4,17.8,1.8,H,1
+250001,12,2024-08-15,LaLiga,Betis,Girona,1,1,D,40.4,27.9,31.7,H,1
+250001,13,2024-08-16,LaLiga,Las Palmas,Sevilla,2,2,D,34.2,29.4,36.4,A,1
+250001,14,2024-08-16,EPL,Man United,Fulham,1,0,H,74.2,16.9,8.9,H,0
+250002,1,2024-08-12,LaLiga,Ath Madrid,Sevilla,4,3,H,86.0,15.0,-1.0,H,0
+250002,2,2024-08-12,EPL,Ipswich,Bournemouth,1,2,A,27.1,25.3,47.5,A,0
+250002,3,2024-08-12,EPL,Tottenham,Chelsea,3,4,A,28.0,24.4,47.6,A,0
+250002,4,2024-08-15,LaLiga,Ath Bilbao,Getafe,1,1,D,80.4,17.8,1.8,H,1
+250002,5,2024-08-15,LaLiga,Betis,Girona,1,1,D,40.4,27.9,31.7,H,1
+250002,6,2024-08-16,LaLiga,Las Palmas,Sevilla,2,2,D,34.2,29.4,36.4,A,1
+250002,7,2024-08-16,EPL,Man United,Fulham,1,0,H,74.2,16.9,8.9,H,0
+250002,8,2024-08-16,LaLiga,Celta,Alaves,2,1,H,47.3,29.6,23.1,H,0
+250002,9,2024-08-17,EPL,Ipswich,Liverpool,0,2,A,-1.0,13.0,88.0,A,0
+250002,10,2024-08-17,EPL,West Ham,Aston Villa,1,2,A,38.9,26.5,34.6,H,1
+250002,11,2024-08-17,EPL,Nott'm Forest,Bournemouth,1,1,D,38.8,27.2,34.0,H,1
+250002,12,2024-08-17,EPL,Newcastle,Southampton,1,0,H,87.5,13.6,-1.1,H,0
+250002,13,2024-08-17,EPL,Everton,Brighton,0,3,A,35.8,28.5,35.8,H,1
+250002,14,2024-08-17,EPL,Arsenal,Wolves,2,0,H,88.0,9.5,2.5,H,0
+250003,1,2024-08-16,LaLiga,Celta,Alaves,2,1,H,47.3,29.6,23.1,H,0
+250003,2,2024-08-17,EPL,Ipswich,Liverpool,0,2,A,-1.0,13.0,88.0,A,0
+250003,3,2024-08-17,EPL,West Ham,Aston Villa,1,2,A,38.9,26.5,34.6,H,1
+250003,4,2024-08-17,EPL,Nott'm Forest,Bournemouth,1,1,D,38.8,27.2,34.0,H,1
+250003,5,2024-08-17,EPL,Newcastle,Southampton,1,0,H,87.5,13.6,-1.1,H,0
+250003,6,2024-08-17,EPL,Everton,Brighton,0,3,A,35.8,28.5,35.8,H,1
+250003,7,2024-08-17,EPL,Arsenal,Wolves,2,0,H,88.0,9.5,2.5,H,0
+250003,8,2024-08-17,LaLiga,Valencia,Barcelona,1,2,A,12.5,18.8,68.7,A,0
+250003,9,2024-08-17,LaLiga,Osasuna,Leganes,1,1,D,63.4,21.3,15.3,H,1
+250003,10,2024-08-18,LaLiga,Mallorca,Real Madrid,1,1,D,1.2,17.0,81.9,A,1
+250003,11,2024-08-18,EPL,Chelsea,Man City,0,2,A,16.0,18.2,65.8,A,0
+250003,12,2024-08-18,LaLiga,Sociedad,Vallecano,1,2,A,76.1,19.1,4.8,H,1
+250003,13,2024-08-18,EPL,Brentford,Crystal Palace,2,1,H,39.5,27.9,32.7,H,0
+250003,14,2024-08-19,LaLiga,Valladolid,Espanol,1,0,H,40.1,31.8,28.1,H,0
+250004,1,2024-08-17,LaLiga,Valencia,Barcelona,1,2,A,12.5,18.8,68.7,A,0
+250004,2,2024-08-17,LaLiga,Osasuna,Leganes,1,1,D,63.4,21.3,15.3,H,1
+250004,3,2024-08-18,LaLiga,Mallorca,Real Madrid,1,1,D,1.2,17.0,81.9,A,1
+250004,4,2024-08-18,EPL,Chelsea,Man City,0,2,A,16.0,18.2,65.8,A,0
+250004,5,2024-08-18,LaLiga,Sociedad,Vallecano,1,2,A,76.1,19.1,4.8,H,1
+250004,6,2024-08-18,EPL,Brentford,Crystal Palace,2,1,H,39.5,27.9,32.7,H,0
+250004,7,2024-08-19,LaLiga,Valladolid,Espanol,1,0,H,40.1,31.8,28.1,H,0
+250004,8,2024-08-19,EPL,Leicester,Tottenham,1,1,D,9.9,16.5,73.6,A,1
+250004,9,2024-08-19,LaLiga,Villarreal,Ath Madrid,2,2,D,28.9,25.8,45.4,A,1
+250004,10,2024-08-23,LaLiga,Celta,Valencia,3,1,H,45.4,28.1,26.5,H,0
+250004,11,2024-08-23,LaLiga,Sevilla,Villarreal,1,2,A,39.6,26.4,34.0,H,1
+250004,12,2024-08-24,LaLiga,Osasuna,Mallorca,1,0,H,38.8,30.6,30.6,H,0
+250004,13,2024-08-24,LaLiga,Getafe,Vallecano,0,0,D,38.7,31.6,29.6,H,1
+250004,14,2024-08-24,LaLiga,Barcelona,Ath Bilbao,2,1,H,73.1,16.9,10.0,H,0
+250005,1,2024-08-19,EPL,Leicester,Tottenham,1,1,D,9.9,16.5,73.6,A,1
+250005,2,2024-08-19,LaLiga,Villarreal,Ath Madrid,2,2,D,28.9,25.8,45.4,A,1
+250005,3,2024-08-23,LaLiga,Celta,Valencia,3,1,H,45.4,28.1,26.5,H,0
+250005,4,2024-08-23,LaLiga,Sevilla,Villarreal,1,2,A,39.6,26.4,34.0,H,1
+250005,5,2024-08-24,LaLiga,Osasuna,Mallorca,1,0,H,38.8,30.6,30.6,H,0
+250005,6,2024-08-24,LaLiga,Getafe,Vallecano,0,0,D,38.7,31.6,29.6,H,1
+250005,7,2024-08-24,LaLiga,Barcelona,Ath Bilbao,2,1,H,73.1,16.9,10.0,H,0
+250005,8,2024-08-24,EPL,Tottenham,Everton,4,0,H,82.0,14.9,3.1,H,0
+250005,9,2024-08-24,EPL,Southampton,Nott'm Forest,0,1,A,37.3,28.8,33.9,H,1
+250005,10,2024-08-24,EPL,Man City,Ipswich,4,1,H,88.0,6.0,6.0,H,0
+250005,11,2024-08-24,EPL,Fulham,Leicester,2,1,H,65.5,18.9,15.6,H,0
+250005,12,2024-08-24,EPL,Crystal Palace,West Ham,0,2,A,44.1,26.3,29.6,H,1
+250005,13,2024-08-24,EPL,Brighton,Man United,2,1,H,38.1,25.7,36.2,H,0
+250005,14,2024-08-24,LaLiga,Espanol,Sociedad,0,1,A,24.3,29.6,46.2,A,0
+250006,1,2024-08-24,EPL,Tottenham,Everton,4,0,H,82.0,14.9,3.1,H,0
+250006,2,2024-08-24,EPL,Southampton,Nott'm Forest,0,1,A,37.3,28.8,33.9,H,1
+250006,3,2024-08-24,EPL,Man City,Ipswich,4,1,H,88.0,6.0,6.0,H,0
+250006,4,2024-08-24,EPL,Fulham,Leicester,2,1,H,65.5,18.9,15.6,H,0
+250006,5,2024-08-24,EPL,Crystal Palace,West Ham,0,2,A,44.1,26.3,29.6,H,1
+250006,6,2024-08-24,EPL,Brighton,Man United,2,1,H,38.1,25.7,36.2,H,0
+250006,7,2024-08-24,LaLiga,Espanol,Sociedad,0,1,A,24.3,29.6,46.2,A,0
+250006,8,2024-08-24,EPL,Aston Villa,Arsenal,0,2,A,14.4,18.5,67.0,A,0
+250006,9,2024-08-25,EPL,Liverpool,Brentford,2,0,H,88.0,12.4,-0.4,H,0
+250006,10,2024-08-25,LaLiga,Real Madrid,Valladolid,3,0,H,88.0,9.5,2.5,H,0
+250006,11,2024-08-25,EPL,Bournemouth,Newcastle,1,1,D,32.5,24.8,42.8,A,1
+250006,12,2024-08-25,LaLiga,Leganes,Las Palmas,2,1,H,42.1,31.6,26.3,H,0
+250006,13,2024-08-25,LaLiga,Alaves,Betis,0,0,D,40.0,30.7,29.3,H,1
+250006,14,2024-08-25,EPL,Wolves,Chelsea,2,6,A,14.3,17.8,67.9,A,0
+250007,1,2024-08-24,EPL,Aston Villa,Arsenal,0,2,A,14.4,18.5,67.0,A,0
+250007,2,2024-08-25,EPL,Liverpool,Brentford,2,0,H,88.0,12.4,-0.4,H,0
+250007,3,2024-08-25,LaLiga,Real Madrid,Valladolid,3,0,H,88.0,9.5,2.5,H,0
+250007,4,2024-08-25,EPL,Bournemouth,Newcastle,1,1,D,32.5,24.8,42.8,A,1
+250007,5,2024-08-25,LaLiga,Leganes,Las Palmas,2,1,H,42.1,31.6,26.3,H,0
+250007,6,2024-08-25,LaLiga,Alaves,Betis,0,0,D,40.0,30.7,29.3,H,1
+250007,7,2024-08-25,EPL,Wolves,Chelsea,2,6,A,14.3,17.8,67.9,A,0
+250007,8,2024-08-25,LaLiga,Ath Madrid,Girona,3,0,H,74.4,17.4,8.2,H,0
+250007,9,2024-08-26,LaLiga,Villarreal,Celta,4,3,H,48.4,27.2,24.3,H,0
+250007,10,2024-08-27,LaLiga,Mallorca,Sevilla,0,0,D,40.0,30.7,29.3,H,1
+250007,11,2024-08-27,LaLiga,Vallecano,Barcelona,1,2,A,9.5,18.4,72.1,A,0
+250007,12,2024-08-28,LaLiga,Ath Bilbao,Valencia,1,0,H,73.7,18.4,8.0,H,0
+250007,13,2024-08-28,LaLiga,Sociedad,Alaves,1,2,A,70.2,20.4,9.4,H,1
+250007,14,2024-08-28,LaLiga,Valladolid,Leganes,0,0,D,41.6,31.9,26.6,H,1
+250008,1,2024-08-25,LaLiga,Ath Madrid,Girona,3,0,H,74.4,17.4,8.2,H,0
+250008,2,2024-08-26,LaLiga,Villarreal,Celta,4,3,H,48.4,27.2,24.3,H,0
+250008,3,2024-08-27,LaLiga,Mallorca,Sevilla,0,0,D,40.0,30.7,29.3,H,1
+250008,4,2024-08-27,LaLiga,Vallecano,Barcelona,1,2,A,9.5,18.4,72.1,A,0
+250008,5,2024-08-28,LaLiga,Ath Bilbao,Valencia,1,0,H,73.7,18.4,8.0,H,0
+250008,6,2024-08-28,LaLiga,Sociedad,Alaves,1,2,A,70.2,20.4,9.4,H,1
+250008,7,2024-08-28,LaLiga,Valladolid,Leganes,0,0,D,41.6,31.9,26.6,H,1
+250008,8,2024-08-28,LaLiga,Ath Madrid,Espanol,0,0,D,88.0,13.6,-1.6,H,1
+250008,9,2024-08-29,LaLiga,Girona,Osasuna,4,0,H,68.8,17.5,13.7,H,0
+250008,10,2024-08-29,LaLiga,Las Palmas,Real Madrid,1,1,D,-0.6,14.3,86.3,A,1
+250008,11,2024-08-31,EPL,Nott'm Forest,Wolves,1,1,D,48.1,26.0,26.0,H,1
+250008,12,2024-08-31,LaLiga,Barcelona,Valladolid,7,0,H,88.0,11.3,0.7,H,0
+250008,13,2024-08-31,EPL,Ipswich,Fulham,1,1,D,31.6,27.1,41.3,A,1
+250008,14,2024-08-31,LaLiga,Espanol,Vallecano,2,1,H,34.1,31.8,34.1,H,0
+250009,1,2024-08-28,LaLiga,Ath Madrid,Espanol,0,0,D,88.0,13.6,-1.6,H,1
+250009,2,2024-08-29,LaLiga,Girona,Osasuna,4,0,H,68.8,17.5,13.7,H,0
+250009,3,2024-08-29,LaLiga,Las Palmas,Real Madrid,1,1,D,-0.6,14.3,86.3,A,1
+250009,4,2024-08-31,EPL,Nott'm Forest,Wolves,1,1,D,48.1,26.0,26.0,H,1
+250009,5,2024-08-31,LaLiga,Barcelona,Valladolid,7,0,H,88.0,11.3,0.7,H,0
+250009,6,2024-08-31,EPL,Ipswich,Fulham,1,1,D,31.6,27.1,41.3,A,1
+250009,7,2024-08-31,LaLiga,Espanol,Vallecano,2,1,H,34.1,31.8,34.1,H,0
+250009,8,2024-08-31,LaLiga,Leganes,Mallorca,0,1,A,38.2,31.9,29.9,H,1
+250009,9,2024-08-31,LaLiga,Valencia,Villarreal,1,1,D,33.7,27.8,38.5,A,1
+250009,10,2024-08-31,EPL,West Ham,Man City,1,3,A,0.7,13.0,86.3,A,0
+250009,11,2024-08-31,LaLiga,Ath Bilbao,Ath Madrid,0,1,A,31.5,28.7,39.8,A,0
+250009,12,2024-08-31,EPL,Arsenal,Brighton,1,1,D,88.0,13.0,-1.0,H,1
+250009,13,2024-08-31,EPL,Brentford,Southampton,3,1,H,67.5,18.2,14.4,H,0
+250009,14,2024-08-31,EPL,Everton,Bournemouth,2,3,A,34.6,28.0,37.4,A,0
+250010,1,2024-08-31,LaLiga,Leganes,Mallorca,0,1,A,38.2,31.9,29.9,H,1
+250010,2,2024-08-31,LaLiga,Valencia,Villarreal,1,1,D,33.7,27.8,38.5,A,1
+250010,3,2024-08-31,EPL,West Ham,Man City,1,3,A,0.7,13.0,86.3,A,0
+250010,4,2024-08-31,LaLiga,Ath Bilbao,Ath Madrid,0,1,A,31.5,28.7,39.8,A,0
+250010,5,2024-08-31,EPL,Arsenal,Brighton,1,1,D,88.0,13.0,-1.0,H,1
+250010,6,2024-08-31,EPL,Brentford,Southampton,3,1,H,67.5,18.2,14.4,H,0
+250010,7,2024-08-31,EPL,Everton,Bournemouth,2,3,A,34.6,28.0,37.4,A,0
+250010,8,2024-08-31,EPL,Leicester,Aston Villa,1,2,A,13.0,17.7,69.3,A,0
+250010,9,2024-09-02,LaLiga,Cadiz,Betis,0,2,A,31.7,31.7,36.6,A,0
+250010,10,2024-09-03,EPL,Crystal Palace,Luton,1,1,D,66.6,18.4,15.0,H,1
+250010,11,2024-09-03,EPL,Man United,Everton,2,0,H,63.6,19.4,17.0,H,0
+250010,12,2024-09-03,EPL,Wolves,Fulham,2,1,H,37.8,27.8,34.4,H,0
+250010,13,2024-09-03,EPL,Bournemouth,Sheffield United,2,2,D,88.0,13.4,-1.4,H,1
+250010,14,2024-09-03,LaLiga,Valencia,Getafe,1,0,H,47.6,29.7,22.7,H,0
+250011,1,2024-08-31,EPL,Leicester,Aston Villa,1,2,A,13.0,17.7,69.3,A,0
+250011,2,2024-09-02,LaLiga,Cadiz,Betis,0,2,A,31.7,31.7,36.6,A,0
+250011,3,2024-09-03,EPL,Crystal Palace,Luton,1,1,D,66.6,18.4,15.0,H,1
+250011,4,2024-09-03,EPL,Man United,Everton,2,0,H,63.6,19.4,17.0,H,0
+250011,5,2024-09-03,EPL,Wolves,Fulham,2,1,H,37.8,27.8,34.4,H,0
+250011,6,2024-09-03,EPL,Bournemouth,Sheffield United,2,2,D,88.0,13.4,-1.4,H,1
+250011,7,2024-09-03,LaLiga,Valencia,Getafe,1,0,H,47.6,29.7,22.7,H,0
+250011,8,2024-09-03,LaLiga,Cadiz,Ath Madrid,2,0,H,12.7,19.5,67.8,A,1
+250011,9,2024-09-03,LaLiga,Granada,Sociedad,2,3,A,15.3,21.3,63.4,A,0
+250011,10,2024-09-03,LaLiga,Girona,Osasuna,2,0,H,73.8,17.1,9.1,H,0
+250011,11,2024-09-03,EPL,Arsenal,Brentford,2,1,H,88.0,10.2,1.8,H,0
+250011,12,2024-09-11,EPL,Crystal Palace,Fulham,0,2,A,35.3,27.3,37.4,A,0
+250011,13,2024-09-11,EPL,Brentford,Bournemouth,3,2,H,37.9,27.1,35.1,H,0
+250011,14,2024-09-11,EPL,West Ham,Everton,0,0,D,44.2,27.9,27.9,H,1
+250012,1,2024-09-03,LaLiga,Cadiz,Ath Madrid,2,0,H,12.7,19.5,67.8,A,1
+250012,2,2024-09-03,LaLiga,Granada,Sociedad,2,3,A,15.3,21.3,63.4,A,0
+250012,3,2024-09-03,LaLiga,Girona,Osasuna,2,0,H,73.8,17.1,9.1,H,0
+250012,4,2024-09-03,EPL,Arsenal,Brentford,2,1,H,88.0,10.2,1.8,H,0
+250012,5,2024-09-11,EPL,Crystal Palace,Fulham,0,2,A,35.3,27.3,37.4,A,0
+250012,6,2024-09-11,EPL,Brentford,Bournemouth,3,2,H,37.9,27.1,35.1,H,0
+250012,7,2024-09-11,EPL,West Ham,Everton,0,0,D,44.2,27.9,27.9,H,1
+250012,8,2024-09-11,EPL,Brighton,Man City,2,1,H,15.0,16.8,68.2,A,1
+250012,9,2024-09-11,LaLiga,Real Madrid,Osasuna,4,0,H,88.0,10.2,1.8,H,0
+250012,10,2024-09-11,EPL,Liverpool,Aston Villa,2,0,H,84.0,13.6,2.4,H,0
+250012,11,2024-09-11,LaLiga,Villarreal,Alaves,3,0,H,73.5,17.9,8.6,H,0
+250012,12,2024-09-11,LaLiga,Leganes,Sevilla,1,0,H,33.0,29.7,37.3,A,1
+250012,13,2024-09-11,EPL,Wolves,Southampton,2,0,H,49.5,25.2,25.2,H,0
+250012,14,2024-09-12,LaLiga,Getafe,Espanol,1,0,H,66.0,23.0,11.0,H,0
+250013,1,2024-09-11,EPL,Brighton,Man City,2,1,H,15.0,16.8,68.2,A,1
+250013,2,2024-09-11,LaLiga,Real Madrid,Osasuna,4,0,H,88.0,10.2,1.8,H,0
+250013,3,2024-09-11,EPL,Liverpool,Aston Villa,2,0,H,84.0,13.6,2.4,H,0
+250013,4,2024-09-11,LaLiga,Villarreal,Alaves,3,0,H,73.5,17.9,8.6,H,0
+250013,5,2024-09-11,LaLiga,Leganes,Sevilla,1,0,H,33.0,29.7,37.3,A,1
+250013,6,2024-09-11,EPL,Wolves,Southampton,2,0,H,49.5,25.2,25.2,H,0
+250013,7,2024-09-12,LaLiga,Getafe,Espanol,1,0,H,66.0,23.0,11.0,H,0
+250013,8,2024-09-12,EPL,West Ham,Wolves,2,1,H,62.7,18.3,19.0,H,0
+250013,9,2024-09-13,LaLiga,Betis,Leganes,2,0,H,73.7,19.4,7.0,H,0
+250013,10,2024-09-14,LaLiga,Sociedad,Real Madrid,0,2,A,11.7,18.0,70.2,A,0
+250013,11,2024-09-14,LaLiga,Mallorca,Villarreal,1,2,A,38.9,28.0,33.1,H,1
+250013,12,2024-09-14,LaLiga,Sevilla,Getafe,1,0,H,43.0,31.5,25.5,H,0
+250013,13,2024-09-14,EPL,Liverpool,Nott'm Forest,0,1,A,88.0,10.9,1.1,H,1
+250013,14,2024-09-14,EPL,Southampton,Man United,0,3,A,13.0,17.7,69.3,A,0
+250014,1,2024-09-12,EPL,West Ham,Wolves,2,1,H,62.7,18.3,19.0,H,0
+250014,2,2024-09-13,LaLiga,Betis,Leganes,2,0,H,73.7,19.4,7.0,H,0
+250014,3,2024-09-14,LaLiga,Sociedad,Real Madrid,0,2,A,11.7,18.0,70.2,A,0
+250014,4,2024-09-14,LaLiga,Mallorca,Villarreal,1,2,A,38.9,28.0,33.1,H,1
+250014,5,2024-09-14,LaLiga,Sevilla,Getafe,1,0,H,43.0,31.5,25.5,H,0
+250014,6,2024-09-14,EPL,Liverpool,Nott'm Forest,0,1,A,88.0,10.9,1.1,H,1
+250014,7,2024-09-14,EPL,Southampton,Man United,0,3,A,13.0,17.7,69.3,A,0
+250014,8,2024-09-14,EPL,Man City,Brentford,2,1,H,88.0,8.9,3.1,H,0
+250014,9,2024-09-14,EPL,Brighton,Ipswich,0,0,D,85.6,14.2,0.2,H,1
+250014,10,2024-09-14,EPL,Bournemouth,Chelsea,0,1,A,27.8,24.9,47.3,A,0
+250014,11,2024-09-14,EPL,Aston Villa,Everton,3,2,H,78.7,16.9,4.4,H,0
+250014,12,2024-09-14,LaLiga,Espanol,Alaves,3,2,H,36.2,29.8,34.0,H,0
+250014,13,2024-09-14,EPL,Crystal Palace,Leicester,2,2,D,73.5,17.9,8.6,H,1
+250014,14,2024-09-14,EPL,Fulham,West Ham,1,1,D,39.6,29.0,31.4,H,1
+250015,1,2024-09-14,EPL,Man City,Brentford,2,1,H,88.0,8.9,3.1,H,0
+250015,2,2024-09-14,EPL,Brighton,Ipswich,0,0,D,85.6,14.2,0.2,H,1
+250015,3,2024-09-14,EPL,Bournemouth,Chelsea,0,1,A,27.8,24.9,47.3,A,0
+250015,4,2024-09-14,EPL,Aston Villa,Everton,3,2,H,78.7,16.9,4.4,H,0
+250015,5,2024-09-14,LaLiga,Espanol,Alaves,3,2,H,36.2,29.8,34.0,H,0
+250015,6,2024-09-14,EPL,Crystal Palace,Leicester,2,2,D,73.5,17.9,8.6,H,1
+250015,7,2024-09-14,EPL,Fulham,West Ham,1,1,D,39.6,29.0,31.4,H,1
+250015,8,2024-09-15,LaLiga,Ath Madrid,Valencia,3,0,H,88.0,15.6,-3.6,H,0
+250015,9,2024-09-15,EPL,Wolves,Newcastle,1,2,A,27.9,27.1,45.1,A,0
+250015,10,2024-09-15,LaLiga,Celta,Valladolid,3,1,H,71.5,19.1,9.4,H,0
+250015,11,2024-09-15,LaLiga,Las Palmas,Ath Bilbao,2,3,A,24.9,27.8,47.3,A,0
+250015,12,2024-09-15,EPL,Tottenham,Arsenal,0,1,A,31.6,27.1,41.3,A,0
+250015,13,2024-09-15,LaLiga,Girona,Barcelona,1,4,A,15.6,18.7,65.7,A,0
+250015,14,2024-09-16,LaLiga,Vallecano,Osasuna,3,1,H,46.0,30.4,23.6,H,0
+250016,1,2024-09-15,LaLiga,Ath Madrid,Valencia,3,0,H,88.0,15.6,-3.6,H,0
+250016,2,2024-09-15,EPL,Wolves,Newcastle,1,2,A,27.9,27.1,45.1,A,0
+250016,3,2024-09-15,LaLiga,Celta,Valladolid,3,1,H,71.5,19.1,9.4,H,0
+250016,4,2024-09-15,LaLiga,Las Palmas,Ath Bilbao,2,3,A,24.9,27.8,47.3,A,0
+250016,5,2024-09-15,EPL,Tottenham,Arsenal,0,1,A,31.6,27.1,41.3,A,0
+250016,6,2024-09-15,LaLiga,Girona,Barcelona,1,4,A,15.6,18.7,65.7,A,0
+250016,7,2024-09-16,LaLiga,Vallecano,Osasuna,3,1,H,46.0,30.4,23.6,H,0
+250016,8,2024-09-17,LaLiga,Mallorca,Sociedad,1,0,H,33.1,34.9,32.0,D,1
+250016,9,2024-09-18,LaLiga,Betis,Getafe,2,1,H,49.5,31.5,18.9,H,0
+250016,10,2024-09-19,LaLiga,Leganes,Ath Bilbao,0,2,A,25.0,29.3,45.7,A,0
+250016,11,2024-09-20,LaLiga,Alaves,Sevilla,2,1,H,44.0,30.5,25.5,H,0
+250016,12,2024-09-21,EPL,Liverpool,Bournemouth,3,0,H,88.0,11.5,0.5,H,0
+250016,13,2024-09-21,EPL,Crystal Palace,Man United,0,0,D,33.1,25.4,41.5,A,1
+250016,14,2024-09-21,EPL,Tottenham,Brentford,3,1,H,76.9,15.9,7.3,H,0
+250017,1,2024-09-17,LaLiga,Mallorca,Sociedad,1,0,H,33.1,34.9,32.0,D,1
+250017,2,2024-09-18,LaLiga,Betis,Getafe,2,1,H,49.5,31.5,18.9,H,0
+250017,3,2024-09-19,LaLiga,Leganes,Ath Bilbao,0,2,A,25.0,29.3,45.7,A,0
+250017,4,2024-09-20,LaLiga,Alaves,Sevilla,2,1,H,44.0,30.5,25.5,H,0
+250017,5,2024-09-21,EPL,Liverpool,Bournemouth,3,0,H,88.0,11.5,0.5,H,0
+250017,6,2024-09-21,EPL,Crystal Palace,Man United,0,0,D,33.1,25.4,41.5,A,1
+250017,7,2024-09-21,EPL,Tottenham,Brentford,3,1,H,76.9,15.9,7.3,H,0
+250017,8,2024-09-21,EPL,Southampton,Ipswich,1,1,D,42.6,27.4,30.0,H,1
+250017,9,2024-09-21,EPL,Leicester,Everton,1,1,D,38.9,28.0,33.1,H,1
+250017,10,2024-09-21,EPL,Fulham,Newcastle,3,1,H,31.9,28.2,39.9,A,1
+250017,11,2024-09-21,EPL,Aston Villa,Wolves,3,1,H,74.7,16.8,8.5,H,0
+250017,12,2024-09-21,LaLiga,Osasuna,Las Palmas,2,1,H,49.7,27.8,22.5,H,0
+250017,13,2024-09-21,LaLiga,Valladolid,Sociedad,0,0,D,24.6,31.9,43.5,A,1
+250017,14,2024-09-21,LaLiga,Valencia,Girona,2,0,H,33.1,28.9,38.1,A,1
+250018,1,2024-09-21,EPL,Southampton,Ipswich,1,1,D,42.6,27.4,30.0,H,1
+250018,2,2024-09-21,EPL,Leicester,Everton,1,1,D,38.9,28.0,33.1,H,1
+250018,3,2024-09-21,EPL,Fulham,Newcastle,3,1,H,31.9,28.2,39.9,A,1
+250018,4,2024-09-21,EPL,Aston Villa,Wolves,3,1,H,74.7,16.8,8.5,H,0
+250018,5,2024-09-21,LaLiga,Osasuna,Las Palmas,2,1,H,49.7,27.8,22.5,H,0
+250018,6,2024-09-21,LaLiga,Valladolid,Sociedad,0,0,D,24.6,31.9,43.5,A,1
+250018,7,2024-09-21,LaLiga,Valencia,Girona,2,0,H,33.1,28.9,38.1,A,1
+250018,8,2024-09-21,LaLiga,Real Madrid,Espanol,4,1,H,88.0,10.2,1.8,H,0
+250018,9,2024-09-21,EPL,West Ham,Chelsea,0,3,A,26.5,24.5,49.0,A,0
+250018,10,2024-09-22,EPL,Brighton,Nott'm Forest,2,2,D,68.1,19.1,12.8,H,1
+250018,11,2024-09-22,LaLiga,Vallecano,Ath Madrid,1,1,D,12.8,21.0,66.2,A,1
+250018,12,2024-09-22,LaLiga,Villarreal,Barcelona,1,5,A,17.6,18.3,64.1,A,0
+250018,13,2024-09-22,EPL,Man City,Arsenal,2,2,D,65.8,19.7,14.5,H,1
+250018,14,2024-09-22,LaLiga,Getafe,Leganes,1,1,D,46.2,33.8,19.9,H,1
+250019,1,2024-09-21,LaLiga,Real Madrid,Espanol,4,1,H,88.0,10.2,1.8,H,0
+250019,2,2024-09-21,EPL,West Ham,Chelsea,0,3,A,26.5,24.5,49.0,A,0
+250019,3,2024-09-22,EPL,Brighton,Nott'm Forest,2,2,D,68.1,19.1,12.8,H,1
+250019,4,2024-09-22,LaLiga,Vallecano,Ath Madrid,1,1,D,12.8,21.0,66.2,A,1
+250019,5,2024-09-22,LaLiga,Villarreal,Barcelona,1,5,A,17.6,18.3,64.1,A,0
+250019,6,2024-09-22,EPL,Man City,Arsenal,2,2,D,65.8,19.7,14.5,H,1
+250019,7,2024-09-22,LaLiga,Getafe,Leganes,1,1,D,46.2,33.8,19.9,H,1
+250019,8,2024-09-22,LaLiga,Ath Bilbao,Celta,3,1,H,70.1,19.3,10.6,H,0
+250019,9,2024-09-23,LaLiga,Betis,Mallorca,1,2,A,64.1,21.6,14.3,H,1
+250019,10,2024-09-24,LaLiga,Sevilla,Valladolid,2,1,H,72.1,18.8,9.1,H,0
+250019,11,2024-09-24,LaLiga,Valencia,Osasuna,0,0,D,46.6,30.1,23.3,H,1
+250019,12,2024-09-24,LaLiga,Real Madrid,Alaves,3,2,H,88.0,10.8,1.2,H,0
+250019,13,2024-09-25,LaLiga,Girona,Vallecano,0,0,D,67.5,18.9,13.6,H,1
+250019,14,2024-09-25,LaLiga,Barcelona,Getafe,1,0,H,88.0,11.3,0.7,H,0
+250020,1,2024-09-22,LaLiga,Ath Bilbao,Celta,3,1,H,70.1,19.3,10.6,H,0
+250020,2,2024-09-23,LaLiga,Betis,Mallorca,1,2,A,64.1,21.6,14.3,H,1
+250020,3,2024-09-24,LaLiga,Sevilla,Valladolid,2,1,H,72.1,18.8,9.1,H,0
+250020,4,2024-09-24,LaLiga,Valencia,Osasuna,0,0,D,46.6,30.1,23.3,H,1
+250020,5,2024-09-24,LaLiga,Real Madrid,Alaves,3,2,H,88.0,10.8,1.2,H,0
+250020,6,2024-09-25,LaLiga,Girona,Vallecano,0,0,D,67.5,18.9,13.6,H,1
+250020,7,2024-09-25,LaLiga,Barcelona,Getafe,1,0,H,88.0,11.3,0.7,H,0
+250020,8,2024-09-26,LaLiga,Celta,Ath Madrid,0,1,A,24.9,25.6,49.5,A,0
+250020,9,2024-09-26,LaLiga,Las Palmas,Betis,1,1,D,30.3,30.3,39.4,A,1
+250020,10,2024-09-26,LaLiga,Espanol,Villarreal,1,2,A,29.1,27.0,43.9,A,0
+250020,11,2024-09-27,LaLiga,Valladolid,Mallorca,1,2,A,31.5,32.6,35.9,A,0
+250020,12,2024-09-28,EPL,Nott'm Forest,Fulham,0,1,A,39.8,28.7,31.5,H,1
+250020,13,2024-09-28,LaLiga,Vallecano,Leganes,1,1,D,49.7,31.5,18.9,H,1
+250020,14,2024-09-28,EPL,Newcastle,Man City,1,1,D,8.8,16.6,74.7,A,1
+250021,1,2024-09-26,LaLiga,Celta,Ath Madrid,0,1,A,24.9,25.6,49.5,A,0
+250021,2,2024-09-26,LaLiga,Las Palmas,Betis,1,1,D,30.3,30.3,39.4,A,1
+250021,3,2024-09-26,LaLiga,Espanol,Villarreal,1,2,A,29.1,27.0,43.9,A,0
+250021,4,2024-09-27,LaLiga,Valladolid,Mallorca,1,2,A,31.5,32.6,35.9,A,0
+250021,5,2024-09-28,EPL,Nott'm Forest,Fulham,0,1,A,39.8,28.7,31.5,H,1
+250021,6,2024-09-28,LaLiga,Vallecano,Leganes,1,1,D,49.7,31.5,18.9,H,1
+250021,7,2024-09-28,EPL,Newcastle,Man City,1,1,D,8.8,16.6,74.7,A,1
+250021,8,2024-09-28,EPL,Chelsea,Brighton,4,2,H,68.5,16.9,14.5,H,0
+250021,9,2024-09-28,EPL,Arsenal,Leicester,4,2,H,88.0,9.0,3.0,H,0
+250021,10,2024-09-28,EPL,Brentford,West Ham,1,1,D,43.2,27.1,29.7,H,1
+250021,11,2024-09-28,EPL,Everton,Crystal Palace,2,1,H,35.2,28.8,36.1,A,1
+250021,12,2024-09-28,LaLiga,Osasuna,Barcelona,4,2,H,2.5,15.8,81.7,A,1
+250021,13,2024-09-28,LaLiga,Getafe,Alaves,2,0,H,36.9,32.7,30.4,H,0
+250021,14,2024-09-28,LaLiga,Sociedad,Valencia,3,0,H,63.8,21.8,14.4,H,0
+250022,1,2024-09-28,EPL,Chelsea,Brighton,4,2,H,68.5,16.9,14.5,H,0
+250022,2,2024-09-28,EPL,Arsenal,Leicester,4,2,H,88.0,9.0,3.0,H,0
+250022,3,2024-09-28,EPL,Brentford,West Ham,1,1,D,43.2,27.1,29.7,H,1
+250022,4,2024-09-28,EPL,Everton,Crystal Palace,2,1,H,35.2,28.8,36.1,A,1
+250022,5,2024-09-28,LaLiga,Osasuna,Barcelona,4,2,H,2.5,15.8,81.7,A,1
+250022,6,2024-09-28,LaLiga,Getafe,Alaves,2,0,H,36.9,32.7,30.4,H,0
+250022,7,2024-09-28,LaLiga,Sociedad,Valencia,3,0,H,63.8,21.8,14.4,H,0
+250022,8,2024-09-28,EPL,Wolves,Liverpool,1,2,A,-0.4,12.4,88.0,A,0
+250022,9,2024-09-29,LaLiga,Ath Bilbao,Sevilla,1,1,D,69.5,19.1,11.4,H,1
+250022,10,2024-09-29,LaLiga,Betis,Espanol,1,0,H,70.5,20.5,8.9,H,0
+250022,11,2024-09-29,EPL,Ipswich,Aston Villa,2,2,D,17.2,18.9,63.9,A,1
+250022,12,2024-09-29,EPL,Man United,Tottenham,0,3,A,40.3,25.3,34.4,H,1
+250022,13,2024-09-29,LaLiga,Celta,Girona,1,1,D,44.9,26.2,29.0,H,1
+250022,14,2024-09-29,LaLiga,Ath Madrid,Real Madrid,1,1,D,33.7,28.6,37.7,A,1
+250023,1,2024-09-28,EPL,Wolves,Liverpool,1,2,A,-0.4,12.4,88.0,A,0
+250023,2,2024-09-29,LaLiga,Ath Bilbao,Sevilla,1,1,D,69.5,19.1,11.4,H,1
+250023,3,2024-09-29,LaLiga,Betis,Espanol,1,0,H,70.5,20.5,8.9,H,0
+250023,4,2024-09-29,EPL,Ipswich,Aston Villa,2,2,D,17.2,18.9,63.9,A,1
+250023,5,2024-09-29,EPL,Man United,Tottenham,0,3,A,40.3,25.3,34.4,H,1
+250023,6,2024-09-29,LaLiga,Celta,Girona,1,1,D,44.9,26.2,29.0,H,1
+250023,7,2024-09-29,LaLiga,Ath Madrid,Real Madrid,1,1,D,33.7,28.6,37.7,A,1
+250023,8,2024-09-30,LaLiga,Villarreal,Las Palmas,3,1,H,80.2,16.1,3.6,H,0
+250023,9,2024-09-30,EPL,Bournemouth,Southampton,3,1,H,72.2,17.4,10.4,H,0
+250023,10,2024-10-02,EPL,Fulham,Bournemouth,3,1,H,39.5,26.9,33.6,H,0
+250023,11,2024-10-02,LaLiga,Real Madrid,Girona,4,0,H,81.6,14.2,4.2,H,0
+250023,12,2024-10-02,LaLiga,Alaves,Villarreal,1,1,D,43.2,28.0,28.8,H,1
+250023,13,2024-10-02,LaLiga,Sociedad,Osasuna,0,1,A,64.2,22.3,13.6,H,1
+250023,14,2024-10-02,EPL,Wolves,Brentford,0,2,A,45.4,26.5,28.1,H,1
+250024,1,2024-09-30,LaLiga,Villarreal,Las Palmas,3,1,H,80.2,16.1,3.6,H,0
+250024,2,2024-09-30,EPL,Bournemouth,Southampton,3,1,H,72.2,17.4,10.4,H,0
+250024,3,2024-10-02,EPL,Fulham,Bournemouth,3,1,H,39.5,26.9,33.6,H,0
+250024,4,2024-10-02,LaLiga,Real Madrid,Girona,4,0,H,81.6,14.2,4.2,H,0
+250024,5,2024-10-02,LaLiga,Alaves,Villarreal,1,1,D,43.2,28.0,28.8,H,1
+250024,6,2024-10-02,LaLiga,Sociedad,Osasuna,0,1,A,64.2,22.3,13.6,H,1
+250024,7,2024-10-02,EPL,Wolves,Brentford,0,2,A,45.4,26.5,28.1,H,1
+250024,8,2024-10-02,EPL,Tottenham,Brighton,2,1,H,65.7,16.9,17.4,H,0
+250024,9,2024-10-02,EPL,Man City,Everton,2,0,H,88.0,8.9,3.1,H,0
+250024,10,2024-10-02,EPL,Liverpool,Burnley,3,1,H,88.0,9.0,3.0,H,0
+250024,11,2024-10-02,EPL,Luton,Sheffield United,1,3,A,68.1,19.1,12.8,H,1
+250024,12,2024-10-02,LaLiga,Las Palmas,Valencia,2,0,H,34.9,32.0,33.1,H,0
+250024,13,2024-10-02,EPL,Nott'm Forest,Newcastle,2,3,A,28.7,25.2,46.1,A,0
+250024,14,2024-10-03,LaLiga,Real Madrid,Celta,4,0,H,88.0,11.8,0.2,H,0
+250025,1,2024-10-02,EPL,Tottenham,Brighton,2,1,H,65.7,16.9,17.4,H,0
+250025,2,2024-10-02,EPL,Man City,Everton,2,0,H,88.0,8.9,3.1,H,0
+250025,3,2024-10-02,EPL,Liverpool,Burnley,3,1,H,88.0,9.0,3.0,H,0
+250025,4,2024-10-02,EPL,Luton,Sheffield United,1,3,A,68.1,19.1,12.8,H,1
+250025,5,2024-10-02,LaLiga,Las Palmas,Valencia,2,0,H,34.9,32.0,33.1,H,0
+250025,6,2024-10-02,EPL,Nott'm Forest,Newcastle,2,3,A,28.7,25.2,46.1,A,0
+250025,7,2024-10-03,LaLiga,Real Madrid,Celta,4,0,H,88.0,11.8,0.2,H,0
+250025,8,2024-10-03,EPL,Aston Villa,Tottenham,0,4,A,39.8,23.7,36.5,H,1
+250025,9,2024-10-03,EPL,Brighton,Nott'm Forest,1,0,H,65.8,17.8,16.4,H,0
+250025,10,2024-10-03,EPL,West Ham,Burnley,2,2,D,70.7,17.7,11.6,H,1
+250025,11,2024-10-03,LaLiga,Las Palmas,Ath Bilbao,0,2,A,23.7,28.8,47.5,A,0
+250025,12,2024-10-03,LaLiga,Alaves,Vallecano,1,0,H,44.1,30.6,25.3,H,0
+250025,13,2024-10-03,EPL,Liverpool,Man City,1,1,D,31.6,25.3,43.1,A,1
+250025,14,2024-10-03,LaLiga,Betis,Villarreal,2,3,A,45.7,26.8,27.5,H,1
+250026,1,2024-10-03,EPL,Aston Villa,Tottenham,0,4,A,39.8,23.7,36.5,H,1
+250026,2,2024-10-03,EPL,Brighton,Nott'm Forest,1,0,H,65.8,17.8,16.4,H,0
+250026,3,2024-10-03,EPL,West Ham,Burnley,2,2,D,70.7,17.7,11.6,H,1
+250026,4,2024-10-03,LaLiga,Las Palmas,Ath Bilbao,0,2,A,23.7,28.8,47.5,A,0
+250026,5,2024-10-03,LaLiga,Alaves,Vallecano,1,0,H,44.1,30.6,25.3,H,0
+250026,6,2024-10-03,EPL,Liverpool,Man City,1,1,D,31.6,25.3,43.1,A,1
+250026,7,2024-10-03,LaLiga,Betis,Villarreal,2,3,A,45.7,26.8,27.5,H,1
+250026,8,2024-10-05,LaLiga,Alaves,Girona,2,2,D,27.2,26.4,46.4,A,1
+250026,9,2024-10-11,EPL,Nott'm Forest,Newcastle,1,3,A,35.5,29.0,35.5,H,1
+250026,10,2024-10-11,LaLiga,Betis,Celta,2,2,D,48.5,27.8,23.7,H,1
+250026,11,2024-10-11,LaLiga,Mallorca,Ath Madrid,0,1,A,26.3,30.6,43.1,A,0
+250026,12,2024-10-11,LaLiga,Getafe,Girona,0,1,A,38.7,29.6,31.6,H,1
+250026,13,2024-10-11,LaLiga,Valladolid,Ath Bilbao,1,1,D,15.2,20.9,63.9,A,1
+250026,14,2024-10-11,LaLiga,Sociedad,Barcelona,1,0,H,11.3,17.2,71.4,A,1
+250027,1,2024-10-05,LaLiga,Alaves,Girona,2,2,D,27.2,26.4,46.4,A,1
+250027,2,2024-10-11,EPL,Nott'm Forest,Newcastle,1,3,A,35.5,29.0,35.5,H,1
+250027,3,2024-10-11,LaLiga,Betis,Celta,2,2,D,48.5,27.8,23.7,H,1
+250027,4,2024-10-11,LaLiga,Mallorca,Ath Madrid,0,1,A,26.3,30.6,43.1,A,0
+250027,5,2024-10-11,LaLiga,Getafe,Girona,0,1,A,38.7,29.6,31.6,H,1
+250027,6,2024-10-11,LaLiga,Valladolid,Ath Bilbao,1,1,D,15.2,20.9,63.9,A,1
+250027,7,2024-10-11,LaLiga,Sociedad,Barcelona,1,0,H,11.3,17.2,71.4,A,1
+250027,8,2024-10-11,EPL,Chelsea,Arsenal,1,1,D,35.1,27.8,37.1,A,1
+250027,9,2024-10-11,EPL,Tottenham,Ipswich,1,2,A,88.0,10.8,1.2,H,1
+250027,10,2024-10-11,EPL,Man United,Leicester,3,0,H,85.4,12.9,1.7,H,0
+250027,11,2024-10-18,LaLiga,Alaves,Valladolid,2,3,A,73.7,18.4,8.0,H,1
+250027,12,2024-10-19,LaLiga,Girona,Sociedad,0,1,A,39.4,27.8,32.8,H,1
+250027,13,2024-10-19,LaLiga,Celta,Real Madrid,1,2,A,10.4,15.8,73.9,A,0
+250027,14,2024-10-19,EPL,Tottenham,West Ham,4,1,H,78.8,14.2,7.0,H,0
+250028,1,2024-10-11,EPL,Chelsea,Arsenal,1,1,D,35.1,27.8,37.1,A,1
+250028,2,2024-10-11,EPL,Tottenham,Ipswich,1,2,A,88.0,10.8,1.2,H,1
+250028,3,2024-10-11,EPL,Man United,Leicester,3,0,H,85.4,12.9,1.7,H,0
+250028,4,2024-10-18,LaLiga,Alaves,Valladolid,2,3,A,73.7,18.4,8.0,H,1
+250028,5,2024-10-19,LaLiga,Girona,Sociedad,0,1,A,39.4,27.8,32.8,H,1
+250028,6,2024-10-19,LaLiga,Celta,Real Madrid,1,2,A,10.4,15.8,73.9,A,0
+250028,7,2024-10-19,EPL,Tottenham,West Ham,4,1,H,78.8,14.2,7.0,H,0
+250028,8,2024-10-19,EPL,Fulham,Aston Villa,1,3,A,38.8,27.2,34.0,H,1
+250028,9,2024-10-19,EPL,Ipswich,Everton,0,2,A,39.8,28.7,31.5,H,1
+250028,10,2024-10-19,EPL,Man United,Brentford,2,1,H,70.1,17.0,12.8,H,0
+250028,11,2024-10-19,EPL,Bournemouth,Arsenal,2,0,H,10.6,18.1,71.3,A,1
+250028,12,2024-10-19,LaLiga,Ath Bilbao,Espanol,4,1,H,81.2,16.8,1.9,H,0
+250028,13,2024-10-19,EPL,Southampton,Leicester,2,3,A,41.3,27.1,31.6,H,1
+250028,14,2024-10-19,LaLiga,Osasuna,Betis,1,2,A,37.6,27.6,34.8,H,1
+250029,1,2024-10-19,EPL,Fulham,Aston Villa,1,3,A,38.8,27.2,34.0,H,1
+250029,2,2024-10-19,EPL,Ipswich,Everton,0,2,A,39.8,28.7,31.5,H,1
+250029,3,2024-10-19,EPL,Man United,Brentford,2,1,H,70.1,17.0,12.8,H,0
+250029,4,2024-10-19,EPL,Bournemouth,Arsenal,2,0,H,10.6,18.1,71.3,A,1
+250029,5,2024-10-19,LaLiga,Ath Bilbao,Espanol,4,1,H,81.2,16.8,1.9,H,0
+250029,6,2024-10-19,EPL,Southampton,Leicester,2,3,A,41.3,27.1,31.6,H,1
+250029,7,2024-10-19,LaLiga,Osasuna,Betis,1,2,A,37.6,27.6,34.8,H,1
+250029,8,2024-10-19,EPL,Newcastle,Brighton,0,1,A,48.3,25.5,26.2,H,1
+250029,9,2024-10-20,LaLiga,Mallorca,Vallecano,1,0,H,46.0,30.4,23.6,H,0
+250029,10,2024-10-20,EPL,Liverpool,Chelsea,2,1,H,72.7,17.2,10.1,H,0
+250029,11,2024-10-20,LaLiga,Barcelona,Sevilla,5,1,H,88.0,12.2,-0.2,H,0
+250029,12,2024-10-20,EPL,Wolves,Man City,1,2,A,0.0,12.0,88.0,A,0
+250029,13,2024-10-20,LaLiga,Ath Madrid,Leganes,3,1,H,88.0,14.9,-2.9,H,0
+250029,14,2024-10-20,LaLiga,Villarreal,Getafe,1,1,D,70.5,18.6,10.9,H,1
+250030,1,2024-10-19,EPL,Newcastle,Brighton,0,1,A,48.3,25.5,26.2,H,1
+250030,2,2024-10-20,LaLiga,Mallorca,Vallecano,1,0,H,46.0,30.4,23.6,H,0
+250030,3,2024-10-20,EPL,Liverpool,Chelsea,2,1,H,72.7,17.2,10.1,H,0
+250030,4,2024-10-20,LaLiga,Barcelona,Sevilla,5,1,H,88.0,12.2,-0.2,H,0
+250030,5,2024-10-20,EPL,Wolves,Man City,1,2,A,0.0,12.0,88.0,A,0
+250030,6,2024-10-20,LaLiga,Ath Madrid,Leganes,3,1,H,88.0,14.9,-2.9,H,0
+250030,7,2024-10-20,LaLiga,Villarreal,Getafe,1,1,D,70.5,18.6,10.9,H,1
+250030,8,2024-10-21,EPL,Nott'm Forest,Crystal Palace,1,0,H,41.3,27.1,31.6,H,0
+250030,9,2024-10-21,LaLiga,Valencia,Las Palmas,2,3,A,72.6,18.6,8.8,H,1
+250030,10,2024-10-25,EPL,Leicester,Nott'm Forest,1,3,A,31.7,28.8,39.6,A,0
+250030,11,2024-10-25,LaLiga,Espanol,Sevilla,0,2,A,31.5,29.1,39.4,A,0
+250030,12,2024-10-26,EPL,Man City,Southampton,1,0,H,88.0,7.1,4.9,H,0
+250030,13,2024-10-26,EPL,Brentford,Ipswich,4,3,H,72.3,16.5,11.1,H,0
+250030,14,2024-10-26,EPL,Aston Villa,Bournemouth,1,1,D,63.7,18.1,18.1,H,1
+250031,1,2024-10-21,EPL,Nott'm Forest,Crystal Palace,1,0,H,41.3,27.1,31.6,H,0
+250031,2,2024-10-21,LaLiga,Valencia,Las Palmas,2,3,A,72.6,18.6,8.8,H,1
+250031,3,2024-10-25,EPL,Leicester,Nott'm Forest,1,3,A,31.7,28.8,39.6,A,0
+250031,4,2024-10-25,LaLiga,Espanol,Sevilla,0,2,A,31.5,29.1,39.4,A,0
+250031,5,2024-10-26,EPL,Man City,Southampton,1,0,H,88.0,7.1,4.9,H,0
+250031,6,2024-10-26,EPL,Brentford,Ipswich,4,3,H,72.3,16.5,11.1,H,0
+250031,7,2024-10-26,EPL,Aston Villa,Bournemouth,1,1,D,63.7,18.1,18.1,H,1
+250031,8,2024-10-26,EPL,Brighton,Wolves,2,2,D,72.7,15.7,11.6,H,1
+250031,9,2024-10-26,LaLiga,Las Palmas,Girona,1,0,H,33.1,28.0,38.9,A,1
+250031,10,2024-10-26,LaLiga,Real Madrid,Barcelona,0,4,A,47.5,23.2,29.3,H,1
+250031,11,2024-10-26,LaLiga,Vallecano,Alaves,1,0,H,42.2,30.6,27.1,H,0
+250031,12,2024-10-26,LaLiga,Valladolid,Villarreal,1,2,A,27.1,25.3,47.5,A,0
+250031,13,2024-10-26,EPL,Everton,Fulham,1,1,D,34.6,29.3,36.2,A,1
+250031,14,2024-10-27,EPL,Crystal Palace,Tottenham,1,0,H,17.3,17.8,64.9,A,1
+250032,1,2024-10-26,EPL,Brighton,Wolves,2,2,D,72.7,15.7,11.6,H,1
+250032,2,2024-10-26,LaLiga,Las Palmas,Girona,1,0,H,33.1,28.0,38.9,A,1
+250032,3,2024-10-26,LaLiga,Real Madrid,Barcelona,0,4,A,47.5,23.2,29.3,H,1
+250032,4,2024-10-26,LaLiga,Vallecano,Alaves,1,0,H,42.2,30.6,27.1,H,0
+250032,5,2024-10-26,LaLiga,Valladolid,Villarreal,1,2,A,27.1,25.3,47.5,A,0
+250032,6,2024-10-26,EPL,Everton,Fulham,1,1,D,34.6,29.3,36.2,A,1
+250032,7,2024-10-27,EPL,Crystal Palace,Tottenham,1,0,H,17.3,17.8,64.9,A,1
+250032,8,2024-10-27,LaLiga,Betis,Ath Madrid,1,0,H,30.7,28.0,41.3,A,1
+250032,9,2024-10-27,LaLiga,Getafe,Valencia,1,1,D,44.8,30.4,24.8,H,1
+250032,10,2024-10-27,LaLiga,Leganes,Celta,3,0,H,29.3,29.3,41.4,A,1
+250032,11,2024-10-27,EPL,Arsenal,Liverpool,2,2,D,38.0,29.2,32.8,H,1
+250032,12,2024-10-27,EPL,Chelsea,Newcastle,2,1,H,69.0,16.5,14.5,H,0
+250032,13,2024-10-27,LaLiga,Sociedad,Osasuna,0,2,A,68.1,19.9,12.1,H,1
+250032,14,2024-10-27,EPL,West Ham,Man United,2,1,H,33.1,25.4,41.5,A,1
+250033,1,2024-10-27,LaLiga,Betis,Ath Madrid,1,0,H,30.7,28.0,41.3,A,1
+250033,2,2024-10-27,LaLiga,Getafe,Valencia,1,1,D,44.8,30.4,24.8,H,1
+250033,3,2024-10-27,LaLiga,Leganes,Celta,3,0,H,29.3,29.3,41.4,A,1
+250033,4,2024-10-27,EPL,Arsenal,Liverpool,2,2,D,38.0,29.2,32.8,H,1
+250033,5,2024-10-27,EPL,Chelsea,Newcastle,2,1,H,69.0,16.5,14.5,H,0
+250033,6,2024-10-27,LaLiga,Sociedad,Osasuna,0,2,A,68.1,19.9,12.1,H,1
+250033,7,2024-10-27,EPL,West Ham,Man United,2,1,H,33.1,25.4,41.5,A,1
+250033,8,2024-10-28,LaLiga,Mallorca,Ath Bilbao,0,0,D,32.5,30.4,37.0,A,1
+250033,9,2024-11-02,LaLiga,Barcelona,Granada,3,3,D,88.0,9.5,2.5,H,1
+250033,10,2024-11-02,EPL,West Ham,Arsenal,0,6,A,5.8,16.5,77.7,A,0
+250033,11,2024-11-02,LaLiga,Sevilla,Ath Madrid,1,0,H,27.0,27.0,46.1,A,1
+250033,12,2024-11-02,LaLiga,Mallorca,Vallecano,2,1,H,40.9,31.4,27.7,H,0
+250033,13,2024-11-02,EPL,Aston Villa,Man United,1,2,A,44.1,25.3,30.6,H,1
+250033,14,2024-11-02,LaLiga,Getafe,Celta,3,2,H,43.1,30.6,26.3,H,0
+250034,1,2024-10-28,LaLiga,Mallorca,Ath Bilbao,0,0,D,32.5,30.4,37.0,A,1
+250034,2,2024-11-02,LaLiga,Barcelona,Granada,3,3,D,88.0,9.5,2.5,H,1
+250034,3,2024-11-02,EPL,West Ham,Arsenal,0,6,A,5.8,16.5,77.7,A,0
+250034,4,2024-11-02,LaLiga,Sevilla,Ath Madrid,1,0,H,27.0,27.0,46.1,A,1
+250034,5,2024-11-02,LaLiga,Mallorca,Vallecano,2,1,H,40.9,31.4,27.7,H,0
+250034,6,2024-11-02,EPL,Aston Villa,Man United,1,2,A,44.1,25.3,30.6,H,1
+250034,7,2024-11-02,LaLiga,Getafe,Celta,3,2,H,43.1,30.6,26.3,H,0
+250034,8,2024-11-03,LaLiga,Almeria,Sevilla,2,2,D,30.8,29.0,40.2,A,1
+250034,9,2024-11-03,EPL,Chelsea,Newcastle,3,2,H,49.8,23.8,26.4,H,0
+250034,10,2024-11-05,EPL,West Ham,Luton,3,1,H,65.7,16.9,17.4,H,0
+250034,11,2024-11-05,EPL,Everton,Sheffield United,1,0,H,84.6,14.8,0.6,H,0
+250034,12,2024-11-05,EPL,Wolves,Crystal Palace,1,3,A,33.0,27.1,39.9,A,0
+250034,13,2024-11-05,EPL,Newcastle,Brighton,1,1,D,75.3,14.9,9.8,H,1
+250034,14,2024-11-05,EPL,Bournemouth,Brentford,1,2,A,48.9,23.8,27.2,H,1
+250035,1,2024-11-03,LaLiga,Almeria,Sevilla,2,2,D,30.8,29.0,40.2,A,1
+250035,2,2024-11-03,EPL,Chelsea,Newcastle,3,2,H,49.8,23.8,26.4,H,0
+250035,3,2024-11-05,EPL,West Ham,Luton,3,1,H,65.7,16.9,17.4,H,0
+250035,4,2024-11-05,EPL,Everton,Sheffield United,1,0,H,84.6,14.8,0.6,H,0
+250035,5,2024-11-05,EPL,Wolves,Crystal Palace,1,3,A,33.0,27.1,39.9,A,0
+250035,6,2024-11-05,EPL,Newcastle,Brighton,1,1,D,75.3,14.9,9.8,H,1
+250035,7,2024-11-05,EPL,Bournemouth,Brentford,1,2,A,48.9,23.8,27.2,H,1
+250035,8,2024-11-05,EPL,Tottenham,Burnley,2,1,H,87.4,12.4,0.2,H,0
+250035,9,2024-11-05,LaLiga,Ath Bilbao,Osasuna,2,2,D,82.0,16.4,1.6,H,1
+250035,10,2024-11-05,LaLiga,Villarreal,Sevilla,3,2,H,64.5,17.7,17.8,H,0
+250035,11,2024-11-05,LaLiga,Mallorca,Las Palmas,1,0,H,72.5,20.5,7.1,H,0
+250035,12,2024-11-05,LaLiga,Granada,Real Madrid,0,4,A,6.9,15.5,77.6,A,0
+250035,13,2024-11-05,EPL,Nott'm Forest,Chelsea,2,3,A,27.8,24.9,47.3,A,0
+250035,14,2024-11-05,EPL,Fulham,Man City,0,4,A,1.8,10.2,88.0,A,0
+250036,1,2024-11-05,EPL,Tottenham,Burnley,2,1,H,87.4,12.4,0.2,H,0
+250036,2,2024-11-05,LaLiga,Ath Bilbao,Osasuna,2,2,D,82.0,16.4,1.6,H,1
+250036,3,2024-11-05,LaLiga,Villarreal,Sevilla,3,2,H,64.5,17.7,17.8,H,0
+250036,4,2024-11-05,LaLiga,Mallorca,Las Palmas,1,0,H,72.5,20.5,7.1,H,0
+250036,5,2024-11-05,LaLiga,Granada,Real Madrid,0,4,A,6.9,15.5,77.6,A,0
+250036,6,2024-11-05,EPL,Nott'm Forest,Chelsea,2,3,A,27.8,24.9,47.3,A,0
+250036,7,2024-11-05,EPL,Fulham,Man City,0,4,A,1.8,10.2,88.0,A,0
+250036,8,2024-11-22,LaLiga,Getafe,Valladolid,2,0,H,71.9,20.9,7.2,H,0
+250036,9,2024-11-23,LaLiga,Ath Madrid,Alaves,2,1,H,87.0,14.9,-1.9,H,0
+250036,10,2024-11-23,EPL,Bournemouth,Brighton,1,2,A,39.6,26.4,34.0,H,1
+250036,11,2024-11-23,LaLiga,Girona,Espanol,4,1,H,71.6,18.4,10.0,H,0
+250036,12,2024-11-23,LaLiga,Celta,Barcelona,2,2,D,11.1,16.5,72.3,A,1
+250036,13,2024-11-23,LaLiga,Las Palmas,Mallorca,2,3,A,33.7,31.4,34.9,A,0
+250036,14,2024-11-23,LaLiga,Valencia,Betis,4,2,H,31.7,31.7,36.6,A,1
+250037,1,2024-11-22,LaLiga,Getafe,Valladolid,2,0,H,71.9,20.9,7.2,H,0
+250037,2,2024-11-23,LaLiga,Ath Madrid,Alaves,2,1,H,87.0,14.9,-1.9,H,0
+250037,3,2024-11-23,EPL,Bournemouth,Brighton,1,2,A,39.6,26.4,34.0,H,1
+250037,4,2024-11-23,LaLiga,Girona,Espanol,4,1,H,71.6,18.4,10.0,H,0
+250037,5,2024-11-23,LaLiga,Celta,Barcelona,2,2,D,11.1,16.5,72.3,A,1
+250037,6,2024-11-23,LaLiga,Las Palmas,Mallorca,2,3,A,33.7,31.4,34.9,A,0
+250037,7,2024-11-23,LaLiga,Valencia,Betis,4,2,H,31.7,31.7,36.6,A,1
+250037,8,2024-11-23,EPL,Arsenal,Nott'm Forest,3,0,H,86.6,15.1,-1.7,H,0
+250037,9,2024-11-23,EPL,Aston Villa,Crystal Palace,2,2,D,73.5,17.9,8.6,H,1
+250037,10,2024-11-23,EPL,Fulham,Wolves,1,4,A,72.9,17.7,9.3,H,1
+250037,11,2024-11-23,EPL,Man City,Tottenham,0,4,A,80.2,15.0,4.8,H,1
+250037,12,2024-11-23,EPL,Everton,Brentford,0,0,D,38.9,28.0,33.1,H,1
+250037,13,2024-11-23,EPL,Leicester,Chelsea,1,2,A,3.1,14.9,82.0,A,0
+250037,14,2024-11-24,LaLiga,Sevilla,Vallecano,1,0,H,41.4,29.8,28.9,H,0
+250038,1,2024-11-23,EPL,Arsenal,Nott'm Forest,3,0,H,86.6,15.1,-1.7,H,0
+250038,2,2024-11-23,EPL,Aston Villa,Crystal Palace,2,2,D,73.5,17.9,8.6,H,1
+250038,3,2024-11-23,EPL,Fulham,Wolves,1,4,A,72.9,17.7,9.3,H,1
+250038,4,2024-11-23,EPL,Man City,Tottenham,0,4,A,80.2,15.0,4.8,H,1
+250038,5,2024-11-23,EPL,Everton,Brentford,0,0,D,38.9,28.0,33.1,H,1
+250038,6,2024-11-23,EPL,Leicester,Chelsea,1,2,A,3.1,14.9,82.0,A,0
+250038,7,2024-11-24,LaLiga,Sevilla,Vallecano,1,0,H,41.4,29.8,28.9,H,0
+250038,8,2024-11-24,EPL,Southampton,Liverpool,2,3,A,-0.4,12.4,88.0,A,0
+250038,9,2024-11-24,LaLiga,Osasuna,Villarreal,2,2,D,37.4,28.0,34.6,H,1
+250038,10,2024-11-24,LaLiga,Ath Bilbao,Sociedad,1,0,H,42.1,31.6,26.3,H,0
+250038,11,2024-11-24,LaLiga,Leganes,Real Madrid,0,3,A,1.2,15.7,83.1,A,0
+250038,12,2024-11-24,EPL,Ipswich,Man United,1,1,D,9.3,17.7,72.9,A,1
+250038,13,2024-11-25,EPL,Newcastle,West Ham,0,2,A,78.9,15.8,5.3,H,1
+250038,14,2024-11-29,LaLiga,Mallorca,Valencia,2,1,H,47.4,31.6,21.1,H,0
+250039,1,2024-11-24,EPL,Southampton,Liverpool,2,3,A,-0.4,12.4,88.0,A,0
+250039,2,2024-11-24,LaLiga,Osasuna,Villarreal,2,2,D,37.4,28.0,34.6,H,1
+250039,3,2024-11-24,LaLiga,Ath Bilbao,Sociedad,1,0,H,42.1,31.6,26.3,H,0
+250039,4,2024-11-24,LaLiga,Leganes,Real Madrid,0,3,A,1.2,15.7,83.1,A,0
+250039,5,2024-11-24,EPL,Ipswich,Man United,1,1,D,9.3,17.7,72.9,A,1
+250039,6,2024-11-25,EPL,Newcastle,West Ham,0,2,A,78.9,15.8,5.3,H,1
+250039,7,2024-11-29,LaLiga,Mallorca,Valencia,2,1,H,47.4,31.6,21.1,H,0
+250039,8,2024-11-29,EPL,Brighton,Southampton,1,1,D,85.6,14.2,0.2,H,1
+250039,9,2024-11-30,EPL,Brentford,Leicester,4,1,H,71.8,16.9,11.2,H,0
+250039,10,2024-11-30,LaLiga,Valladolid,Ath Madrid,0,5,A,5.9,16.9,77.2,A,0
+250039,11,2024-11-30,EPL,Wolves,Bournemouth,2,4,A,34.0,26.4,39.6,A,0
+250039,12,2024-11-30,EPL,Crystal Palace,Newcastle,1,1,D,32.6,26.3,41.1,A,1
+250039,13,2024-11-30,LaLiga,Espanol,Celta,3,1,H,28.8,28.0,43.2,A,1
+250039,14,2024-11-30,LaLiga,Alaves,Leganes,1,1,D,66.2,21.0,12.8,H,1
+250040,1,2024-11-29,EPL,Brighton,Southampton,1,1,D,85.6,14.2,0.2,H,1
+250040,2,2024-11-30,EPL,Brentford,Leicester,4,1,H,71.8,16.9,11.2,H,0
+250040,3,2024-11-30,LaLiga,Valladolid,Ath Madrid,0,5,A,5.9,16.9,77.2,A,0
+250040,4,2024-11-30,EPL,Wolves,Bournemouth,2,4,A,34.0,26.4,39.6,A,0
+250040,5,2024-11-30,EPL,Crystal Palace,Newcastle,1,1,D,32.6,26.3,41.1,A,1
+250040,6,2024-11-30,LaLiga,Espanol,Celta,3,1,H,28.8,28.0,43.2,A,1
+250040,7,2024-11-30,LaLiga,Alaves,Leganes,1,1,D,66.2,21.0,12.8,H,1
+250040,8,2024-11-30,EPL,West Ham,Arsenal,2,5,A,2.5,15.8,81.7,A,0
+250040,9,2024-11-30,EPL,Nott'm Forest,Ipswich,1,0,H,69.2,18.6,12.2,H,0
+250040,10,2024-11-30,LaLiga,Barcelona,Las Palmas,1,2,A,88.0,8.4,3.6,H,1
+250040,11,2024-12-01,EPL,Burnley,Luton,1,1,D,47.4,26.3,26.3,H,1
+250040,12,2024-12-01,LaLiga,Sevilla,Alaves,2,3,A,49.6,27.9,22.6,H,1
+250040,13,2024-12-02,LaLiga,Almeria,Ath Bilbao,0,0,D,14.1,17.7,68.2,A,1
+250040,14,2024-12-02,EPL,Crystal Palace,Chelsea,1,3,A,16.2,18.9,64.9,A,0
+250041,1,2024-11-30,EPL,West Ham,Arsenal,2,5,A,2.5,15.8,81.7,A,0
+250041,2,2024-11-30,EPL,Nott'm Forest,Ipswich,1,0,H,69.2,18.6,12.2,H,0
+250041,3,2024-11-30,LaLiga,Barcelona,Las Palmas,1,2,A,88.0,8.4,3.6,H,1
+250041,4,2024-12-01,EPL,Burnley,Luton,1,1,D,47.4,26.3,26.3,H,1
+250041,5,2024-12-01,LaLiga,Sevilla,Alaves,2,3,A,49.6,27.9,22.6,H,1
+250041,6,2024-12-02,LaLiga,Almeria,Ath Bilbao,0,0,D,14.1,17.7,68.2,A,1
+250041,7,2024-12-02,EPL,Crystal Palace,Chelsea,1,3,A,16.2,18.9,64.9,A,0
+250041,8,2024-12-04,LaLiga,Betis,Celta,2,1,H,45.1,27.9,27.1,H,0
+250041,9,2024-12-05,EPL,Man United,Arsenal,0,1,A,0.4,12.9,86.7,A,0
+250041,10,2024-12-05,LaLiga,Cadiz,Getafe,1,0,H,45.3,29.7,25.0,H,0
+250041,11,2024-12-05,LaLiga,Ath Madrid,Celta,1,0,H,83.2,14.9,1.8,H,0
+250041,12,2024-12-05,LaLiga,Valencia,Vallecano,0,0,D,42.2,30.6,27.1,H,1
+250041,13,2024-12-05,LaLiga,Betis,Almeria,3,2,H,88.0,13.0,-1.0,H,0
+250041,14,2024-12-13,LaLiga,Valladolid,Valencia,1,0,H,30.3,30.3,39.4,A,1
+250042,1,2024-12-04,LaLiga,Betis,Celta,2,1,H,45.1,27.9,27.1,H,0
+250042,2,2024-12-05,EPL,Man United,Arsenal,0,1,A,0.4,12.9,86.7,A,0
+250042,3,2024-12-05,LaLiga,Cadiz,Getafe,1,0,H,45.3,29.7,25.0,H,0
+250042,4,2024-12-05,LaLiga,Ath Madrid,Celta,1,0,H,83.2,14.9,1.8,H,0
+250042,5,2024-12-05,LaLiga,Valencia,Vallecano,0,0,D,42.2,30.6,27.1,H,1
+250042,6,2024-12-05,LaLiga,Betis,Almeria,3,2,H,88.0,13.0,-1.0,H,0
+250042,7,2024-12-13,LaLiga,Valladolid,Valencia,1,0,H,30.3,30.3,39.4,A,1
+250042,8,2024-12-14,EPL,Arsenal,Everton,0,0,D,88.0,10.9,1.1,H,1
+250042,9,2024-12-14,EPL,Liverpool,Fulham,2,2,D,88.0,12.9,-0.9,H,1
+250042,10,2024-12-14,EPL,Newcastle,Leicester,4,0,H,88.0,11.9,0.1,H,0
+250042,11,2024-12-14,EPL,Wolves,Ipswich,1,2,A,50.0,25.0,25.0,H,1
+250042,12,2024-12-14,LaLiga,Mallorca,Girona,2,1,H,40.8,30.3,28.9,H,0
+250042,13,2024-12-14,LaLiga,Vallecano,Real Madrid,3,3,D,6.9,18.5,74.6,A,1
+250042,14,2024-12-14,LaLiga,Sevilla,Celta,1,0,H,42.7,28.9,28.4,H,0
+250043,1,2024-12-14,EPL,Arsenal,Everton,0,0,D,88.0,10.9,1.1,H,1
+250043,2,2024-12-14,EPL,Liverpool,Fulham,2,2,D,88.0,12.9,-0.9,H,1
+250043,3,2024-12-14,EPL,Newcastle,Leicester,4,0,H,88.0,11.9,0.1,H,0
+250043,4,2024-12-14,EPL,Wolves,Ipswich,1,2,A,50.0,25.0,25.0,H,1
+250043,5,2024-12-14,LaLiga,Mallorca,Girona,2,1,H,40.8,30.3,28.9,H,0
+250043,6,2024-12-14,LaLiga,Vallecano,Real Madrid,3,3,D,6.9,18.5,74.6,A,1
+250043,7,2024-12-14,LaLiga,Sevilla,Celta,1,0,H,42.7,28.9,28.4,H,0
+250043,8,2024-12-14,LaLiga,Espanol,Osasuna,0,0,D,34.3,29.5,36.3,A,1
+250043,9,2024-12-14,EPL,Nott'm Forest,Aston Villa,2,1,H,36.1,28.8,35.2,H,0
+250043,10,2024-12-15,LaLiga,Villarreal,Betis,1,2,A,67.0,18.5,14.4,H,1
+250043,11,2024-12-15,EPL,Southampton,Tottenham,0,5,A,13.0,15.8,71.2,A,0
+250043,12,2024-12-15,EPL,Brighton,Crystal Palace,1,3,A,63.7,18.6,17.6,H,1
+250043,13,2024-12-15,EPL,Chelsea,Brentford,2,1,H,88.0,11.9,0.1,H,0
+250043,14,2024-12-15,EPL,Man City,Man United,1,2,A,75.2,15.7,9.1,H,1
+250044,1,2024-12-14,LaLiga,Espanol,Osasuna,0,0,D,34.3,29.5,36.3,A,1
+250044,2,2024-12-14,EPL,Nott'm Forest,Aston Villa,2,1,H,36.1,28.8,35.2,H,0
+250044,3,2024-12-15,LaLiga,Villarreal,Betis,1,2,A,67.0,18.5,14.4,H,1
+250044,4,2024-12-15,EPL,Southampton,Tottenham,0,5,A,13.0,15.8,71.2,A,0
+250044,5,2024-12-15,EPL,Brighton,Crystal Palace,1,3,A,63.7,18.6,17.6,H,1
+250044,6,2024-12-15,EPL,Chelsea,Brentford,2,1,H,88.0,11.9,0.1,H,0
+250044,7,2024-12-15,EPL,Man City,Man United,1,2,A,75.2,15.7,9.1,H,1
+250044,8,2024-12-15,LaLiga,Alaves,Ath Bilbao,1,1,D,26.1,30.3,43.7,A,1
+250044,9,2024-12-15,LaLiga,Sociedad,Las Palmas,0,0,D,83.4,16.2,0.4,H,1
+250044,10,2024-12-15,LaLiga,Ath Madrid,Getafe,1,0,H,84.5,16.4,-0.9,H,0
+250044,11,2024-12-15,LaLiga,Barcelona,Leganes,0,1,A,88.0,8.8,3.2,H,1
+250044,12,2024-12-16,EPL,Bournemouth,West Ham,1,1,D,70.1,17.9,12.0,H,1
+250044,13,2024-12-18,LaLiga,Espanol,Valencia,1,1,D,36.6,31.7,31.7,H,1
+250044,14,2024-12-18,LaLiga,Villarreal,Vallecano,1,1,D,65.8,19.7,14.5,H,1
+250045,1,2024-12-15,LaLiga,Alaves,Ath Bilbao,1,1,D,26.1,30.3,43.7,A,1
+250045,2,2024-12-15,LaLiga,Sociedad,Las Palmas,0,0,D,83.4,16.2,0.4,H,1
+250045,3,2024-12-15,LaLiga,Ath Madrid,Getafe,1,0,H,84.5,16.4,-0.9,H,0
+250045,4,2024-12-15,LaLiga,Barcelona,Leganes,0,1,A,88.0,8.8,3.2,H,1
+250045,5,2024-12-16,EPL,Bournemouth,West Ham,1,1,D,70.1,17.9,12.0,H,1
+250045,6,2024-12-18,LaLiga,Espanol,Valencia,1,1,D,36.6,31.7,31.7,H,1
+250045,7,2024-12-18,LaLiga,Villarreal,Vallecano,1,1,D,65.8,19.7,14.5,H,1
+250045,8,2024-12-20,LaLiga,Girona,Valladolid,3,0,H,86.3,14.3,-0.6,H,0
+250045,9,2024-12-21,EPL,Crystal Palace,Arsenal,1,5,A,5.6,17.1,77.3,A,0
+250045,10,2024-12-21,LaLiga,Getafe,Mallorca,0,1,A,41.2,34.5,24.3,H,1
+250045,11,2024-12-21,EPL,West Ham,Brighton,1,1,D,33.3,25.9,40.8,A,1
+250045,12,2024-12-21,EPL,Ipswich,Newcastle,0,4,A,12.6,19.0,68.5,A,0
+250045,13,2024-12-21,LaLiga,Osasuna,Ath Bilbao,1,2,A,24.3,30.6,45.1,A,0
+250045,14,2024-12-21,EPL,Aston Villa,Man City,2,1,H,29.2,25.6,45.2,A,1
+250046,1,2024-12-20,LaLiga,Girona,Valladolid,3,0,H,86.3,14.3,-0.6,H,0
+250046,2,2024-12-21,EPL,Crystal Palace,Arsenal,1,5,A,5.6,17.1,77.3,A,0
+250046,3,2024-12-21,LaLiga,Getafe,Mallorca,0,1,A,41.2,34.5,24.3,H,1
+250046,4,2024-12-21,EPL,West Ham,Brighton,1,1,D,33.3,25.9,40.8,A,1
+250046,5,2024-12-21,EPL,Ipswich,Newcastle,0,4,A,12.6,19.0,68.5,A,0
+250046,6,2024-12-21,LaLiga,Osasuna,Ath Bilbao,1,2,A,24.3,30.6,45.1,A,0
+250046,7,2024-12-21,EPL,Aston Villa,Man City,2,1,H,29.2,25.6,45.2,A,1
+250046,8,2024-12-21,LaLiga,Celta,Sociedad,2,0,H,32.8,30.7,36.6,A,1
+250046,9,2024-12-21,LaLiga,Barcelona,Ath Madrid,1,2,A,62.9,18.9,18.2,H,1
+250046,10,2024-12-21,EPL,Brentford,Nott'm Forest,0,2,A,41.1,26.3,32.6,H,1
+250046,11,2024-12-22,LaLiga,Real Madrid,Sevilla,4,2,H,88.0,13.1,-1.1,H,0
+250046,12,2024-12-22,LaLiga,Leganes,Villarreal,2,5,A,22.6,27.9,49.6,A,0
+250046,13,2024-12-22,LaLiga,Betis,Vallecano,1,1,D,66.0,20.4,13.6,H,1
+250046,14,2024-12-22,LaLiga,Valencia,Alaves,2,2,D,42.2,30.6,27.1,H,1
+250047,1,2024-12-21,LaLiga,Celta,Sociedad,2,0,H,32.8,30.7,36.6,A,1
+250047,2,2024-12-21,LaLiga,Barcelona,Ath Madrid,1,2,A,62.9,18.9,18.2,H,1
+250047,3,2024-12-21,EPL,Brentford,Nott'm Forest,0,2,A,41.1,26.3,32.6,H,1
+250047,4,2024-12-22,LaLiga,Real Madrid,Sevilla,4,2,H,88.0,13.1,-1.1,H,0
+250047,5,2024-12-22,LaLiga,Leganes,Villarreal,2,5,A,22.6,27.9,49.6,A,0
+250047,6,2024-12-22,LaLiga,Betis,Vallecano,1,1,D,66.0,20.4,13.6,H,1
+250047,7,2024-12-22,LaLiga,Valencia,Alaves,2,2,D,42.2,30.6,27.1,H,1
+250047,8,2024-12-22,EPL,Leicester,Wolves,0,3,A,37.1,27.8,35.1,H,1
+250047,9,2024-12-22,EPL,Fulham,Southampton,0,0,D,83.2,14.9,1.8,H,1
+250047,10,2024-12-22,EPL,Man United,Bournemouth,0,3,A,65.7,18.7,15.6,H,1
+250047,11,2024-12-22,EPL,Tottenham,Liverpool,3,6,A,13.4,17.9,68.8,A,0
+250047,12,2024-12-22,LaLiga,Las Palmas,Espanol,1,0,H,64.4,19.9,15.7,H,0
+250047,13,2024-12-22,EPL,Everton,Chelsea,0,0,D,10.0,16.9,73.1,A,1
+250047,14,2024-12-26,EPL,Newcastle,Aston Villa,3,0,H,49.7,25.0,25.3,H,0
+250048,1,2024-12-22,EPL,Leicester,Wolves,0,3,A,37.1,27.8,35.1,H,1
+250048,2,2024-12-22,EPL,Fulham,Southampton,0,0,D,83.2,14.9,1.8,H,1
+250048,3,2024-12-22,EPL,Man United,Bournemouth,0,3,A,65.7,18.7,15.6,H,1
+250048,4,2024-12-22,EPL,Tottenham,Liverpool,3,6,A,13.4,17.9,68.8,A,0
+250048,5,2024-12-22,LaLiga,Las Palmas,Espanol,1,0,H,64.4,19.9,15.7,H,0
+250048,6,2024-12-22,EPL,Everton,Chelsea,0,0,D,10.0,16.9,73.1,A,1
+250048,7,2024-12-26,EPL,Newcastle,Aston Villa,3,0,H,49.7,25.0,25.3,H,0
+250048,8,2024-12-26,EPL,Liverpool,Leicester,3,1,H,88.0,6.0,6.0,H,0
+250048,9,2024-12-26,EPL,Nott'm Forest,Tottenham,1,0,H,41.5,25.4,33.1,H,0
+250048,10,2024-12-26,EPL,Man City,Everton,1,1,D,88.0,12.8,-0.8,H,1
+250048,11,2024-12-26,EPL,Chelsea,Fulham,1,2,A,80.2,15.0,4.8,H,1
+250048,12,2024-12-26,EPL,Wolves,Man United,2,0,H,24.4,25.7,49.9,A,1
+250048,13,2024-12-26,EPL,Southampton,West Ham,0,1,A,29.4,27.3,43.4,A,0
+250048,14,2024-12-26,EPL,Bournemouth,Crystal Palace,0,0,D,50.0,25.0,25.0,H,1
+250049,1,2024-12-26,EPL,Liverpool,Leicester,3,1,H,88.0,6.0,6.0,H,0
+250049,2,2024-12-26,EPL,Nott'm Forest,Tottenham,1,0,H,41.5,25.4,33.1,H,0
+250049,3,2024-12-26,EPL,Man City,Everton,1,1,D,88.0,12.8,-0.8,H,1
+250049,4,2024-12-26,EPL,Chelsea,Fulham,1,2,A,80.2,15.0,4.8,H,1
+250049,5,2024-12-26,EPL,Wolves,Man United,2,0,H,24.4,25.7,49.9,A,1
+250049,6,2024-12-26,EPL,Southampton,West Ham,0,1,A,29.4,27.3,43.4,A,0
+250049,7,2024-12-26,EPL,Bournemouth,Crystal Palace,0,0,D,50.0,25.0,25.0,H,1
+250049,8,2024-12-27,EPL,Arsenal,Ipswich,1,0,H,88.0,7.9,4.1,H,0
+250049,9,2024-12-27,EPL,Brighton,Brentford,0,0,D,72.9,16.4,10.8,H,1
+250049,10,2024-12-29,EPL,Leicester,Man City,0,2,A,-0.5,13.0,87.5,A,0
+250049,11,2024-12-29,EPL,Tottenham,Wolves,2,2,D,73.5,14.1,12.4,H,1
+250049,12,2024-12-29,EPL,Fulham,Bournemouth,2,2,D,41.0,26.2,32.8,H,1
+250049,13,2024-12-29,EPL,Everton,Nott'm Forest,0,2,A,36.5,29.6,33.9,H,1
+250049,14,2024-12-29,EPL,Crystal Palace,Southampton,2,1,H,74.1,17.9,8.1,H,0
+250050,1,2024-12-27,EPL,Arsenal,Ipswich,1,0,H,88.0,7.9,4.1,H,0
+250050,2,2024-12-27,EPL,Brighton,Brentford,0,0,D,72.9,16.4,10.8,H,1
+250050,3,2024-12-29,EPL,Leicester,Man City,0,2,A,-0.5,13.0,87.5,A,0
+250050,4,2024-12-29,EPL,Tottenham,Wolves,2,2,D,73.5,14.1,12.4,H,1
+250050,5,2024-12-29,EPL,Fulham,Bournemouth,2,2,D,41.0,26.2,32.8,H,1
+250050,6,2024-12-29,EPL,Everton,Nott'm Forest,0,2,A,36.5,29.6,33.9,H,1
+250050,7,2024-12-29,EPL,Crystal Palace,Southampton,2,1,H,74.1,17.9,8.1,H,0
+250050,8,2024-12-29,EPL,West Ham,Liverpool,0,5,A,1.4,14.2,84.5,A,0
+250050,9,2024-12-30,EPL,Ipswich,Chelsea,2,0,H,2.8,14.8,82.4,A,1
+250050,10,2024-12-30,EPL,Aston Villa,Brighton,2,2,D,49.3,24.7,26.0,H,1
+250050,11,2024-12-30,EPL,Man United,Newcastle,0,2,A,34.9,27.4,37.7,A,0
+250050,12,2025-01-01,EPL,Brentford,Arsenal,1,3,A,3.1,14.9,82.0,A,0
+250050,13,2025-01-02,EPL,Wolves,Aston Villa,2,0,H,28.7,26.3,45.1,A,1
+250050,14,2025-01-02,EPL,Bournemouth,Liverpool,0,2,A,12.4,16.5,71.2,A,0
+250051,1,2024-12-29,EPL,West Ham,Liverpool,0,5,A,1.4,14.2,84.5,A,0
+250051,2,2024-12-30,EPL,Ipswich,Chelsea,2,0,H,2.8,14.8,82.4,A,1
+250051,3,2024-12-30,EPL,Aston Villa,Brighton,2,2,D,49.3,24.7,26.0,H,1
+250051,4,2024-12-30,EPL,Man United,Newcastle,0,2,A,34.9,27.4,37.7,A,0
+250051,5,2025-01-01,EPL,Brentford,Arsenal,1,3,A,3.1,14.9,82.0,A,0
+250051,6,2025-01-02,EPL,Wolves,Aston Villa,2,0,H,28.7,26.3,45.1,A,1
+250051,7,2025-01-02,EPL,Bournemouth,Liverpool,0,2,A,12.4,16.5,71.2,A,0
+250051,8,2025-01-02,EPL,Nott'm Forest,Brighton,7,0,H,39.5,26.9,33.6,H,0
+250051,9,2025-01-02,EPL,Newcastle,Fulham,1,2,A,70.1,17.9,12.0,H,1
+250051,10,2025-01-02,LaLiga,Villarreal,Valladolid,5,1,H,88.0,10.1,1.9,H,0
+250051,11,2025-01-02,LaLiga,Espanol,Real Madrid,1,0,H,-0.4,12.4,88.0,A,1
+250051,12,2025-01-02,LaLiga,Getafe,Sevilla,0,0,D,38.5,32.5,29.0,H,1
+250051,13,2025-01-02,EPL,Everton,Leicester,4,0,H,67.4,18.9,13.8,H,0
+250051,14,2025-01-02,LaLiga,Ath Madrid,Mallorca,2,0,H,84.0,16.3,-0.3,H,0
+250052,1,2025-01-02,EPL,Nott'm Forest,Brighton,7,0,H,39.5,26.9,33.6,H,0
+250052,2,2025-01-02,EPL,Newcastle,Fulham,1,2,A,70.1,17.9,12.0,H,1
+250052,3,2025-01-02,LaLiga,Villarreal,Valladolid,5,1,H,88.0,10.1,1.9,H,0
+250052,4,2025-01-02,LaLiga,Espanol,Real Madrid,1,0,H,-0.4,12.4,88.0,A,1
+250052,5,2025-01-02,LaLiga,Getafe,Sevilla,0,0,D,38.5,32.5,29.0,H,1
+250052,6,2025-01-02,EPL,Everton,Leicester,4,0,H,67.4,18.9,13.8,H,0
+250052,7,2025-01-02,LaLiga,Ath Madrid,Mallorca,2,0,H,84.0,16.3,-0.3,H,0
+250052,8,2025-01-02,EPL,Ipswich,Southampton,1,2,A,48.7,26.4,25.0,H,1
+250052,9,2025-01-03,LaLiga,Girona,Celta,2,2,D,43.4,27.3,29.4,H,1
+250052,10,2025-01-03,LaLiga,Vallecano,Sevilla,1,1,D,41.4,29.8,28.9,H,1
+250052,11,2025-01-03,LaLiga,Ath Madrid,Ath Bilbao,1,0,H,46.4,27.2,26.4,H,0
+250052,12,2025-01-03,LaLiga,Betis,Real Madrid,2,1,H,14.1,17.7,68.2,A,1
+250052,13,2025-01-04,EPL,Wolves,West Ham,1,0,H,37.8,29.6,32.6,H,0
+250052,14,2025-01-04,EPL,Nott'm Forest,Man United,1,0,H,41.3,28.0,30.7,H,0
+250053,1,2025-01-02,EPL,Ipswich,Southampton,1,2,A,48.7,26.4,25.0,H,1
+250053,2,2025-01-03,LaLiga,Girona,Celta,2,2,D,43.4,27.3,29.4,H,1
+250053,3,2025-01-03,LaLiga,Vallecano,Sevilla,1,1,D,41.4,29.8,28.9,H,1
+250053,4,2025-01-03,LaLiga,Ath Madrid,Ath Bilbao,1,0,H,46.4,27.2,26.4,H,0
+250053,5,2025-01-03,LaLiga,Betis,Real Madrid,2,1,H,14.1,17.7,68.2,A,1
+250053,6,2025-01-04,EPL,Wolves,West Ham,1,0,H,37.8,29.6,32.6,H,0
+250053,7,2025-01-04,EPL,Nott'm Forest,Man United,1,0,H,41.3,28.0,30.7,H,0
+250053,8,2025-01-04,EPL,Arsenal,Fulham,2,1,H,80.5,16.5,3.0,H,0
+250053,9,2025-01-05,EPL,Nott'm Forest,Brentford,0,2,A,43.9,27.0,29.1,H,1
+250053,10,2025-01-13,LaLiga,Sociedad,Villarreal,1,0,H,47.5,28.8,23.7,H,0
+250053,11,2025-01-14,EPL,Brentford,Man City,2,2,D,10.9,16.8,72.4,A,1
+250053,12,2025-01-14,EPL,Nott'm Forest,Liverpool,1,1,D,9.2,17.4,73.4,A,1
+250053,13,2025-01-14,EPL,West Ham,Fulham,3,2,H,31.8,28.1,40.1,A,1
+250053,14,2025-01-14,EPL,Chelsea,Bournemouth,2,2,D,80.2,15.0,4.8,H,1
+250054,1,2025-01-04,EPL,Arsenal,Fulham,2,1,H,80.5,16.5,3.0,H,0
+250054,2,2025-01-05,EPL,Nott'm Forest,Brentford,0,2,A,43.9,27.0,29.1,H,1
+250054,3,2025-01-13,LaLiga,Sociedad,Villarreal,1,0,H,47.5,28.8,23.7,H,0
+250054,4,2025-01-14,EPL,Brentford,Man City,2,2,D,10.9,16.8,72.4,A,1
+250054,5,2025-01-14,EPL,Nott'm Forest,Liverpool,1,1,D,9.2,17.4,73.4,A,1
+250054,6,2025-01-14,EPL,West Ham,Fulham,3,2,H,31.8,28.1,40.1,A,1
+250054,7,2025-01-14,EPL,Chelsea,Bournemouth,2,2,D,80.2,15.0,4.8,H,1
+250054,8,2025-01-15,EPL,Everton,Aston Villa,0,1,A,29.2,29.6,41.2,A,0
+250054,9,2025-01-15,EPL,Leicester,Crystal Palace,0,2,A,24.2,26.3,49.5,A,0
+250054,10,2025-01-15,EPL,Newcastle,Wolves,3,0,H,88.0,13.1,-1.1,H,0
+250054,11,2025-01-15,EPL,Arsenal,Tottenham,2,1,H,85.2,13.6,1.1,H,0
+250054,12,2025-01-16,EPL,Ipswich,Brighton,0,2,A,24.4,25.7,49.9,A,0
+250054,13,2025-01-16,EPL,Man United,Southampton,3,1,H,88.0,11.9,0.1,H,0
+250054,14,2025-01-17,LaLiga,Espanol,Valladolid,2,1,H,67.6,20.9,11.5,H,0
+250055,1,2025-01-15,EPL,Everton,Aston Villa,0,1,A,29.2,29.6,41.2,A,0
+250055,2,2025-01-15,EPL,Leicester,Crystal Palace,0,2,A,24.2,26.3,49.5,A,0
+250055,3,2025-01-15,EPL,Newcastle,Wolves,3,0,H,88.0,13.1,-1.1,H,0
+250055,4,2025-01-15,EPL,Arsenal,Tottenham,2,1,H,85.2,13.6,1.1,H,0
+250055,5,2025-01-16,EPL,Ipswich,Brighton,0,2,A,24.4,25.7,49.9,A,0
+250055,6,2025-01-16,EPL,Man United,Southampton,3,1,H,88.0,11.9,0.1,H,0
+250055,7,2025-01-17,LaLiga,Espanol,Valladolid,2,1,H,67.6,20.9,11.5,H,0
+250055,8,2025-01-18,EPL,Arsenal,Aston Villa,2,2,D,79.1,17.4,3.5,H,1
+250055,9,2025-01-18,EPL,Leicester,Fulham,0,2,A,15.1,19.2,65.7,A,0
+250055,10,2025-01-18,EPL,Brentford,Liverpool,0,2,A,2.6,14.2,83.2,A,0
+250055,11,2025-01-18,EPL,Newcastle,Bournemouth,1,4,A,73.1,16.9,10.0,H,1
+250055,12,2025-01-18,LaLiga,Betis,Alaves,1,3,A,67.4,19.7,12.9,H,1
+250055,13,2025-01-18,LaLiga,Leganes,Ath Madrid,1,0,H,3.7,17.7,78.7,A,1
+250055,14,2025-01-18,LaLiga,Girona,Sevilla,1,2,A,49.4,27.0,23.6,H,1
+250056,1,2025-01-18,EPL,Arsenal,Aston Villa,2,2,D,79.1,17.4,3.5,H,1
+250056,2,2025-01-18,EPL,Leicester,Fulham,0,2,A,15.1,19.2,65.7,A,0
+250056,3,2025-01-18,EPL,Brentford,Liverpool,0,2,A,2.6,14.2,83.2,A,0
+250056,4,2025-01-18,EPL,Newcastle,Bournemouth,1,4,A,73.1,16.9,10.0,H,1
+250056,5,2025-01-18,LaLiga,Betis,Alaves,1,3,A,67.4,19.7,12.9,H,1
+250056,6,2025-01-18,LaLiga,Leganes,Ath Madrid,1,0,H,3.7,17.7,78.7,A,1
+250056,7,2025-01-18,LaLiga,Girona,Sevilla,1,2,A,49.4,27.0,23.6,H,1
+250056,8,2025-01-18,EPL,West Ham,Crystal Palace,0,2,A,36.6,27.2,36.2,H,1
+250056,9,2025-01-18,LaLiga,Getafe,Barcelona,1,1,D,4.4,16.9,78.7,A,1
+250056,10,2025-01-19,EPL,Everton,Tottenham,3,2,H,34.0,27.2,38.8,A,1
+250056,11,2025-01-19,EPL,Man United,Brighton,1,3,A,45.1,26.3,28.7,H,1
+250056,12,2025-01-19,EPL,Nott'm Forest,Southampton,3,2,H,85.4,14.9,-0.3,H,0
+250056,13,2025-01-19,EPL,Ipswich,Man City,0,6,A,-0.3,13.5,86.8,A,0
+250056,14,2025-01-19,LaLiga,Real Madrid,Las Palmas,4,1,H,88.0,9.4,2.6,H,0
+250057,1,2025-01-18,EPL,West Ham,Crystal Palace,0,2,A,36.6,27.2,36.2,H,1
+250057,2,2025-01-18,LaLiga,Getafe,Barcelona,1,1,D,4.4,16.9,78.7,A,1
+250057,3,2025-01-19,EPL,Everton,Tottenham,3,2,H,34.0,27.2,38.8,A,1
+250057,4,2025-01-19,EPL,Man United,Brighton,1,3,A,45.1,26.3,28.7,H,1
+250057,5,2025-01-19,EPL,Nott'm Forest,Southampton,3,2,H,85.4,14.9,-0.3,H,0
+250057,6,2025-01-19,EPL,Ipswich,Man City,0,6,A,-0.3,13.5,86.8,A,0
+250057,7,2025-01-19,LaLiga,Real Madrid,Las Palmas,4,1,H,88.0,9.4,2.6,H,0
+250057,8,2025-01-19,LaLiga,Osasuna,Vallecano,1,1,D,43.8,31.4,24.8,H,1
+250057,9,2025-01-19,LaLiga,Valencia,Sociedad,1,0,H,30.8,31.8,37.4,A,1
+250057,10,2025-01-19,LaLiga,Celta,Ath Bilbao,1,2,A,33.9,29.6,36.5,A,0
+250057,11,2025-01-20,LaLiga,Villarreal,Mallorca,4,0,H,68.5,20.3,11.1,H,0
+250057,12,2025-01-20,EPL,Chelsea,Wolves,3,1,H,86.5,12.3,1.3,H,0
+250057,13,2025-01-24,LaLiga,Las Palmas,Osasuna,1,1,D,37.9,30.5,31.6,H,1
+250057,14,2025-01-25,EPL,Brighton,Everton,0,1,A,71.5,19.1,9.4,H,1
+250058,1,2025-01-19,LaLiga,Osasuna,Vallecano,1,1,D,43.8,31.4,24.8,H,1
+250058,2,2025-01-19,LaLiga,Valencia,Sociedad,1,0,H,30.8,31.8,37.4,A,1
+250058,3,2025-01-19,LaLiga,Celta,Ath Bilbao,1,2,A,33.9,29.6,36.5,A,0
+250058,4,2025-01-20,LaLiga,Villarreal,Mallorca,4,0,H,68.5,20.3,11.1,H,0
+250058,5,2025-01-20,EPL,Chelsea,Wolves,3,1,H,86.5,12.3,1.3,H,0
+250058,6,2025-01-24,LaLiga,Las Palmas,Osasuna,1,1,D,37.9,30.5,31.6,H,1
+250058,7,2025-01-25,EPL,Brighton,Everton,0,1,A,71.5,19.1,9.4,H,1
+250058,8,2025-01-25,LaLiga,Mallorca,Betis,0,1,A,41.8,31.3,26.9,H,1
+250058,9,2025-01-25,LaLiga,Valladolid,Real Madrid,0,3,A,0.1,11.9,88.0,A,0
+250058,10,2025-01-25,EPL,Liverpool,Ipswich,4,1,H,88.0,6.0,6.0,H,0
+250058,11,2025-01-25,EPL,Bournemouth,Nott'm Forest,5,0,H,46.4,25.7,28.0,H,0
+250058,12,2025-01-25,EPL,Wolves,Arsenal,0,1,A,2.5,15.8,81.7,A,0
+250058,13,2025-01-25,LaLiga,Ath Madrid,Villarreal,1,1,D,70.1,17.9,12.0,H,1
+250058,14,2025-01-25,LaLiga,Sevilla,Espanol,1,1,D,69.2,18.6,12.2,H,1
+250059,1,2025-01-25,LaLiga,Mallorca,Betis,0,1,A,41.8,31.3,26.9,H,1
+250059,2,2025-01-25,LaLiga,Valladolid,Real Madrid,0,3,A,0.1,11.9,88.0,A,0
+250059,3,2025-01-25,EPL,Liverpool,Ipswich,4,1,H,88.0,6.0,6.0,H,0
+250059,4,2025-01-25,EPL,Bournemouth,Nott'm Forest,5,0,H,46.4,25.7,28.0,H,0
+250059,5,2025-01-25,EPL,Wolves,Arsenal,0,1,A,2.5,15.8,81.7,A,0
+250059,6,2025-01-25,LaLiga,Ath Madrid,Villarreal,1,1,D,70.1,17.9,12.0,H,1
+250059,7,2025-01-25,LaLiga,Sevilla,Espanol,1,1,D,69.2,18.6,12.2,H,1
+250059,8,2025-01-25,EPL,Man City,Chelsea,3,1,H,46.9,24.0,29.1,H,0
+250059,9,2025-01-25,EPL,Southampton,Newcastle,1,3,A,2.4,13.6,84.0,A,0
+250059,10,2025-01-26,LaLiga,Ath Bilbao,Leganes,0,0,D,85.6,14.2,0.2,H,1
+250059,11,2025-01-26,LaLiga,Sociedad,Getafe,0,3,A,68.2,21.1,10.7,H,1
+250059,12,2025-01-26,LaLiga,Vallecano,Girona,2,1,H,34.4,32.7,32.9,H,0
+250059,13,2025-01-26,LaLiga,Barcelona,Valencia,7,1,H,88.0,9.5,2.5,H,0
+250059,14,2025-01-26,EPL,Tottenham,Leicester,1,2,A,81.8,12.9,5.2,H,1
+250060,1,2025-01-25,EPL,Man City,Chelsea,3,1,H,46.9,24.0,29.1,H,0
+250060,2,2025-01-25,EPL,Southampton,Newcastle,1,3,A,2.4,13.6,84.0,A,0
+250060,3,2025-01-26,LaLiga,Ath Bilbao,Leganes,0,0,D,85.6,14.2,0.2,H,1
+250060,4,2025-01-26,LaLiga,Sociedad,Getafe,0,3,A,68.2,21.1,10.7,H,1
+250060,5,2025-01-26,LaLiga,Vallecano,Girona,2,1,H,34.4,32.7,32.9,H,0
+250060,6,2025-01-26,LaLiga,Barcelona,Valencia,7,1,H,88.0,9.5,2.5,H,0
+250060,7,2025-01-26,EPL,Tottenham,Leicester,1,2,A,81.8,12.9,5.2,H,1
+250060,8,2025-01-26,EPL,Aston Villa,West Ham,1,1,D,77.2,16.4,6.4,H,1
+250060,9,2025-01-26,EPL,Fulham,Man United,0,1,A,41.3,28.0,30.7,H,1
+250060,10,2025-01-26,EPL,Crystal Palace,Brentford,1,2,A,46.1,25.2,28.7,H,1
+250060,11,2025-01-27,LaLiga,Alaves,Celta,1,1,D,36.3,31.8,31.8,H,1
+250060,12,2025-01-31,LaLiga,Leganes,Vallecano,0,1,A,28.7,31.5,39.8,A,0
+250060,13,2025-02-02,LaLiga,Betis,Ath Bilbao,2,2,D,32.7,28.7,38.7,A,1
+250060,14,2025-02-02,EPL,Arsenal,Man City,5,1,H,48.9,27.2,23.8,H,0
+260001,1,2025-01-26,EPL,Aston Villa,West Ham,1,1,D,77.2,16.4,6.4,H,1
+260001,2,2025-01-26,EPL,Fulham,Man United,0,1,A,41.3,28.0,30.7,H,1
+260001,3,2025-01-26,EPL,Crystal Palace,Brentford,1,2,A,46.1,25.2,28.7,H,1
+260001,4,2025-01-27,LaLiga,Alaves,Celta,1,1,D,36.3,31.8,31.8,H,1
+260001,5,2025-01-31,LaLiga,Leganes,Vallecano,0,1,A,28.7,31.5,39.8,A,0
+260001,6,2025-02-02,LaLiga,Betis,Ath Bilbao,2,2,D,32.7,28.7,38.7,A,1
+260001,7,2025-02-02,EPL,Arsenal,Man City,5,1,H,48.9,27.2,23.8,H,0
+260001,8,2025-02-02,EPL,Brentford,Tottenham,0,2,A,45.6,24.5,29.9,H,1
+260001,9,2025-02-02,LaLiga,Valencia,Celta,2,1,H,40.8,30.3,28.9,H,0
+260001,10,2025-02-02,EPL,Man United,Crystal Palace,0,2,A,47.7,27.2,25.1,H,1
+260001,11,2025-02-02,LaLiga,Barcelona,Alaves,1,0,H,88.0,9.6,2.4,H,0
+260001,12,2025-02-02,LaLiga,Osasuna,Sociedad,2,1,H,31.5,31.5,37.0,A,1
+260001,13,2025-02-03,LaLiga,Leganes,Getafe,1,0,H,30.6,32.9,36.5,A,1
+260001,14,2025-02-03,LaLiga,Osasuna,Valencia,3,3,D,41.4,29.8,28.9,H,1
+260002,1,2025-02-02,EPL,Brentford,Tottenham,0,2,A,45.6,24.5,29.9,H,1
+260002,2,2025-02-02,LaLiga,Valencia,Celta,2,1,H,40.8,30.3,28.9,H,0
+260002,3,2025-02-02,EPL,Man United,Crystal Palace,0,2,A,47.7,27.2,25.1,H,1
+260002,4,2025-02-02,LaLiga,Barcelona,Alaves,1,0,H,88.0,9.6,2.4,H,0
+260002,5,2025-02-02,LaLiga,Osasuna,Sociedad,2,1,H,31.5,31.5,37.0,A,1
+260002,6,2025-02-03,LaLiga,Leganes,Getafe,1,0,H,30.6,32.9,36.5,A,1
+260002,7,2025-02-03,LaLiga,Osasuna,Valencia,3,3,D,41.4,29.8,28.9,H,1
+260002,8,2025-02-03,LaLiga,Mallorca,Alaves,1,1,D,42.2,30.6,27.1,H,1
+260002,9,2025-02-03,LaLiga,Barcelona,Sociedad,4,0,H,88.0,12.3,-0.3,H,0
+260002,10,2025-02-04,EPL,Brighton,Aston Villa,0,3,A,46.1,24.9,29.1,H,1
+260002,11,2025-02-04,EPL,Man City,Leicester,2,0,H,88.0,8.9,3.1,H,0
+260002,12,2025-02-04,EPL,Southampton,Crystal Palace,1,1,D,8.1,18.7,73.2,A,1
+260002,13,2025-02-04,EPL,Liverpool,Everton,1,0,H,86.7,14.1,-0.8,H,0
+260002,14,2025-02-04,EPL,Newcastle,Brentford,2,1,H,68.8,15.9,15.3,H,0
+260003,1,2025-02-03,LaLiga,Mallorca,Alaves,1,1,D,42.2,30.6,27.1,H,1
+260003,2,2025-02-03,LaLiga,Barcelona,Sociedad,4,0,H,88.0,12.3,-0.3,H,0
+260003,3,2025-02-04,EPL,Brighton,Aston Villa,0,3,A,46.1,24.9,29.1,H,1
+260003,4,2025-02-04,EPL,Man City,Leicester,2,0,H,88.0,8.9,3.1,H,0
+260003,5,2025-02-04,EPL,Southampton,Crystal Palace,1,1,D,8.1,18.7,73.2,A,1
+260003,6,2025-02-04,EPL,Liverpool,Everton,1,0,H,86.7,14.1,-0.8,H,0
+260003,7,2025-02-04,EPL,Newcastle,Brentford,2,1,H,68.8,15.9,15.3,H,0
+260003,8,2025-02-04,EPL,Bournemouth,Ipswich,1,2,A,86.8,13.5,-0.3,H,1
+260003,9,2025-02-05,EPL,Man City,Wolves,1,0,H,84.4,14.9,0.7,H,0
+260003,10,2025-02-05,LaLiga,Vallecano,Getafe,1,0,H,40.1,31.8,28.1,H,0
+260003,11,2025-02-14,EPL,Brighton,Chelsea,3,0,H,35.1,26.3,38.6,A,1
+260003,12,2025-02-14,LaLiga,Girona,Getafe,1,2,A,48.8,29.3,22.0,H,1
+260003,13,2025-02-15,EPL,Fulham,Nott'm Forest,2,1,H,43.2,28.0,28.8,H,0
+260003,14,2025-02-15,LaLiga,Osasuna,Real Madrid,1,1,D,7.2,17.3,75.5,A,1
+260004,1,2025-02-04,EPL,Bournemouth,Ipswich,1,2,A,86.8,13.5,-0.3,H,1
+260004,2,2025-02-05,EPL,Man City,Wolves,1,0,H,84.4,14.9,0.7,H,0
+260004,3,2025-02-05,LaLiga,Vallecano,Getafe,1,0,H,40.1,31.8,28.1,H,0
+260004,4,2025-02-14,EPL,Brighton,Chelsea,3,0,H,35.1,26.3,38.6,A,1
+260004,5,2025-02-14,LaLiga,Girona,Getafe,1,2,A,48.8,29.3,22.0,H,1
+260004,6,2025-02-15,EPL,Fulham,Nott'm Forest,2,1,H,43.2,28.0,28.8,H,0
+260004,7,2025-02-15,LaLiga,Osasuna,Real Madrid,1,1,D,7.2,17.3,75.5,A,1
+260004,8,2025-02-15,EPL,West Ham,Brentford,0,1,A,40.5,26.4,33.1,H,1
+260004,9,2025-02-15,EPL,Man City,Newcastle,4,0,H,48.7,22.6,28.8,H,0
+260004,10,2025-02-15,LaLiga,Leganes,Alaves,3,3,D,30.7,32.8,36.6,A,1
+260004,11,2025-02-15,EPL,Aston Villa,Ipswich,1,1,D,83.6,14.8,1.6,H,1
+260004,12,2025-02-15,EPL,Southampton,Bournemouth,1,3,A,5.3,15.8,78.9,A,0
+260004,13,2025-02-15,LaLiga,Ath Madrid,Celta,1,1,D,84.3,15.6,0.1,H,1
+260004,14,2025-02-15,LaLiga,Villarreal,Valencia,1,1,D,77.8,15.6,6.6,H,1
+260005,1,2025-02-15,EPL,West Ham,Brentford,0,1,A,40.5,26.4,33.1,H,1
+260005,2,2025-02-15,EPL,Man City,Newcastle,4,0,H,48.7,22.6,28.8,H,0
+260005,3,2025-02-15,LaLiga,Leganes,Alaves,3,3,D,30.7,32.8,36.6,A,1
+260005,4,2025-02-15,EPL,Aston Villa,Ipswich,1,1,D,83.6,14.8,1.6,H,1
+260005,5,2025-02-15,EPL,Southampton,Bournemouth,1,3,A,5.3,15.8,78.9,A,0
+260005,6,2025-02-15,LaLiga,Ath Madrid,Celta,1,1,D,84.3,15.6,0.1,H,1
+260005,7,2025-02-15,LaLiga,Villarreal,Valencia,1,1,D,77.8,15.6,6.6,H,1
+260005,8,2025-02-15,EPL,Leicester,Arsenal,0,2,A,-1.9,14.0,87.9,A,0
+260005,9,2025-02-15,EPL,Crystal Palace,Everton,1,2,A,66.2,21.0,12.8,H,1
+260005,10,2025-02-16,LaLiga,Mallorca,Las Palmas,3,1,H,68.5,20.3,11.1,H,0
+260005,11,2025-02-16,EPL,Tottenham,Man United,1,0,H,38.6,25.2,36.1,H,0
+260005,12,2025-02-16,LaLiga,Valladolid,Sevilla,0,4,A,23.7,27.8,48.5,A,0
+260005,13,2025-02-16,LaLiga,Espanol,Ath Bilbao,1,1,D,10.5,20.9,68.6,A,1
+260005,14,2025-02-16,LaLiga,Betis,Sociedad,3,0,H,37.0,30.4,32.5,H,0
+260006,1,2025-02-15,EPL,Leicester,Arsenal,0,2,A,-1.9,14.0,87.9,A,0
+260006,2,2025-02-15,EPL,Crystal Palace,Everton,1,2,A,66.2,21.0,12.8,H,1
+260006,3,2025-02-16,LaLiga,Mallorca,Las Palmas,3,1,H,68.5,20.3,11.1,H,0
+260006,4,2025-02-16,EPL,Tottenham,Man United,1,0,H,38.6,25.2,36.1,H,0
+260006,5,2025-02-16,LaLiga,Valladolid,Sevilla,0,4,A,23.7,27.8,48.5,A,0
+260006,6,2025-02-16,LaLiga,Espanol,Ath Bilbao,1,1,D,10.5,20.9,68.6,A,1
+260006,7,2025-02-16,LaLiga,Betis,Sociedad,3,0,H,37.0,30.4,32.5,H,0
+260006,8,2025-02-16,EPL,Liverpool,Wolves,2,1,H,88.0,8.7,3.3,H,0
+260006,9,2025-02-17,LaLiga,Barcelona,Vallecano,1,0,H,88.0,10.2,1.8,H,0
+260006,10,2025-02-19,EPL,Aston Villa,Liverpool,2,2,D,17.3,17.8,64.9,A,1
+260006,11,2025-02-21,EPL,Leicester,Brentford,0,4,A,26.1,24.7,49.2,A,0
+260006,12,2025-02-21,LaLiga,Celta,Osasuna,1,0,H,70.9,18.9,10.2,H,0
+260006,13,2025-02-22,LaLiga,Las Palmas,Barcelona,0,2,A,1.9,10.1,88.0,A,0
+260006,14,2025-02-22,LaLiga,Alaves,Espanol,0,1,A,65.9,21.9,12.2,H,1
+260007,1,2025-02-16,EPL,Liverpool,Wolves,2,1,H,88.0,8.7,3.3,H,0
+260007,2,2025-02-17,LaLiga,Barcelona,Vallecano,1,0,H,88.0,10.2,1.8,H,0
+260007,3,2025-02-19,EPL,Aston Villa,Liverpool,2,2,D,17.3,17.8,64.9,A,1
+260007,4,2025-02-21,EPL,Leicester,Brentford,0,4,A,26.1,24.7,49.2,A,0
+260007,5,2025-02-21,LaLiga,Celta,Osasuna,1,0,H,70.9,18.9,10.2,H,0
+260007,6,2025-02-22,LaLiga,Las Palmas,Barcelona,0,2,A,1.9,10.1,88.0,A,0
+260007,7,2025-02-22,LaLiga,Alaves,Espanol,0,1,A,65.9,21.9,12.2,H,1
+260007,8,2025-02-22,LaLiga,Vallecano,Villarreal,0,1,A,33.0,27.1,39.9,A,0
+260007,9,2025-02-22,EPL,Bournemouth,Wolves,0,1,A,77.2,15.8,7.0,H,1
+260007,10,2025-02-22,EPL,Southampton,Brighton,0,4,A,6.3,17.3,76.4,A,0
+260007,11,2025-02-22,EPL,Fulham,Crystal Palace,0,2,A,46.4,28.0,25.7,H,1
+260007,12,2025-02-22,EPL,Ipswich,Tottenham,1,4,A,17.3,19.9,62.8,A,0
+260007,13,2025-02-22,EPL,Aston Villa,Chelsea,2,1,H,35.9,27.8,36.3,A,1
+260007,14,2025-02-22,LaLiga,Valencia,Ath Madrid,0,3,A,22.6,27.9,49.6,A,0
+260008,1,2025-02-22,LaLiga,Vallecano,Villarreal,0,1,A,33.0,27.1,39.9,A,0
+260008,2,2025-02-22,EPL,Bournemouth,Wolves,0,1,A,77.2,15.8,7.0,H,1
+260008,3,2025-02-22,EPL,Southampton,Brighton,0,4,A,6.3,17.3,76.4,A,0
+260008,4,2025-02-22,EPL,Fulham,Crystal Palace,0,2,A,46.4,28.0,25.7,H,1
+260008,5,2025-02-22,EPL,Ipswich,Tottenham,1,4,A,17.3,19.9,62.8,A,0
+260008,6,2025-02-22,EPL,Aston Villa,Chelsea,2,1,H,35.9,27.8,36.3,A,1
+260008,7,2025-02-22,LaLiga,Valencia,Ath Madrid,0,3,A,22.6,27.9,49.6,A,0
+260008,8,2025-02-22,EPL,Arsenal,West Ham,0,1,A,88.0,11.9,0.1,H,1
+260008,9,2025-02-22,EPL,Everton,Man United,2,2,D,37.8,29.6,32.6,H,1
+260008,10,2025-02-23,LaLiga,Ath Bilbao,Valladolid,7,1,H,88.0,10.2,1.8,H,0
+260008,11,2025-02-23,LaLiga,Sociedad,Leganes,3,0,H,76.5,19.0,4.6,H,0
+260008,12,2025-02-23,LaLiga,Getafe,Betis,1,2,A,36.6,30.7,32.8,H,1
+260008,13,2025-02-23,EPL,Man City,Liverpool,0,2,A,32.9,24.9,42.1,A,0
+260008,14,2025-02-23,EPL,Newcastle,Nott'm Forest,4,3,H,65.7,18.7,15.6,H,0
+260009,1,2025-02-22,EPL,Arsenal,West Ham,0,1,A,88.0,11.9,0.1,H,1
+260009,2,2025-02-22,EPL,Everton,Man United,2,2,D,37.8,29.6,32.6,H,1
+260009,3,2025-02-23,LaLiga,Ath Bilbao,Valladolid,7,1,H,88.0,10.2,1.8,H,0
+260009,4,2025-02-23,LaLiga,Sociedad,Leganes,3,0,H,76.5,19.0,4.6,H,0
+260009,5,2025-02-23,LaLiga,Getafe,Betis,1,2,A,36.6,30.7,32.8,H,1
+260009,6,2025-02-23,EPL,Man City,Liverpool,0,2,A,32.9,24.9,42.1,A,0
+260009,7,2025-02-23,EPL,Newcastle,Nott'm Forest,4,3,H,65.7,18.7,15.6,H,0
+260009,8,2025-02-23,LaLiga,Real Madrid,Girona,2,0,H,88.0,11.4,0.6,H,0
+260009,9,2025-02-24,LaLiga,Sevilla,Mallorca,1,1,D,46.2,29.6,24.3,H,1
+260009,10,2025-02-25,EPL,Chelsea,Southampton,4,0,H,88.0,8.9,3.1,H,0
+260009,11,2025-02-25,EPL,Brighton,Bournemouth,2,1,H,46.9,24.7,28.4,H,0
+260009,12,2025-02-25,EPL,Crystal Palace,Aston Villa,4,1,H,38.5,27.8,33.7,H,0
+260009,13,2025-02-25,EPL,Wolves,Fulham,1,2,A,35.8,28.5,35.8,H,1
+260009,14,2025-02-26,EPL,Tottenham,Man City,0,1,A,29.1,23.6,47.3,A,0
+260010,1,2025-02-23,LaLiga,Real Madrid,Girona,2,0,H,88.0,11.4,0.6,H,0
+260010,2,2025-02-24,LaLiga,Sevilla,Mallorca,1,1,D,46.2,29.6,24.3,H,1
+260010,3,2025-02-25,EPL,Chelsea,Southampton,4,0,H,88.0,8.9,3.1,H,0
+260010,4,2025-02-25,EPL,Brighton,Bournemouth,2,1,H,46.9,24.7,28.4,H,0
+260010,5,2025-02-25,EPL,Crystal Palace,Aston Villa,4,1,H,38.5,27.8,33.7,H,0
+260010,6,2025-02-25,EPL,Wolves,Fulham,1,2,A,35.8,28.5,35.8,H,1
+260010,7,2025-02-26,EPL,Tottenham,Man City,0,1,A,29.1,23.6,47.3,A,0
+260010,8,2025-02-26,EPL,Man United,Ipswich,3,2,H,77.7,16.5,5.8,H,0
+260010,9,2025-02-26,EPL,Liverpool,Newcastle,2,0,H,78.4,15.7,5.9,H,0
+260010,10,2025-02-26,EPL,Nott'm Forest,Arsenal,0,0,D,24.5,26.5,49.0,A,1
+260010,11,2025-02-26,EPL,Brentford,Everton,1,1,D,47.3,25.6,27.1,H,1
+260010,12,2025-02-27,EPL,West Ham,Leicester,2,0,H,73.1,16.9,10.0,H,0
+260010,13,2025-02-28,LaLiga,Valladolid,Las Palmas,1,1,D,30.7,29.7,39.6,A,1
+260010,14,2025-03-01,LaLiga,Valencia,Real Madrid,1,2,A,2.1,15.6,82.3,A,0
+260011,1,2025-02-26,EPL,Man United,Ipswich,3,2,H,77.7,16.5,5.8,H,0
+260011,2,2025-02-26,EPL,Liverpool,Newcastle,2,0,H,78.4,15.7,5.9,H,0
+260011,3,2025-02-26,EPL,Nott'm Forest,Arsenal,0,0,D,24.5,26.5,49.0,A,1
+260011,4,2025-02-26,EPL,Brentford,Everton,1,1,D,47.3,25.6,27.1,H,1
+260011,5,2025-02-27,EPL,West Ham,Leicester,2,0,H,73.1,16.9,10.0,H,0
+260011,6,2025-02-28,LaLiga,Valladolid,Las Palmas,1,1,D,30.7,29.7,39.6,A,1
+260011,7,2025-03-01,LaLiga,Valencia,Real Madrid,1,2,A,2.1,15.6,82.3,A,0
+260011,8,2025-03-02,EPL,Chelsea,West Ham,2,1,H,85.8,14.7,-0.6,H,0
+260011,9,2025-03-02,LaLiga,Girona,Las Palmas,2,1,H,73.5,16.8,9.7,H,0
+260011,10,2025-03-04,EPL,Chelsea,Tottenham,1,0,H,72.1,15.9,12.0,H,0
+260011,11,2025-03-05,EPL,Arsenal,Bournemouth,1,2,A,46.4,25.7,28.0,H,1
+260011,12,2025-03-05,LaLiga,Villarreal,Osasuna,4,2,H,77.2,16.9,5.9,H,0
+260011,13,2025-03-05,LaLiga,Alaves,Ath Madrid,0,0,D,25.5,30.5,44.0,A,1
+260011,14,2025-03-05,LaLiga,Las Palmas,Valencia,2,3,A,36.1,28.8,35.2,H,1
+260012,1,2025-03-02,EPL,Chelsea,West Ham,2,1,H,85.8,14.7,-0.6,H,0
+260012,2,2025-03-02,LaLiga,Girona,Las Palmas,2,1,H,73.5,16.8,9.7,H,0
+260012,3,2025-03-04,EPL,Chelsea,Tottenham,1,0,H,72.1,15.9,12.0,H,0
+260012,4,2025-03-05,EPL,Arsenal,Bournemouth,1,2,A,46.4,25.7,28.0,H,1
+260012,5,2025-03-05,LaLiga,Villarreal,Osasuna,4,2,H,77.2,16.9,5.9,H,0
+260012,6,2025-03-05,LaLiga,Alaves,Ath Madrid,0,0,D,25.5,30.5,44.0,A,1
+260012,7,2025-03-05,LaLiga,Las Palmas,Valencia,2,3,A,36.1,28.8,35.2,H,1
+260012,8,2025-03-05,LaLiga,Valladolid,Barcelona,1,2,A,3.2,8.8,88.0,A,0
+260012,9,2025-03-05,EPL,Aston Villa,Fulham,1,0,H,67.0,19.0,14.0,H,0
+260012,10,2025-03-05,EPL,Everton,Ipswich,2,2,D,80.2,16.1,3.6,H,1
+260012,11,2025-03-05,EPL,Leicester,Southampton,2,0,H,41.0,26.2,32.8,H,0
+260012,12,2025-03-14,LaLiga,Las Palmas,Alaves,2,2,D,33.3,31.9,34.8,A,1
+260012,13,2025-03-15,EPL,Southampton,Wolves,1,2,A,25.4,27.6,47.0,A,0
+260012,14,2025-03-15,EPL,Bournemouth,Brentford,1,2,A,68.5,16.9,14.5,H,1
+260013,1,2025-03-05,LaLiga,Valladolid,Barcelona,1,2,A,3.2,8.8,88.0,A,0
+260013,2,2025-03-05,EPL,Aston Villa,Fulham,1,0,H,67.0,19.0,14.0,H,0
+260013,3,2025-03-05,EPL,Everton,Ipswich,2,2,D,80.2,16.1,3.6,H,1
+260013,4,2025-03-05,EPL,Leicester,Southampton,2,0,H,41.0,26.2,32.8,H,0
+260013,5,2025-03-14,LaLiga,Las Palmas,Alaves,2,2,D,33.3,31.9,34.8,A,1
+260013,6,2025-03-15,EPL,Southampton,Wolves,1,2,A,25.4,27.6,47.0,A,0
+260013,7,2025-03-15,EPL,Bournemouth,Brentford,1,2,A,68.5,16.9,14.5,H,1
+260013,8,2025-03-15,LaLiga,Valladolid,Celta,0,1,A,10.4,18.3,71.2,A,0
+260013,9,2025-03-15,EPL,Ipswich,Nott'm Forest,2,4,A,25.3,27.1,47.5,A,0
+260013,10,2025-03-15,EPL,Everton,West Ham,1,1,D,46.2,29.6,24.3,H,1
+260013,11,2025-03-15,LaLiga,Girona,Valencia,1,1,D,49.0,26.9,24.1,H,1
+260013,12,2025-03-15,LaLiga,Villarreal,Real Madrid,1,2,A,30.6,25.3,44.1,A,0
+260013,13,2025-03-15,EPL,Man City,Brighton,2,2,D,71.2,16.5,12.4,H,1
+260013,14,2025-03-15,LaLiga,Mallorca,Espanol,2,1,H,66.1,21.3,12.6,H,0
+260014,1,2025-03-15,LaLiga,Valladolid,Celta,0,1,A,10.4,18.3,71.2,A,0
+260014,2,2025-03-15,EPL,Ipswich,Nott'm Forest,2,4,A,25.3,27.1,47.5,A,0
+260014,3,2025-03-15,EPL,Everton,West Ham,1,1,D,46.2,29.6,24.3,H,1
+260014,4,2025-03-15,LaLiga,Girona,Valencia,1,1,D,49.0,26.9,24.1,H,1
+260014,5,2025-03-15,LaLiga,Villarreal,Real Madrid,1,2,A,30.6,25.3,44.1,A,0
+260014,6,2025-03-15,EPL,Man City,Brighton,2,2,D,71.2,16.5,12.4,H,1
+260014,7,2025-03-15,LaLiga,Mallorca,Espanol,2,1,H,66.1,21.3,12.6,H,0
+260014,8,2025-03-16,EPL,Fulham,Tottenham,2,0,H,47.9,25.5,26.6,H,0
+260014,9,2025-03-16,LaLiga,Osasuna,Getafe,1,2,A,42.1,32.9,24.9,H,1
+260014,10,2025-03-16,LaLiga,Vallecano,Sociedad,2,2,D,37.9,31.6,30.5,H,1
+260014,11,2025-03-16,LaLiga,Leganes,Betis,2,3,A,25.0,28.8,46.3,A,0
+260014,12,2025-03-16,EPL,Leicester,Man United,0,3,A,14.9,20.3,64.8,A,0
+260014,13,2025-03-16,EPL,Arsenal,Chelsea,1,0,H,65.8,19.7,14.5,H,0
+260014,14,2025-03-16,LaLiga,Ath Madrid,Barcelona,2,4,A,30.6,26.3,43.1,A,0
+260015,1,2025-03-16,EPL,Fulham,Tottenham,2,0,H,47.9,25.5,26.6,H,0
+260015,2,2025-03-16,LaLiga,Osasuna,Getafe,1,2,A,42.1,32.9,24.9,H,1
+260015,3,2025-03-16,LaLiga,Vallecano,Sociedad,2,2,D,37.9,31.6,30.5,H,1
+260015,4,2025-03-16,LaLiga,Leganes,Betis,2,3,A,25.0,28.8,46.3,A,0
+260015,5,2025-03-16,EPL,Leicester,Man United,0,3,A,14.9,20.3,64.8,A,0
+260015,6,2025-03-16,EPL,Arsenal,Chelsea,1,0,H,65.8,19.7,14.5,H,0
+260015,7,2025-03-16,LaLiga,Ath Madrid,Barcelona,2,4,A,30.6,26.3,43.1,A,0
+260015,8,2025-03-16,LaLiga,Sevilla,Ath Bilbao,0,1,A,32.6,29.6,37.8,A,0
+260015,9,2025-03-27,LaLiga,Barcelona,Osasuna,3,0,H,88.0,10.1,1.9,H,0
+260015,10,2025-03-29,LaLiga,Sociedad,Valladolid,2,1,H,88.0,15.0,-3.0,H,0
+260015,11,2025-03-29,LaLiga,Real Madrid,Leganes,3,2,H,88.0,8.8,3.2,H,0
+260015,12,2025-03-29,LaLiga,Alaves,Vallecano,0,2,A,44.1,32.7,23.1,H,1
+260015,13,2025-03-29,LaLiga,Espanol,Ath Madrid,1,1,D,8.8,18.8,72.4,A,1
+260015,14,2025-03-30,LaLiga,Barcelona,Girona,4,1,H,88.0,10.9,1.1,H,0
+260016,1,2025-03-16,LaLiga,Sevilla,Ath Bilbao,0,1,A,32.6,29.6,37.8,A,0
+260016,2,2025-03-27,LaLiga,Barcelona,Osasuna,3,0,H,88.0,10.1,1.9,H,0
+260016,3,2025-03-29,LaLiga,Sociedad,Valladolid,2,1,H,88.0,15.0,-3.0,H,0
+260016,4,2025-03-29,LaLiga,Real Madrid,Leganes,3,2,H,88.0,8.8,3.2,H,0
+260016,5,2025-03-29,LaLiga,Alaves,Vallecano,0,2,A,44.1,32.7,23.1,H,1
+260016,6,2025-03-29,LaLiga,Espanol,Ath Madrid,1,1,D,8.8,18.8,72.4,A,1
+260016,7,2025-03-30,LaLiga,Barcelona,Girona,4,1,H,88.0,10.9,1.1,H,0
+260016,8,2025-03-30,LaLiga,Getafe,Villarreal,1,2,A,29.1,30.6,40.3,A,0
+260016,9,2025-03-30,LaLiga,Ath Bilbao,Osasuna,0,0,D,80.1,17.0,2.9,H,1
+260016,10,2025-03-30,LaLiga,Valencia,Mallorca,1,0,H,44.1,30.6,25.3,H,0
+260016,11,2025-03-30,LaLiga,Betis,Sevilla,2,1,H,64.3,20.2,15.6,H,0
+260016,12,2025-03-31,LaLiga,Celta,Las Palmas,1,1,D,74.9,17.2,7.9,H,1
+260016,13,2025-04-01,EPL,Tottenham,Newcastle,1,2,A,32.9,24.9,42.1,A,0
+260016,14,2025-04-01,EPL,Bournemouth,Everton,1,0,H,68.5,19.0,12.6,H,0
+260017,1,2025-03-30,LaLiga,Getafe,Villarreal,1,2,A,29.1,30.6,40.3,A,0
+260017,2,2025-03-30,LaLiga,Ath Bilbao,Osasuna,0,0,D,80.1,17.0,2.9,H,1
+260017,3,2025-03-30,LaLiga,Valencia,Mallorca,1,0,H,44.1,30.6,25.3,H,0
+260017,4,2025-03-30,LaLiga,Betis,Sevilla,2,1,H,64.3,20.2,15.6,H,0
+260017,5,2025-03-31,LaLiga,Celta,Las Palmas,1,1,D,74.9,17.2,7.9,H,1
+260017,6,2025-04-01,EPL,Tottenham,Newcastle,1,2,A,32.9,24.9,42.1,A,0
+260017,7,2025-04-01,EPL,Bournemouth,Everton,1,0,H,68.5,19.0,12.6,H,0
+260017,8,2025-04-01,EPL,Brighton,Arsenal,1,1,D,15.1,19.0,65.9,A,1
+260017,9,2025-04-01,EPL,Man City,West Ham,4,1,H,88.0,11.3,0.7,H,0
+260017,10,2025-04-01,EPL,Southampton,Brentford,0,5,A,31.9,28.2,39.9,A,0
+260017,11,2025-04-01,EPL,Crystal Palace,Chelsea,1,1,D,25.0,25.3,49.7,A,1
+260017,12,2025-04-01,EPL,Aston Villa,Leicester,2,1,H,88.0,13.0,-1.0,H,0
+260017,13,2025-04-04,LaLiga,Vallecano,Espanol,0,4,A,71.6,20.2,8.2,H,1
+260017,14,2025-04-05,LaLiga,Sevilla,Leganes,2,2,D,66.5,20.2,13.3,H,1
+260018,1,2025-04-01,EPL,Brighton,Arsenal,1,1,D,15.1,19.0,65.9,A,1
+260018,2,2025-04-01,EPL,Man City,West Ham,4,1,H,88.0,11.3,0.7,H,0
+260018,3,2025-04-01,EPL,Southampton,Brentford,0,5,A,31.9,28.2,39.9,A,0
+260018,4,2025-04-01,EPL,Crystal Palace,Chelsea,1,1,D,25.0,25.3,49.7,A,1
+260018,5,2025-04-01,EPL,Aston Villa,Leicester,2,1,H,88.0,13.0,-1.0,H,0
+260018,6,2025-04-04,LaLiga,Vallecano,Espanol,0,4,A,71.6,20.2,8.2,H,1
+260018,7,2025-04-05,LaLiga,Sevilla,Leganes,2,2,D,66.5,20.2,13.3,H,1
+260018,8,2025-04-05,EPL,Chelsea,Liverpool,3,1,H,44.0,25.5,30.5,H,0
+260018,9,2025-04-05,LaLiga,Espanol,Betis,1,2,A,28.7,31.5,39.8,A,0
+260018,10,2025-04-05,EPL,Brighton,Newcastle,1,1,D,33.0,25.7,41.3,A,1
+260018,11,2025-04-05,EPL,Brentford,Man United,4,3,H,71.4,17.2,11.3,H,0
+260018,12,2025-04-05,LaLiga,Real Madrid,Celta,3,2,H,87.9,12.2,-0.2,H,0
+260018,13,2025-04-05,EPL,West Ham,Tottenham,1,1,D,45.2,25.6,29.2,H,1
+260018,14,2025-04-05,LaLiga,Sociedad,Ath Bilbao,0,0,D,37.0,31.5,31.5,H,1
+260019,1,2025-04-05,EPL,Chelsea,Liverpool,3,1,H,44.0,25.5,30.5,H,0
+260019,2,2025-04-05,LaLiga,Espanol,Betis,1,2,A,28.7,31.5,39.8,A,0
+260019,3,2025-04-05,EPL,Brighton,Newcastle,1,1,D,33.0,25.7,41.3,A,1
+260019,4,2025-04-05,EPL,Brentford,Man United,4,3,H,71.4,17.2,11.3,H,0
+260019,5,2025-04-05,LaLiga,Real Madrid,Celta,3,2,H,87.9,12.2,-0.2,H,0
+260019,6,2025-04-05,EPL,West Ham,Tottenham,1,1,D,45.2,25.6,29.2,H,1
+260019,7,2025-04-05,LaLiga,Sociedad,Ath Bilbao,0,0,D,37.0,31.5,31.5,H,1
+260019,8,2025-04-13,LaLiga,Alaves,Real Madrid,0,1,A,9.2,17.4,73.4,A,0
+260019,9,2025-04-13,EPL,Wolves,Tottenham,4,2,H,43.1,26.3,30.6,H,0
+260019,10,2025-04-13,EPL,Chelsea,Ipswich,2,2,D,88.0,10.2,1.8,H,1
+260019,11,2025-04-13,LaLiga,Osasuna,Girona,2,1,H,39.1,30.0,30.9,H,0
+260019,12,2025-04-13,LaLiga,Betis,Villarreal,1,2,A,40.5,28.8,30.7,H,1
+260019,13,2025-04-13,LaLiga,Ath Bilbao,Vallecano,3,1,H,68.2,21.1,10.7,H,0
+260019,14,2025-04-13,EPL,Liverpool,West Ham,2,1,H,88.0,11.8,0.2,H,0
+260020,1,2025-04-13,LaLiga,Alaves,Real Madrid,0,1,A,9.2,17.4,73.4,A,0
+260020,2,2025-04-13,EPL,Wolves,Tottenham,4,2,H,43.1,26.3,30.6,H,0
+260020,3,2025-04-13,EPL,Chelsea,Ipswich,2,2,D,88.0,10.2,1.8,H,1
+260020,4,2025-04-13,LaLiga,Osasuna,Girona,2,1,H,39.1,30.0,30.9,H,0
+260020,5,2025-04-13,LaLiga,Betis,Villarreal,1,2,A,40.5,28.8,30.7,H,1
+260020,6,2025-04-13,LaLiga,Ath Bilbao,Vallecano,3,1,H,68.2,21.1,10.7,H,0
+260020,7,2025-04-13,EPL,Liverpool,West Ham,2,1,H,88.0,11.8,0.2,H,0
+260020,8,2025-04-13,EPL,Newcastle,Man United,4,1,H,71.8,16.9,11.2,H,0
+260020,9,2025-04-14,EPL,Bournemouth,Fulham,1,0,H,44.1,27.1,28.8,H,0
+260020,10,2025-04-14,LaLiga,Ath Madrid,Valladolid,4,2,H,88.0,8.9,3.1,H,0
+260020,11,2025-04-16,EPL,Newcastle,Crystal Palace,5,0,H,70.9,18.2,10.8,H,0
+260020,12,2025-04-18,LaLiga,Espanol,Getafe,1,0,H,32.7,35.8,31.4,D,1
+260020,13,2025-04-19,EPL,Crystal Palace,Bournemouth,0,0,D,38.3,26.1,35.7,H,1
+260020,14,2025-04-19,EPL,Aston Villa,Newcastle,4,1,H,40.4,25.8,33.8,H,0
+260021,1,2025-04-13,EPL,Newcastle,Man United,4,1,H,71.8,16.9,11.2,H,0
+260021,2,2025-04-14,EPL,Bournemouth,Fulham,1,0,H,44.1,27.1,28.8,H,0
+260021,3,2025-04-14,LaLiga,Ath Madrid,Valladolid,4,2,H,88.0,8.9,3.1,H,0
+260021,4,2025-04-16,EPL,Newcastle,Crystal Palace,5,0,H,70.9,18.2,10.8,H,0
+260021,5,2025-04-18,LaLiga,Espanol,Getafe,1,0,H,32.7,35.8,31.4,D,1
+260021,6,2025-04-19,EPL,Crystal Palace,Bournemouth,0,0,D,38.3,26.1,35.7,H,1
+260021,7,2025-04-19,EPL,Aston Villa,Newcastle,4,1,H,40.4,25.8,33.8,H,0
+260021,8,2025-04-19,EPL,Brentford,Brighton,4,2,H,39.2,25.1,35.8,H,0
+260021,9,2025-04-19,LaLiga,Las Palmas,Ath Madrid,1,0,H,6.8,16.9,76.3,A,1
+260021,10,2025-04-19,EPL,Everton,Man City,0,2,A,25.2,25.9,48.9,A,0
+260021,11,2025-04-19,LaLiga,Barcelona,Celta,4,3,H,88.0,12.2,-0.2,H,0
+260021,12,2025-04-19,LaLiga,Vallecano,Valencia,1,1,D,41.5,31.1,27.4,H,1
+260021,13,2025-04-19,EPL,West Ham,Southampton,1,1,D,79.6,16.3,4.0,H,1
+260021,14,2025-04-19,LaLiga,Mallorca,Leganes,0,0,D,63.6,22.8,13.7,H,1
+260022,1,2025-04-19,EPL,Brentford,Brighton,4,2,H,39.2,25.1,35.8,H,0
+260022,2,2025-04-19,LaLiga,Las Palmas,Ath Madrid,1,0,H,6.8,16.9,76.3,A,1
+260022,3,2025-04-19,EPL,Everton,Man City,0,2,A,25.2,25.9,48.9,A,0
+260022,4,2025-04-19,LaLiga,Barcelona,Celta,4,3,H,88.0,12.2,-0.2,H,0
+260022,5,2025-04-19,LaLiga,Vallecano,Valencia,1,1,D,41.5,31.1,27.4,H,1
+260022,6,2025-04-19,EPL,West Ham,Southampton,1,1,D,79.6,16.3,4.0,H,1
+260022,7,2025-04-19,LaLiga,Mallorca,Leganes,0,0,D,63.6,22.8,13.7,H,1
+260022,8,2025-04-20,LaLiga,Valladolid,Osasuna,2,3,A,15.0,20.8,64.3,A,0
+260022,9,2025-04-20,LaLiga,Villarreal,Sociedad,2,2,D,69.5,19.1,11.4,H,1
+260022,10,2025-04-20,EPL,Leicester,Liverpool,0,1,A,0.8,11.2,88.0,A,0
+260022,11,2025-04-20,EPL,Man United,Wolves,0,1,A,47.4,26.3,26.3,H,1
+260022,12,2025-04-20,EPL,Ipswich,Arsenal,0,4,A,0.2,15.7,84.1,A,0
+260022,13,2025-04-20,EPL,Fulham,Chelsea,1,2,A,34.7,25.3,39.9,A,0
+260022,14,2025-04-20,LaLiga,Sevilla,Alaves,1,1,D,47.1,30.4,22.4,H,1
+260023,1,2025-04-20,LaLiga,Valladolid,Osasuna,2,3,A,15.0,20.8,64.3,A,0
+260023,2,2025-04-20,LaLiga,Villarreal,Sociedad,2,2,D,69.5,19.1,11.4,H,1
+260023,3,2025-04-20,EPL,Leicester,Liverpool,0,1,A,0.8,11.2,88.0,A,0
+260023,4,2025-04-20,EPL,Man United,Wolves,0,1,A,47.4,26.3,26.3,H,1
+260023,5,2025-04-20,EPL,Ipswich,Arsenal,0,4,A,0.2,15.7,84.1,A,0
+260023,6,2025-04-20,EPL,Fulham,Chelsea,1,2,A,34.7,25.3,39.9,A,0
+260023,7,2025-04-20,LaLiga,Sevilla,Alaves,1,1,D,47.1,30.4,22.4,H,1
+260023,8,2025-04-20,LaLiga,Real Madrid,Ath Bilbao,1,0,H,71.9,18.3,9.8,H,0
+260023,9,2025-04-21,LaLiga,Girona,Betis,1,3,A,32.8,28.6,38.6,A,0
+260023,10,2025-04-21,EPL,Tottenham,Nott'm Forest,1,2,A,38.3,26.1,35.7,H,1
+260023,11,2025-04-22,LaLiga,Valencia,Espanol,1,1,D,48.4,28.6,23.0,H,1
+260023,12,2025-04-22,LaLiga,Barcelona,Mallorca,1,0,H,88.0,10.2,1.8,H,0
+260023,13,2025-04-22,EPL,Man City,Aston Villa,2,1,H,65.8,17.3,16.9,H,0
+260023,14,2025-04-23,LaLiga,Getafe,Real Madrid,0,1,A,12.9,19.7,67.4,A,0
+260024,1,2025-04-20,LaLiga,Real Madrid,Ath Bilbao,1,0,H,71.9,18.3,9.8,H,0
+260024,2,2025-04-21,LaLiga,Girona,Betis,1,3,A,32.8,28.6,38.6,A,0
+260024,3,2025-04-21,EPL,Tottenham,Nott'm Forest,1,2,A,38.3,26.1,35.7,H,1
+260024,4,2025-04-22,LaLiga,Valencia,Espanol,1,1,D,48.4,28.6,23.0,H,1
+260024,5,2025-04-22,LaLiga,Barcelona,Mallorca,1,0,H,88.0,10.2,1.8,H,0
+260024,6,2025-04-22,EPL,Man City,Aston Villa,2,1,H,65.8,17.3,16.9,H,0
+260024,7,2025-04-23,LaLiga,Getafe,Real Madrid,0,1,A,12.9,19.7,67.4,A,0
+260024,8,2025-04-23,LaLiga,Celta,Villarreal,3,0,H,38.0,28.0,34.0,H,0
+260024,9,2025-04-23,EPL,Arsenal,Crystal Palace,2,2,D,84.4,14.9,0.7,H,1
+260024,10,2025-04-23,LaLiga,Ath Bilbao,Las Palmas,1,0,H,86.0,13.4,0.6,H,0
+260024,11,2025-04-23,LaLiga,Alaves,Sociedad,1,0,H,40.4,31.7,27.9,H,0
+260024,12,2025-04-24,LaLiga,Ath Madrid,Vallecano,3,0,H,77.3,17.7,5.0,H,0
+260024,13,2025-04-24,LaLiga,Betis,Valladolid,5,1,H,88.0,10.2,1.8,H,0
+260024,14,2025-04-24,LaLiga,Osasuna,Sevilla,1,0,H,38.2,31.9,29.9,H,0
+260025,1,2025-04-23,LaLiga,Celta,Villarreal,3,0,H,38.0,28.0,34.0,H,0
+260025,2,2025-04-23,EPL,Arsenal,Crystal Palace,2,2,D,84.4,14.9,0.7,H,1
+260025,3,2025-04-23,LaLiga,Ath Bilbao,Las Palmas,1,0,H,86.0,13.4,0.6,H,0
+260025,4,2025-04-23,LaLiga,Alaves,Sociedad,1,0,H,40.4,31.7,27.9,H,0
+260025,5,2025-04-24,LaLiga,Ath Madrid,Vallecano,3,0,H,77.3,17.7,5.0,H,0
+260025,6,2025-04-24,LaLiga,Betis,Valladolid,5,1,H,88.0,10.2,1.8,H,0
+260025,7,2025-04-24,LaLiga,Osasuna,Sevilla,1,0,H,38.2,31.9,29.9,H,0
+260025,8,2025-04-24,LaLiga,Leganes,Girona,1,1,D,34.6,30.7,34.6,H,1
+260025,9,2025-04-26,EPL,Chelsea,Everton,1,0,H,75.9,17.7,6.4,H,0
+260025,10,2025-04-26,EPL,Brighton,West Ham,3,2,H,71.5,17.0,11.5,H,0
+260025,11,2025-04-26,EPL,Wolves,Leicester,3,0,H,78.3,16.8,5.0,H,0
+260025,12,2025-04-26,EPL,Southampton,Fulham,1,2,A,9.1,17.6,73.3,A,0
+260025,13,2025-04-26,EPL,Newcastle,Ipswich,3,0,H,88.0,9.5,2.5,H,0
+260025,14,2025-04-27,LaLiga,Villarreal,Espanol,1,0,H,82.3,14.2,3.5,H,0
+260026,1,2025-04-24,LaLiga,Leganes,Girona,1,1,D,34.6,30.7,34.6,H,1
+260026,2,2025-04-26,EPL,Chelsea,Everton,1,0,H,75.9,17.7,6.4,H,0
+260026,3,2025-04-26,EPL,Brighton,West Ham,3,2,H,71.5,17.0,11.5,H,0
+260026,4,2025-04-26,EPL,Wolves,Leicester,3,0,H,78.3,16.8,5.0,H,0
+260026,5,2025-04-26,EPL,Southampton,Fulham,1,2,A,9.1,17.6,73.3,A,0
+260026,6,2025-04-26,EPL,Newcastle,Ipswich,3,0,H,88.0,9.5,2.5,H,0
+260026,7,2025-04-27,LaLiga,Villarreal,Espanol,1,0,H,82.3,14.2,3.5,H,0
+260026,8,2025-04-27,EPL,Bournemouth,Man United,1,1,D,69.9,17.5,12.6,H,1
+260026,9,2025-04-27,EPL,Liverpool,Tottenham,5,1,H,88.0,11.8,0.2,H,0
+260026,10,2025-05-01,EPL,Liverpool,Man United,2,2,D,88.0,11.3,0.7,H,1
+260026,11,2025-05-01,EPL,Fulham,Ipswich,2,2,D,76.3,16.9,6.8,H,1
+260026,12,2025-05-04,EPL,Everton,Arsenal,1,1,D,11.6,21.6,66.8,A,1
+260026,13,2025-05-04,EPL,Ipswich,Wolves,1,2,A,35.0,29.1,35.9,A,0
+260026,14,2025-05-04,EPL,Crystal Palace,Brighton,2,1,H,40.1,26.2,33.7,H,0
+260027,1,2025-04-27,EPL,Bournemouth,Man United,1,1,D,69.9,17.5,12.6,H,1
+260027,2,2025-04-27,EPL,Liverpool,Tottenham,5,1,H,88.0,11.8,0.2,H,0
+260027,3,2025-05-01,EPL,Liverpool,Man United,2,2,D,88.0,11.3,0.7,H,1
+260027,4,2025-05-01,EPL,Fulham,Ipswich,2,2,D,76.3,16.9,6.8,H,1
+260027,5,2025-05-04,EPL,Everton,Arsenal,1,1,D,11.6,21.6,66.8,A,1
+260027,6,2025-05-04,EPL,Ipswich,Wolves,1,2,A,35.0,29.1,35.9,A,0
+260027,7,2025-05-04,EPL,Crystal Palace,Brighton,2,1,H,40.1,26.2,33.7,H,0
+260027,8,2025-05-04,LaLiga,Barcelona,Betis,1,1,D,86.7,12.9,0.4,H,1
+260027,9,2025-05-04,LaLiga,Mallorca,Celta,1,2,A,36.2,29.8,34.0,H,1
+260027,10,2025-05-04,LaLiga,Real Madrid,Valencia,1,2,A,88.0,12.3,-0.3,H,1
+260027,11,2025-05-04,LaLiga,Girona,Alaves,0,1,A,46.0,27.8,26.2,H,1
+260027,12,2025-05-04,EPL,Aston Villa,Nott'm Forest,2,1,H,48.3,26.2,25.5,H,0
+260027,13,2025-05-04,EPL,West Ham,Bournemouth,2,2,D,31.6,27.1,41.3,A,1
+260027,14,2025-05-05,EPL,Crystal Palace,Nott'm Forest,1,1,D,42.3,28.0,29.7,H,1
+260028,1,2025-05-04,LaLiga,Barcelona,Betis,1,1,D,86.7,12.9,0.4,H,1
+260028,2,2025-05-04,LaLiga,Mallorca,Celta,1,2,A,36.2,29.8,34.0,H,1
+260028,3,2025-05-04,LaLiga,Real Madrid,Valencia,1,2,A,88.0,12.3,-0.3,H,1
+260028,4,2025-05-04,LaLiga,Girona,Alaves,0,1,A,46.0,27.8,26.2,H,1
+260028,5,2025-05-04,EPL,Aston Villa,Nott'm Forest,2,1,H,48.3,26.2,25.5,H,0
+260028,6,2025-05-04,EPL,West Ham,Bournemouth,2,2,D,31.6,27.1,41.3,A,1
+260028,7,2025-05-05,EPL,Crystal Palace,Nott'm Forest,1,1,D,42.3,28.0,29.7,H,1
+260028,8,2025-05-05,LaLiga,Girona,Mallorca,1,0,H,47.1,30.4,22.4,H,0
+260028,9,2025-05-13,LaLiga,Valladolid,Girona,0,1,A,12.5,18.4,69.1,A,0
+260028,10,2025-05-13,LaLiga,Sevilla,Las Palmas,1,0,H,70.6,19.1,10.2,H,0
+260028,11,2025-05-13,LaLiga,Sociedad,Celta,0,1,A,41.0,28.6,30.4,H,1
+260028,12,2025-05-14,LaLiga,Villarreal,Leganes,3,0,H,88.0,12.4,-0.4,H,0
+260028,13,2025-05-14,LaLiga,Real Madrid,Mallorca,2,1,H,85.6,13.5,0.9,H,0
+260028,14,2025-05-14,LaLiga,Alaves,Valencia,1,0,H,44.5,30.2,25.3,H,0
+260029,1,2025-05-05,LaLiga,Girona,Mallorca,1,0,H,47.1,30.4,22.4,H,0
+260029,2,2025-05-13,LaLiga,Valladolid,Girona,0,1,A,12.5,18.4,69.1,A,0
+260029,3,2025-05-13,LaLiga,Sevilla,Las Palmas,1,0,H,70.6,19.1,10.2,H,0
+260029,4,2025-05-13,LaLiga,Sociedad,Celta,0,1,A,41.0,28.6,30.4,H,1
+260029,5,2025-05-14,LaLiga,Villarreal,Leganes,3,0,H,88.0,12.4,-0.4,H,0
+260029,6,2025-05-14,LaLiga,Real Madrid,Mallorca,2,1,H,85.6,13.5,0.9,H,0
+260029,7,2025-05-14,LaLiga,Alaves,Valencia,1,0,H,44.5,30.2,25.3,H,0
+260029,8,2025-05-15,LaLiga,Vallecano,Betis,2,2,D,31.4,29.4,39.2,A,1
+260029,9,2025-05-15,LaLiga,Espanol,Barcelona,0,2,A,-0.4,12.4,88.0,A,0
+260029,10,2025-05-15,LaLiga,Getafe,Ath Bilbao,0,2,A,29.6,34.4,36.0,A,0
+260029,11,2025-05-15,LaLiga,Osasuna,Ath Madrid,2,0,H,26.3,28.7,45.1,A,1
+260029,12,2025-05-16,EPL,Aston Villa,Tottenham,2,0,H,88.0,11.9,0.1,H,0
+260029,13,2025-05-16,EPL,Chelsea,Man United,1,0,H,82.3,14.2,3.5,H,0
+260029,14,2025-05-18,EPL,West Ham,Nott'm Forest,1,2,A,34.3,28.6,37.0,A,0
+260030,1,2025-05-15,LaLiga,Vallecano,Betis,2,2,D,31.4,29.4,39.2,A,1
+260030,2,2025-05-15,LaLiga,Espanol,Barcelona,0,2,A,-0.4,12.4,88.0,A,0
+260030,3,2025-05-15,LaLiga,Getafe,Ath Bilbao,0,2,A,29.6,34.4,36.0,A,0
+260030,4,2025-05-15,LaLiga,Osasuna,Ath Madrid,2,0,H,26.3,28.7,45.1,A,1
+260030,5,2025-05-16,EPL,Aston Villa,Tottenham,2,0,H,88.0,11.9,0.1,H,0
+260030,6,2025-05-16,EPL,Chelsea,Man United,1,0,H,82.3,14.2,3.5,H,0
+260030,7,2025-05-18,EPL,West Ham,Nott'm Forest,1,2,A,34.3,28.6,37.0,A,0
+260030,8,2025-05-18,EPL,Everton,Southampton,2,0,H,84.4,14.9,0.7,H,0
+260030,9,2025-05-18,LaLiga,Sociedad,Girona,3,2,H,46.3,30.6,23.1,H,0
+260030,10,2025-05-18,LaLiga,Osasuna,Espanol,2,0,H,65.0,21.3,13.8,H,0
+260030,11,2025-05-18,LaLiga,Sevilla,Real Madrid,0,2,A,14.9,17.7,67.4,A,0
+260030,12,2025-05-18,LaLiga,Valencia,Ath Bilbao,0,1,A,43.2,31.7,25.0,H,1
+260030,13,2025-05-18,LaLiga,Las Palmas,Leganes,0,1,A,32.7,27.1,40.3,A,0
+260030,14,2025-05-18,LaLiga,Ath Madrid,Betis,4,1,H,49.2,26.1,24.7,H,0
+260031,1,2025-05-18,EPL,Everton,Southampton,2,0,H,84.4,14.9,0.7,H,0
+260031,2,2025-05-18,LaLiga,Sociedad,Girona,3,2,H,46.3,30.6,23.1,H,0
+260031,3,2025-05-18,LaLiga,Osasuna,Espanol,2,0,H,65.0,21.3,13.8,H,0
+260031,4,2025-05-18,LaLiga,Sevilla,Real Madrid,0,2,A,14.9,17.7,67.4,A,0
+260031,5,2025-05-18,LaLiga,Valencia,Ath Bilbao,0,1,A,43.2,31.7,25.0,H,1
+260031,6,2025-05-18,LaLiga,Las Palmas,Leganes,0,1,A,32.7,27.1,40.3,A,0
+260031,7,2025-05-18,LaLiga,Ath Madrid,Betis,4,1,H,49.2,26.1,24.7,H,0
+260031,8,2025-05-18,LaLiga,Mallorca,Getafe,1,2,A,47.6,29.7,22.7,H,1
+260031,9,2025-05-18,LaLiga,Barcelona,Villarreal,2,3,A,64.6,17.3,18.1,H,1
+260031,10,2025-05-18,LaLiga,Valladolid,Alaves,0,1,A,7.3,18.9,73.8,A,0
+260031,11,2025-05-18,EPL,Arsenal,Newcastle,1,0,H,48.7,25.7,25.7,H,0
+260031,12,2025-05-18,LaLiga,Celta,Vallecano,1,2,A,67.5,18.2,14.4,H,1
+260031,13,2025-05-18,EPL,Leicester,Ipswich,2,0,H,41.1,26.3,32.6,H,0
+260031,14,2025-05-18,EPL,Brentford,Fulham,2,3,A,49.5,24.2,26.3,H,1
+260032,1,2025-05-18,LaLiga,Mallorca,Getafe,1,2,A,47.6,29.7,22.7,H,1
+260032,2,2025-05-18,LaLiga,Barcelona,Villarreal,2,3,A,64.6,17.3,18.1,H,1
+260032,3,2025-05-18,LaLiga,Valladolid,Alaves,0,1,A,7.3,18.9,73.8,A,0
+260032,4,2025-05-18,EPL,Arsenal,Newcastle,1,0,H,48.7,25.7,25.7,H,0
+260032,5,2025-05-18,LaLiga,Celta,Vallecano,1,2,A,67.5,18.2,14.4,H,1
+260032,6,2025-05-18,EPL,Leicester,Ipswich,2,0,H,41.1,26.3,32.6,H,0
+260032,7,2025-05-18,EPL,Brentford,Fulham,2,3,A,49.5,24.2,26.3,H,1
+260032,8,2025-05-19,EPL,Brighton,Liverpool,3,2,H,36.3,25.2,38.5,A,1
+260032,9,2025-05-20,EPL,Crystal Palace,Wolves,4,2,H,41.9,28.6,29.5,H,0
+260032,10,2025-05-20,EPL,Man City,Bournemouth,3,1,H,76.8,16.5,6.7,H,0
+260032,11,2025-05-23,LaLiga,Betis,Valencia,1,1,D,49.5,25.2,25.2,H,1
+260032,12,2025-05-24,LaLiga,Vallecano,Mallorca,0,0,D,77.7,17.0,5.3,H,1
+260032,13,2025-05-24,LaLiga,Real Madrid,Sociedad,2,0,H,83.2,14.2,2.6,H,0
+260032,14,2025-05-24,LaLiga,Alaves,Osasuna,1,1,D,29.7,29.7,40.5,A,1
+260033,1,2025-05-19,EPL,Brighton,Liverpool,3,2,H,36.3,25.2,38.5,A,1
+260033,2,2025-05-20,EPL,Crystal Palace,Wolves,4,2,H,41.9,28.6,29.5,H,0
+260033,3,2025-05-20,EPL,Man City,Bournemouth,3,1,H,76.8,16.5,6.7,H,0
+260033,4,2025-05-23,LaLiga,Betis,Valencia,1,1,D,49.5,25.2,25.2,H,1
+260033,5,2025-05-24,LaLiga,Vallecano,Mallorca,0,0,D,77.7,17.0,5.3,H,1
+260033,6,2025-05-24,LaLiga,Real Madrid,Sociedad,2,0,H,83.2,14.2,2.6,H,0
+260033,7,2025-05-24,LaLiga,Alaves,Osasuna,1,1,D,29.7,29.7,40.5,A,1
+260033,8,2025-05-24,LaLiga,Leganes,Valladolid,3,0,H,88.0,12.9,-0.9,H,0
+260033,9,2025-05-24,LaLiga,Getafe,Celta,1,2,A,16.7,19.0,64.3,A,0
+260033,10,2025-05-24,LaLiga,Espanol,Las Palmas,2,0,H,85.4,14.9,-0.3,H,0
+260033,11,2025-05-25,EPL,Liverpool,Crystal Palace,1,1,D,84.6,11.8,3.5,H,1
+260033,12,2025-05-25,EPL,Bournemouth,Leicester,2,0,H,88.0,13.5,-1.5,H,0
+260033,13,2025-05-25,EPL,Fulham,Man City,0,2,A,9.7,16.8,73.5,A,0
+260033,14,2025-05-25,EPL,Ipswich,West Ham,1,3,A,31.7,25.0,43.2,A,0
+260034,1,2025-05-24,LaLiga,Leganes,Valladolid,3,0,H,88.0,12.9,-0.9,H,0
+260034,2,2025-05-24,LaLiga,Getafe,Celta,1,2,A,16.7,19.0,64.3,A,0
+260034,3,2025-05-24,LaLiga,Espanol,Las Palmas,2,0,H,85.4,14.9,-0.3,H,0
+260034,4,2025-05-25,EPL,Liverpool,Crystal Palace,1,1,D,84.6,11.8,3.5,H,1
+260034,5,2025-05-25,EPL,Bournemouth,Leicester,2,0,H,88.0,13.5,-1.5,H,0
+260034,6,2025-05-25,EPL,Fulham,Man City,0,2,A,9.7,16.8,73.5,A,0
+260034,7,2025-05-25,EPL,Ipswich,West Ham,1,3,A,31.7,25.0,43.2,A,0
+260034,8,2025-05-25,EPL,Tottenham,Brighton,1,4,A,14.1,16.4,69.5,A,0
+260034,9,2025-05-25,EPL,Man United,Aston Villa,2,0,H,13.6,16.9,69.5,A,1
+260034,10,2025-05-25,EPL,Newcastle,Everton,0,1,A,88.0,13.0,-1.0,H,1
+260034,11,2025-05-25,EPL,Nott'm Forest,Chelsea,0,1,A,31.6,25.3,43.1,A,0
+260034,12,2025-05-25,EPL,Southampton,Arsenal,1,2,A,0.1,11.9,88.0,A,0
+260034,13,2025-05-25,LaLiga,Villarreal,Sevilla,4,2,H,81.0,14.4,4.6,H,0
+260034,14,2025-05-25,EPL,Wolves,Brentford,1,1,D,35.3,25.8,38.9,A,1
+260035,1,2025-05-25,EPL,Tottenham,Brighton,1,4,A,14.1,16.4,69.5,A,0
+260035,2,2025-05-25,EPL,Man United,Aston Villa,2,0,H,13.6,16.9,69.5,A,1
+260035,3,2025-05-25,EPL,Newcastle,Everton,0,1,A,88.0,13.0,-1.0,H,1
+260035,4,2025-05-25,EPL,Nott'm Forest,Chelsea,0,1,A,31.6,25.3,43.1,A,0
+260035,5,2025-05-25,EPL,Southampton,Arsenal,1,2,A,0.1,11.9,88.0,A,0
+260035,6,2025-05-25,LaLiga,Villarreal,Sevilla,4,2,H,81.0,14.4,4.6,H,0
+260035,7,2025-05-25,EPL,Wolves,Brentford,1,1,D,35.3,25.8,38.9,A,1
+260035,8,2025-05-25,LaLiga,Ath Bilbao,Barcelona,0,3,A,29.6,25.3,45.1,A,0
+260035,9,2025-05-25,LaLiga,Girona,Ath Madrid,0,4,A,25.0,25.3,49.7,A,0
+260035,10,2025-06-01,EPL,Wolves,Nott'm Forest,0,3,A,28.9,29.8,41.4,A,0
+260035,11,2025-06-04,LaLiga,Las Palmas,Sociedad,1,3,A,29.7,29.7,40.5,A,0
+260035,12,2025-06-04,EPL,Brentford,Chelsea,0,0,D,29.6,26.3,44.1,A,1
+260035,13,2025-06-04,EPL,Fulham,Liverpool,3,2,H,14.9,20.3,64.8,A,1
+260035,14,2025-06-04,EPL,Tottenham,Southampton,3,1,H,85.4,12.9,1.7,H,0
+260036,1,2025-05-25,LaLiga,Ath Bilbao,Barcelona,0,3,A,29.6,25.3,45.1,A,0
+260036,2,2025-05-25,LaLiga,Girona,Ath Madrid,0,4,A,25.0,25.3,49.7,A,0
+260036,3,2025-06-01,EPL,Wolves,Nott'm Forest,0,3,A,28.9,29.8,41.4,A,0
+260036,4,2025-06-04,LaLiga,Las Palmas,Sociedad,1,3,A,29.7,29.7,40.5,A,0
+260036,5,2025-06-04,EPL,Brentford,Chelsea,0,0,D,29.6,26.3,44.1,A,1
+260036,6,2025-06-04,EPL,Fulham,Liverpool,3,2,H,14.9,20.3,64.8,A,1
+260036,7,2025-06-04,EPL,Tottenham,Southampton,3,1,H,85.4,12.9,1.7,H,0
+260036,8,2025-06-04,EPL,Man United,Man City,0,0,D,28.1,26.5,45.4,A,1
+260036,9,2025-06-04,LaLiga,Villarreal,Ath Bilbao,0,0,D,42.7,28.4,28.9,H,1
+260036,10,2025-06-04,LaLiga,Sevilla,Ath Madrid,1,2,A,27.1,29.7,43.2,A,0
+260036,11,2025-06-04,LaLiga,Valladolid,Getafe,0,4,A,19.9,30.4,49.7,A,0
+260036,12,2025-07-02,LaLiga,Vallecano,Valladolid,1,0,H,79.1,17.4,3.5,H,0
+260036,13,2025-07-04,LaLiga,Leganes,Osasuna,1,1,D,35.1,30.5,34.4,H,1
+260036,14,2025-07-04,EPL,Leicester,Newcastle,0,3,A,4.2,16.7,79.1,A,0
+260037,1,2025-06-04,EPL,Man United,Man City,0,0,D,28.1,26.5,45.4,A,1
+260037,2,2025-06-04,LaLiga,Villarreal,Ath Bilbao,0,0,D,42.7,28.4,28.9,H,1
+260037,3,2025-06-04,LaLiga,Sevilla,Ath Madrid,1,2,A,27.1,29.7,43.2,A,0
+260037,4,2025-06-04,LaLiga,Valladolid,Getafe,0,4,A,19.9,30.4,49.7,A,0
+260037,5,2025-07-02,LaLiga,Vallecano,Valladolid,1,0,H,79.1,17.4,3.5,H,0
+260037,6,2025-07-04,LaLiga,Leganes,Osasuna,1,1,D,35.1,30.5,34.4,H,1
+260037,7,2025-07-04,EPL,Leicester,Newcastle,0,3,A,4.2,16.7,79.1,A,0
+260037,8,2025-08-02,LaLiga,Real Madrid,Ath Madrid,1,1,D,64.0,19.7,16.3,H,1
+260037,9,2025-08-02,LaLiga,Celta,Betis,3,2,H,42.3,28.0,29.7,H,0
+260037,10,2025-08-02,LaLiga,Ath Bilbao,Girona,3,0,H,71.7,17.8,10.5,H,0
+260037,11,2025-08-02,LaLiga,Las Palmas,Villarreal,1,2,A,12.1,18.2,69.7,A,0
+260037,12,2025-08-03,EPL,Wolves,Everton,1,1,D,36.5,30.6,32.9,H,1
+260037,13,2025-08-03,EPL,Brentford,Aston Villa,0,1,A,42.8,24.8,32.5,H,1
+260037,14,2025-08-03,EPL,Nott'm Forest,Man City,1,0,H,17.2,18.9,63.9,A,1
+260038,1,2025-08-02,LaLiga,Real Madrid,Ath Madrid,1,1,D,64.0,19.7,16.3,H,1
+260038,2,2025-08-02,LaLiga,Celta,Betis,3,2,H,42.3,28.0,29.7,H,0
+260038,3,2025-08-02,LaLiga,Ath Bilbao,Girona,3,0,H,71.7,17.8,10.5,H,0
+260038,4,2025-08-02,LaLiga,Las Palmas,Villarreal,1,2,A,12.1,18.2,69.7,A,0
+260038,5,2025-08-03,EPL,Wolves,Everton,1,1,D,36.5,30.6,32.9,H,1
+260038,6,2025-08-03,EPL,Brentford,Aston Villa,0,1,A,42.8,24.8,32.5,H,1
+260038,7,2025-08-03,EPL,Nott'm Forest,Man City,1,0,H,17.2,18.9,63.9,A,1
+260038,8,2025-08-03,LaLiga,Celta,Leganes,2,1,H,76.7,18.8,4.5,H,0
+260038,9,2025-08-03,LaLiga,Valencia,Valladolid,2,1,H,85.6,15.8,-1.4,H,0
+260038,10,2025-08-03,LaLiga,Alaves,Villarreal,1,0,H,30.7,29.3,40.0,A,1
+260038,11,2025-08-03,EPL,Liverpool,Southampton,3,1,H,88.0,7.8,4.2,H,0
+260038,12,2025-08-03,EPL,Brighton,Fulham,2,1,H,48.5,26.3,25.2,H,0
+260038,13,2025-08-03,EPL,Crystal Palace,Ipswich,1,0,H,81.3,14.9,3.8,H,0
+260038,14,2025-09-02,LaLiga,Valencia,Leganes,2,0,H,68.6,20.9,10.5,H,0
+260039,1,2025-08-03,LaLiga,Celta,Leganes,2,1,H,76.7,18.8,4.5,H,0
+260039,2,2025-08-03,LaLiga,Valencia,Valladolid,2,1,H,85.6,15.8,-1.4,H,0
+260039,3,2025-08-03,LaLiga,Alaves,Villarreal,1,0,H,30.7,29.3,40.0,A,1
+260039,4,2025-08-03,EPL,Liverpool,Southampton,3,1,H,88.0,7.8,4.2,H,0
+260039,5,2025-08-03,EPL,Brighton,Fulham,2,1,H,48.5,26.3,25.2,H,0
+260039,6,2025-08-03,EPL,Crystal Palace,Ipswich,1,0,H,81.3,14.9,3.8,H,0
+260039,7,2025-09-02,LaLiga,Valencia,Leganes,2,0,H,68.6,20.9,10.5,H,0
+260039,8,2025-09-02,LaLiga,Sociedad,Espanol,2,1,H,74.0,18.2,7.7,H,0
+260039,9,2025-09-02,LaLiga,Alaves,Getafe,0,1,A,41.1,32.6,26.3,H,1
+260039,10,2025-09-02,LaLiga,Sevilla,Barcelona,1,4,A,8.0,15.8,76.2,A,0
+260039,11,2025-09-03,EPL,Tottenham,Bournemouth,2,2,D,35.2,24.4,40.4,A,1
+260039,12,2025-09-03,EPL,Chelsea,Leicester,1,0,H,88.0,8.9,3.1,H,0
+260039,13,2025-09-03,LaLiga,Sociedad,Sevilla,0,1,A,43.2,29.7,27.1,H,1
+260039,14,2025-09-03,LaLiga,Betis,Las Palmas,1,0,H,83.1,15.7,1.2,H,0
+260040,1,2025-09-02,LaLiga,Sociedad,Espanol,2,1,H,74.0,18.2,7.7,H,0
+260040,2,2025-09-02,LaLiga,Alaves,Getafe,0,1,A,41.1,32.6,26.3,H,1
+260040,3,2025-09-02,LaLiga,Sevilla,Barcelona,1,4,A,8.0,15.8,76.2,A,0
+260040,4,2025-09-03,EPL,Tottenham,Bournemouth,2,2,D,35.2,24.4,40.4,A,1
+260040,5,2025-09-03,EPL,Chelsea,Leicester,1,0,H,88.0,8.9,3.1,H,0
+260040,6,2025-09-03,LaLiga,Sociedad,Sevilla,0,1,A,43.2,29.7,27.1,H,1
+260040,7,2025-09-03,LaLiga,Betis,Las Palmas,1,0,H,83.1,15.7,1.2,H,0
+260040,8,2025-09-03,LaLiga,Ath Bilbao,Mallorca,1,1,D,73.2,19.2,7.6,H,1
+260040,9,2025-09-03,LaLiga,Real Madrid,Vallecano,2,1,H,88.0,12.4,-0.4,H,0
+260040,10,2025-09-03,LaLiga,Getafe,Ath Madrid,2,1,H,21.0,30.5,48.5,A,1
+260040,11,2025-09-03,EPL,Man United,Arsenal,1,1,D,9.4,20.4,70.2,A,1
+260040,12,2025-09-05,LaLiga,Las Palmas,Vallecano,0,1,A,38.9,29.3,31.8,H,1
+260040,13,2025-10-01,LaLiga,Vallecano,Celta,2,1,H,34.4,30.5,35.1,A,1
+260040,14,2025-10-02,LaLiga,Mallorca,Osasuna,1,1,D,47.0,31.3,21.7,H,1
+260041,1,2025-09-03,LaLiga,Ath Bilbao,Mallorca,1,1,D,73.2,19.2,7.6,H,1
+260041,2,2025-09-03,LaLiga,Real Madrid,Vallecano,2,1,H,88.0,12.4,-0.4,H,0
+260041,3,2025-09-03,LaLiga,Getafe,Ath Madrid,2,1,H,21.0,30.5,48.5,A,1
+260041,4,2025-09-03,EPL,Man United,Arsenal,1,1,D,9.4,20.4,70.2,A,1
+260041,5,2025-09-05,LaLiga,Las Palmas,Vallecano,0,1,A,38.9,29.3,31.8,H,1
+260041,6,2025-10-01,LaLiga,Vallecano,Celta,2,1,H,34.4,30.5,35.1,A,1
+260041,7,2025-10-02,LaLiga,Mallorca,Osasuna,1,1,D,47.0,31.3,21.7,H,1
+260041,8,2025-10-03,LaLiga,Espanol,Girona,1,1,D,30.7,29.7,39.6,A,1
+260041,9,2025-10-03,EPL,West Ham,Newcastle,0,1,A,29.1,27.8,43.0,A,0
+260041,10,2025-10-05,LaLiga,Ath Madrid,Sociedad,4,0,H,70.0,19.0,11.0,H,0
+260041,11,2025-10-05,EPL,Southampton,Man City,0,0,D,2.5,9.5,88.0,A,1
+260041,12,2025-10-05,EPL,Bournemouth,Aston Villa,0,1,A,39.4,26.3,34.4,H,1
+260041,13,2025-10-05,LaLiga,Mallorca,Valladolid,2,1,H,88.0,13.6,-1.6,H,0
+260041,14,2025-10-05,LaLiga,Girona,Villarreal,0,1,A,30.4,24.8,44.8,A,0
+260042,1,2025-10-03,LaLiga,Espanol,Girona,1,1,D,30.7,29.7,39.6,A,1
+260042,2,2025-10-03,EPL,West Ham,Newcastle,0,1,A,29.1,27.8,43.0,A,0
+260042,3,2025-10-05,LaLiga,Ath Madrid,Sociedad,4,0,H,70.0,19.0,11.0,H,0
+260042,4,2025-10-05,EPL,Southampton,Man City,0,0,D,2.5,9.5,88.0,A,1
+260042,5,2025-10-05,EPL,Bournemouth,Aston Villa,0,1,A,39.4,26.3,34.4,H,1
+260042,6,2025-10-05,LaLiga,Mallorca,Valladolid,2,1,H,88.0,13.6,-1.6,H,0
+260042,7,2025-10-05,LaLiga,Girona,Villarreal,0,1,A,30.4,24.8,44.8,A,0
+260042,8,2025-10-05,LaLiga,Celta,Sevilla,3,2,H,65.8,19.7,14.5,H,0
+260042,9,2025-10-05,LaLiga,Valencia,Getafe,3,0,H,47.0,31.3,21.7,H,0
+260042,10,2025-10-05,EPL,Fulham,Everton,1,3,A,64.4,20.7,14.9,H,1
+260042,11,2025-10-05,EPL,Ipswich,Brentford,0,1,A,10.5,17.8,71.7,A,0
+260042,12,2025-10-05,EPL,Wolves,Brighton,0,2,A,35.1,27.1,37.9,A,0
+260042,13,2025-11-01,LaLiga,Sevilla,Valencia,1,1,D,47.5,28.8,23.7,H,1
+260042,14,2025-11-01,LaLiga,Valladolid,Betis,1,0,H,14.9,20.3,64.8,A,1
+260043,1,2025-10-05,LaLiga,Celta,Sevilla,3,2,H,65.8,19.7,14.5,H,0
+260043,2,2025-10-05,LaLiga,Valencia,Getafe,3,0,H,47.0,31.3,21.7,H,0
+260043,3,2025-10-05,EPL,Fulham,Everton,1,3,A,64.4,20.7,14.9,H,1
+260043,4,2025-10-05,EPL,Ipswich,Brentford,0,1,A,10.5,17.8,71.7,A,0
+260043,5,2025-10-05,EPL,Wolves,Brighton,0,2,A,35.1,27.1,37.9,A,0
+260043,6,2025-11-01,LaLiga,Sevilla,Valencia,1,1,D,47.5,28.8,23.7,H,1
+260043,7,2025-11-01,LaLiga,Valladolid,Betis,1,0,H,14.9,20.3,64.8,A,1
+260043,8,2025-11-01,LaLiga,Espanol,Leganes,1,1,D,44.9,31.5,23.6,H,1
+260043,9,2025-11-01,LaLiga,Alaves,Girona,0,1,A,34.6,30.7,34.6,H,1
+260043,10,2025-11-04,LaLiga,Valencia,Sevilla,1,0,H,41.3,30.7,28.0,H,0
+260043,11,2025-11-05,EPL,Liverpool,Arsenal,2,2,D,47.4,26.3,26.3,H,1
+260043,12,2025-11-05,LaLiga,Barcelona,Real Madrid,4,3,H,47.5,24.4,28.2,H,0
+260043,13,2025-11-05,LaLiga,Ath Bilbao,Alaves,1,0,H,49.5,30.7,19.8,H,0
+260043,14,2025-11-05,EPL,Man United,West Ham,0,2,A,49.9,26.4,23.7,H,1
+260044,1,2025-11-01,LaLiga,Espanol,Leganes,1,1,D,44.9,31.5,23.6,H,1
+260044,2,2025-11-01,LaLiga,Alaves,Girona,0,1,A,34.6,30.7,34.6,H,1
+260044,3,2025-11-04,LaLiga,Valencia,Sevilla,1,0,H,41.3,30.7,28.0,H,0
+260044,4,2025-11-05,EPL,Liverpool,Arsenal,2,2,D,47.4,26.3,26.3,H,1
+260044,5,2025-11-05,LaLiga,Barcelona,Real Madrid,4,3,H,47.5,24.4,28.2,H,0
+260044,6,2025-11-05,LaLiga,Ath Bilbao,Alaves,1,0,H,49.5,30.7,19.8,H,0
+260044,7,2025-11-05,EPL,Man United,West Ham,0,2,A,49.9,26.4,23.7,H,1
+260044,8,2025-11-05,EPL,Nott'm Forest,Leicester,2,2,D,88.0,13.4,-1.4,H,1
+260044,9,2025-11-05,LaLiga,Betis,Osasuna,1,1,D,72.9,18.9,8.2,H,1
+260044,10,2025-11-05,EPL,Tottenham,Crystal Palace,0,2,A,35.9,26.3,37.8,A,0
+260044,11,2025-11-05,LaLiga,Leganes,Espanol,3,2,H,39.2,31.4,29.4,H,0
+260044,12,2025-11-05,EPL,Newcastle,Chelsea,2,0,H,44.7,25.0,30.3,H,0
+260044,13,2025-12-01,LaLiga,Las Palmas,Getafe,1,2,A,38.7,32.7,28.7,H,1
+260044,14,2025-12-01,LaLiga,Ath Madrid,Osasuna,1,0,H,88.0,14.3,-2.3,H,0
+260045,1,2025-11-05,EPL,Nott'm Forest,Leicester,2,2,D,88.0,13.4,-1.4,H,1
+260045,2,2025-11-05,LaLiga,Betis,Osasuna,1,1,D,72.9,18.9,8.2,H,1
+260045,3,2025-11-05,EPL,Tottenham,Crystal Palace,0,2,A,35.9,26.3,37.8,A,0
+260045,4,2025-11-05,LaLiga,Leganes,Espanol,3,2,H,39.2,31.4,29.4,H,0
+260045,5,2025-11-05,EPL,Newcastle,Chelsea,2,0,H,44.7,25.0,30.3,H,0
+260045,6,2025-12-01,LaLiga,Las Palmas,Getafe,1,2,A,38.7,32.7,28.7,H,1
+260045,7,2025-12-01,LaLiga,Ath Madrid,Osasuna,1,0,H,88.0,14.3,-2.3,H,0
+260045,8,2025-12-02,EPL,Everton,Liverpool,2,2,D,1.5,15.9,82.7,A,1
+260045,9,2025-12-04,EPL,Brighton,Leicester,2,2,D,88.0,12.0,0.0,H,1
+260045,10,2025-12-04,EPL,Southampton,Aston Villa,0,3,A,6.2,17.0,76.8,A,0
+260045,11,2025-12-04,EPL,Nott'm Forest,Everton,0,1,A,45.4,28.9,25.8,H,1
+260045,12,2025-12-04,LaLiga,Leganes,Barcelona,0,1,A,0.1,11.9,88.0,A,0
+260045,13,2025-12-04,LaLiga,Celta,Espanol,0,2,A,73.2,19.2,7.6,H,1
+260045,14,2025-12-04,LaLiga,Getafe,Las Palmas,1,3,A,67.6,21.5,10.9,H,1
+260046,1,2024-08-12,LaLiga,Leganes,Sociedad,0,3,A,19.9,30.5,49.5,A,0
+260046,2,2024-08-12,LaLiga,Ath Bilbao,Villarreal,2,0,H,48.7,26.4,25.0,H,0
+260046,3,2024-08-12,LaLiga,Osasuna,Alaves,2,2,D,46.1,28.7,25.2,H,1
+260046,4,2024-08-12,LaLiga,Ath Madrid,Sevilla,4,3,H,86.0,15.0,-1.0,H,0
+260046,5,2024-08-12,EPL,Ipswich,Bournemouth,1,2,A,27.1,25.3,47.5,A,0
+260046,6,2024-08-12,EPL,Tottenham,Chelsea,3,4,A,28.0,24.4,47.6,A,0
+260046,7,2024-08-15,LaLiga,Ath Bilbao,Getafe,1,1,D,80.4,17.8,1.8,H,1
+260046,8,2024-08-15,LaLiga,Betis,Girona,1,1,D,40.4,27.9,31.7,H,1
+260046,9,2024-08-16,LaLiga,Las Palmas,Sevilla,2,2,D,34.2,29.4,36.4,A,1
+260046,10,2024-08-16,EPL,Man United,Fulham,1,0,H,74.2,16.9,8.9,H,0
+260046,11,2024-08-16,LaLiga,Celta,Alaves,2,1,H,47.3,29.6,23.1,H,0
+260046,12,2024-08-17,EPL,Ipswich,Liverpool,0,2,A,-1.0,13.0,88.0,A,0
+260046,13,2024-08-17,EPL,West Ham,Aston Villa,1,2,A,38.9,26.5,34.6,H,1
+260046,14,2024-08-17,EPL,Nott'm Forest,Bournemouth,1,1,D,38.8,27.2,34.0,H,1
+260047,1,2024-08-15,LaLiga,Betis,Girona,1,1,D,40.4,27.9,31.7,H,1
+260047,2,2024-08-16,LaLiga,Las Palmas,Sevilla,2,2,D,34.2,29.4,36.4,A,1
+260047,3,2024-08-16,EPL,Man United,Fulham,1,0,H,74.2,16.9,8.9,H,0
+260047,4,2024-08-16,LaLiga,Celta,Alaves,2,1,H,47.3,29.6,23.1,H,0
+260047,5,2024-08-17,EPL,Ipswich,Liverpool,0,2,A,-1.0,13.0,88.0,A,0
+260047,6,2024-08-17,EPL,West Ham,Aston Villa,1,2,A,38.9,26.5,34.6,H,1
+260047,7,2024-08-17,EPL,Nott'm Forest,Bournemouth,1,1,D,38.8,27.2,34.0,H,1
+260047,8,2024-08-17,EPL,Newcastle,Southampton,1,0,H,87.5,13.6,-1.1,H,0
+260047,9,2024-08-17,EPL,Everton,Brighton,0,3,A,35.8,28.5,35.8,H,1
+260047,10,2024-08-17,EPL,Arsenal,Wolves,2,0,H,88.0,9.5,2.5,H,0
+260047,11,2024-08-17,LaLiga,Valencia,Barcelona,1,2,A,12.5,18.8,68.7,A,0
+260047,12,2024-08-17,LaLiga,Osasuna,Leganes,1,1,D,63.4,21.3,15.3,H,1
+260047,13,2024-08-18,LaLiga,Mallorca,Real Madrid,1,1,D,1.2,17.0,81.9,A,1
+260047,14,2024-08-18,EPL,Chelsea,Man City,0,2,A,16.0,18.2,65.8,A,0
+260048,1,2024-08-17,EPL,Newcastle,Southampton,1,0,H,87.5,13.6,-1.1,H,0
+260048,2,2024-08-17,EPL,Everton,Brighton,0,3,A,35.8,28.5,35.8,H,1
+260048,3,2024-08-17,EPL,Arsenal,Wolves,2,0,H,88.0,9.5,2.5,H,0
+260048,4,2024-08-17,LaLiga,Valencia,Barcelona,1,2,A,12.5,18.8,68.7,A,0
+260048,5,2024-08-17,LaLiga,Osasuna,Leganes,1,1,D,63.4,21.3,15.3,H,1
+260048,6,2024-08-18,LaLiga,Mallorca,Real Madrid,1,1,D,1.2,17.0,81.9,A,1
+260048,7,2024-08-18,EPL,Chelsea,Man City,0,2,A,16.0,18.2,65.8,A,0
+260048,8,2024-08-18,LaLiga,Sociedad,Vallecano,1,2,A,76.1,19.1,4.8,H,1
+260048,9,2024-08-18,EPL,Brentford,Crystal Palace,2,1,H,39.5,27.9,32.7,H,0
+260048,10,2024-08-19,LaLiga,Valladolid,Espanol,1,0,H,40.1,31.8,28.1,H,0
+260048,11,2024-08-19,EPL,Leicester,Tottenham,1,1,D,9.9,16.5,73.6,A,1
+260048,12,2024-08-19,LaLiga,Villarreal,Ath Madrid,2,2,D,28.9,25.8,45.4,A,1
+260048,13,2024-08-23,LaLiga,Celta,Valencia,3,1,H,45.4,28.1,26.5,H,0
+260048,14,2024-08-23,LaLiga,Sevilla,Villarreal,1,2,A,39.6,26.4,34.0,H,1
+260049,1,2024-08-18,LaLiga,Sociedad,Vallecano,1,2,A,76.1,19.1,4.8,H,1
+260049,2,2024-08-18,EPL,Brentford,Crystal Palace,2,1,H,39.5,27.9,32.7,H,0
+260049,3,2024-08-19,LaLiga,Valladolid,Espanol,1,0,H,40.1,31.8,28.1,H,0
+260049,4,2024-08-19,EPL,Leicester,Tottenham,1,1,D,9.9,16.5,73.6,A,1
+260049,5,2024-08-19,LaLiga,Villarreal,Ath Madrid,2,2,D,28.9,25.8,45.4,A,1
+260049,6,2024-08-23,LaLiga,Celta,Valencia,3,1,H,45.4,28.1,26.5,H,0
+260049,7,2024-08-23,LaLiga,Sevilla,Villarreal,1,2,A,39.6,26.4,34.0,H,1
+260049,8,2024-08-24,LaLiga,Osasuna,Mallorca,1,0,H,38.8,30.6,30.6,H,0
+260049,9,2024-08-24,LaLiga,Getafe,Vallecano,0,0,D,38.7,31.6,29.6,H,1
+260049,10,2024-08-24,LaLiga,Barcelona,Ath Bilbao,2,1,H,73.1,16.9,10.0,H,0
+260049,11,2024-08-24,EPL,Tottenham,Everton,4,0,H,82.0,14.9,3.1,H,0
+260049,12,2024-08-24,EPL,Southampton,Nott'm Forest,0,1,A,37.3,28.8,33.9,H,1
+260049,13,2024-08-24,EPL,Man City,Ipswich,4,1,H,88.0,6.0,6.0,H,0
+260049,14,2024-08-24,EPL,Fulham,Leicester,2,1,H,65.5,18.9,15.6,H,0
+260050,1,2024-08-24,LaLiga,Osasuna,Mallorca,1,0,H,38.8,30.6,30.6,H,0
+260050,2,2024-08-24,LaLiga,Getafe,Vallecano,0,0,D,38.7,31.6,29.6,H,1
+260050,3,2024-08-24,LaLiga,Barcelona,Ath Bilbao,2,1,H,73.1,16.9,10.0,H,0
+260050,4,2024-08-24,EPL,Tottenham,Everton,4,0,H,82.0,14.9,3.1,H,0
+260050,5,2024-08-24,EPL,Southampton,Nott'm Forest,0,1,A,37.3,28.8,33.9,H,1
+260050,6,2024-08-24,EPL,Man City,Ipswich,4,1,H,88.0,6.0,6.0,H,0
+260050,7,2024-08-24,EPL,Fulham,Leicester,2,1,H,65.5,18.9,15.6,H,0
+260050,8,2024-08-24,EPL,Crystal Palace,West Ham,0,2,A,44.1,26.3,29.6,H,1
+260050,9,2024-08-24,EPL,Brighton,Man United,2,1,H,38.1,25.7,36.2,H,0
+260050,10,2024-08-24,LaLiga,Espanol,Sociedad,0,1,A,24.3,29.6,46.2,A,0
+260050,11,2024-08-24,EPL,Aston Villa,Arsenal,0,2,A,14.4,18.5,67.0,A,0
+260050,12,2024-08-25,EPL,Liverpool,Brentford,2,0,H,88.0,12.4,-0.4,H,0
+260050,13,2024-08-25,LaLiga,Real Madrid,Valladolid,3,0,H,88.0,9.5,2.5,H,0
+260050,14,2024-08-25,EPL,Bournemouth,Newcastle,1,1,D,32.5,24.8,42.8,A,1
+260051,1,2024-08-24,EPL,Crystal Palace,West Ham,0,2,A,44.1,26.3,29.6,H,1
+260051,2,2024-08-24,EPL,Brighton,Man United,2,1,H,38.1,25.7,36.2,H,0
+260051,3,2024-08-24,LaLiga,Espanol,Sociedad,0,1,A,24.3,29.6,46.2,A,0
+260051,4,2024-08-24,EPL,Aston Villa,Arsenal,0,2,A,14.4,18.5,67.0,A,0
+260051,5,2024-08-25,EPL,Liverpool,Brentford,2,0,H,88.0,12.4,-0.4,H,0
+260051,6,2024-08-25,LaLiga,Real Madrid,Valladolid,3,0,H,88.0,9.5,2.5,H,0
+260051,7,2024-08-25,EPL,Bournemouth,Newcastle,1,1,D,32.5,24.8,42.8,A,1
+260051,8,2024-08-25,LaLiga,Leganes,Las Palmas,2,1,H,42.1,31.6,26.3,H,0
+260051,9,2024-08-25,LaLiga,Alaves,Betis,0,0,D,40.0,30.7,29.3,H,1
+260051,10,2024-08-25,EPL,Wolves,Chelsea,2,6,A,14.3,17.8,67.9,A,0
+260051,11,2024-08-25,LaLiga,Ath Madrid,Girona,3,0,H,74.4,17.4,8.2,H,0
+260051,12,2024-08-26,LaLiga,Villarreal,Celta,4,3,H,48.4,27.2,24.3,H,0
+260051,13,2024-08-27,LaLiga,Mallorca,Sevilla,0,0,D,40.0,30.7,29.3,H,1
+260051,14,2024-08-27,LaLiga,Vallecano,Barcelona,1,2,A,9.5,18.4,72.1,A,0
