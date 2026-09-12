@@ -34,6 +34,23 @@ class MatchPredictor:
         hist = team_history.get(team, [])
         return self.engineer._extract_tactical_profile(hist, n_matches=10)
 
+    def get_team_rankings(self) -> pd.DataFrame:
+        elo_dict = self.state.get('elo_ratings', {})
+        rows = []
+        for team, rating in elo_dict.items():
+            tac = self.get_team_tactical_profile(team)
+            rows.append({
+                '팀명': team,
+                'Elo 레이팅': round(rating, 1),
+                '압박 강도': tac.get('pressing_intensity', 50),
+                '공격력': tac.get('attack_firepower', 50),
+                '골 결정력': tac.get('finishing_efficiency', 50),
+                '수비 조직력': tac.get('defensive_wall', 50),
+                '세트피스': tac.get('set_piece_threat', 50)
+            })
+        df = pd.DataFrame(rows).sort_values(by='Elo 레이팅', ascending=False).reset_index(drop=True)
+        return df
+
     def predict_match(self, home_team: str, away_team: str, 
                       rest_home: int = 7, rest_away: int = 7, 
                       match_month: int = 4,

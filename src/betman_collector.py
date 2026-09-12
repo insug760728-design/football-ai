@@ -45,8 +45,8 @@ class BetmanTotoCollector:
         
         all_rounds = []
         
-        # 2025년 회차 (250001 ~ 250060) & 2026년 회차 (260001 ~ 260051)
-        round_list = [f"25{i:04d}" for i in range(1, 61)] + [f"26{i:04d}" for i in range(1, 52)]
+        # 2025년 회차 (250001 ~ 250060) & 2026년 회차 (260001 ~ 260060) (52회차 260052 포함)
+        round_list = [f"25{i:04d}" for i in range(1, 61)] + [f"26{i:04d}" for i in range(1, 61)]
         
         n_matches = len(df_recent)
         step = 14 # 1회차당 14경기
