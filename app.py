@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import os
 import sys
+import json
 import streamlit.components.v1 as components
 
 # 프로젝트 경로 설정
@@ -339,18 +340,18 @@ with tab_voice:
         st.markdown("#### 🤖 AI 음성 답변")
         st.info(f"🗣️ **AI**: {voice_script}")
 
-        # Web Speech Synthesis (TTS) 한국어 여성 목소리 설정
-        tts_html = f"""
+        # Web Speech Synthesis (TTS) 한국어 여성 목소리 설정 (안전한 문자열 템플릿 치환)
+        escaped_script = json.dumps(voice_script, ensure_ascii=False)
+        tts_html = """
         <script>
-            function speakFemale(text) {{
-                if ('speechSynthesis' in window) {{
+            function speakFemale(text) {
+                if ('speechSynthesis' in window) {
                     window.speechSynthesis.cancel();
                     const utterance = new SpeechSynthesisUtterance(text);
                     utterance.lang = 'ko-KR';
                     utterance.rate = 1.05;
-                    utterance.pitch = 1.15; // 자연스럽고 맑은 여성 톤
+                    utterance.pitch = 1.15;
 
-                    // 한국어 여성 음성 탐색 및 선택
                     const voices = window.speechSynthesis.getVoices();
                     const femaleVoice = voices.find(v => 
                         v.lang.includes('ko') && (v.name.includes('Yuna') || v.name.includes('Heami') || v.name.includes('SunHi') || v.name.includes('Female') || v.name.includes('여성') || v.name.includes('Google 한국의'))
@@ -360,23 +361,22 @@ with tab_voice:
                         utterance.voice = femaleVoice;
                     }
                     window.speechSynthesis.speak(utterance);
-                }}
-            }}
-            // 음성 목록 로딩 대기 후 재생
+                }
+            }
             if (window.speechSynthesis.getVoices().length === 0) {
-                window.speechSynthesis.onvoiceschanged = () => speakFemale({repr(voice_script)});
+                window.speechSynthesis.onvoiceschanged = () => speakFemale(__VOICE_TEXT__);
             } else {
-                speakFemale({repr(voice_script)});
+                speakFemale(__VOICE_TEXT__);
             }
         </script>
-        <button onclick="speakFemale({repr(voice_script)})" style="
+        <button onclick="speakFemale(__VOICE_TEXT__)" style="
             background: linear-gradient(135deg, #EC4899 0%, #DB2777 100%);
             color: white; border: none; border-radius: 6px;
             padding: 8px 16px; font-weight: 600; cursor: pointer; margin-top: 5px;
         ">
             👩‍💼 여성 음성으로 다시 듣기
         </button>
-        """
+        """.replace("__VOICE_TEXT__", escaped_script)
         components.html(tts_html, height=50)
 
 # ==================== 탭 2: 단일 매치 분석 ====================
