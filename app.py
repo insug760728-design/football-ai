@@ -78,8 +78,8 @@ def load_components():
     if not os.path.exists(pkg_path):
         return None, None, None
     predictor = MatchPredictor(pkg_path)
-    voice_agent = FootballVoiceAgent(predictor)
     toto_analyzer = BetmanTotoAnalyzer(model_pkg_path=pkg_path)
+    voice_agent = FootballVoiceAgent(predictor, toto_analyzer=toto_analyzer)
     return predictor, voice_agent, toto_analyzer
 
 predictor, voice_agent, toto_analyzer = load_components()
@@ -151,16 +151,108 @@ next_a_opt = st.sidebar.selectbox(f"⏭️ {away_team}의 다음 경기 일정",
 rest_h = st.sidebar.slider(f"🏠 {home_team} 최근 휴식일수", 2, 14, 3 if next_h_opt > 0 else 7)
 rest_a = st.sidebar.slider(f"✈️ {away_team} 최근 휴식일수", 2, 14, 7)
 
-# 탭 구성 (배트맨 승무패 14경기 탭 추가)
-tab_toto, tab_voice, tab1, tab2, tab3 = st.tabs([
-    "🎟️ 배트맨 승무패 14경기 분석", 
-    "🎙️ AI 음성 대화 (Voice Chat)", 
+# 탭 구성 (음성 대화 탭을 맨 처음으로 배치하여 모바일 접속 시 바로 보이도록 설정)
+tab_voice, tab_toto, tab1, tab2, tab3 = st.tabs([
+    "🎙️ AI 음성 대화 (Voice)", 
+    "🎟️ 배트맨 승무패 14경기", 
     "🔮 단일 매치 정밀 분석", 
     "📈 AI 모델 피처 중요도", 
     "🏆 팀별 실시간 랭킹"
 ])
 
-# ==================== 탭 0: 배트맨 승무패 14경기 분석 ====================
+# ==================== 탭 1: AI 음성 대화 ====================
+with tab_voice:
+    st.markdown("""
+    <div class="voice-box">
+        <h3 style="margin-top:0; color:#1E3A8A;">🎙️ 축구 분석 AI 여성 파트너</h3>
+        <p style="color:#475569; font-size:0.95rem; margin-bottom:0.3rem;">
+            스마트폰 하단 채팅창에 질문을 입력하시거나 마이크로 말씀하세요! AI가 <b>한국어 여성 목소리</b>로 답변해 드립니다.
+        </p>
+    </div>
+    """, unsafe_allow_html=True)
+
+    # 채팅 세션 히스토리 초기화
+    if "chat_messages" not in st.session_state:
+        st.session_state.chat_messages = [
+            {"role": "assistant", "content": "안녕하세요! 축구 분석 파트너 AI입니다. 궁금한 경기나 이번 주 승무패 14경기 조합에 대해 편하게 물어보세요!"}
+        ]
+
+    # 모바일 원터치 빠른 질문 버튼
+    st.markdown("##### ⚡ 빠른 원터치 질문")
+    q_col1, q_col2 = st.columns(2)
+    selected_quick = None
+    with q_col1:
+        if st.button("🔥 아스날 vs 첼시 누가 이겨?", use_container_width=True):
+            selected_quick = "아스날 대 첼시 경기 분석해줘"
+        if st.button("🎟️ 승무패 51회차 1번 경기", use_container_width=True):
+            selected_quick = "승무패 51회차 1번 경기 분석해줘"
+    with q_col2:
+        if st.button("⚽ 레알 vs 바르셀로나", use_container_width=True):
+            selected_quick = "레알 마드리드 대 바르셀로나 누가 이겨?"
+        if st.button("🚨 맨시티 챔스 함정 분석", use_container_width=True):
+            selected_quick = "맨체스터 시티 다음 경기 챔스인데 분석해줘"
+
+    # 채팅 메시지 출력
+    for idx, msg in enumerate(st.session_state.chat_messages):
+        with st.chat_message(msg["role"], avatar="👩‍💼" if msg["role"] == "assistant" else "👤"):
+            st.write(msg["content"])
+            if msg["role"] == "assistant" and "script" in msg:
+                escaped_script = json.dumps(msg["script"], ensure_ascii=False)
+                tts_html = f"""
+                <div style="margin-top: 6px;">
+                    <button onclick="speakFemale_{idx}()" style="
+                        background: linear-gradient(135deg, #EC4899 0%, #DB2777 100%);
+                        color: white; border: none; border-radius: 6px;
+                        padding: 6px 14px; font-size: 0.9rem; font-weight: bold;
+                        cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+                    ">
+                        🔊 👩‍💼 여성 목소리로 음성 듣기
+                    </button>
+                </div>
+                <script>
+                    function speakFemale_{idx}() {{
+                        if ('speechSynthesis' in window) {{
+                            window.speechSynthesis.cancel();
+                            const text = {escaped_script};
+                            const utterance = new SpeechSynthesisUtterance(text);
+                            utterance.lang = 'ko-KR';
+                            utterance.rate = 1.0;
+                            utterance.pitch = 1.15;
+
+                            const voices = window.speechSynthesis.getVoices();
+                            const femaleVoice = voices.find(v => 
+                                v.lang.includes('ko') && (v.name.includes('Yuna') || v.name.includes('Heami') || v.name.includes('SunHi') || v.name.includes('Female') || v.name.includes('여성') || v.name.includes('Google 한국의'))
+                            ) || voices.find(v => v.lang.includes('ko'));
+
+                            if (femaleVoice) {{
+                                utterance.voice = femaleVoice;
+                            }}
+                            window.speechSynthesis.speak(utterance);
+                        }}
+                    }}
+                </script>
+                """
+                components.html(tts_html, height=45)
+
+    # 하단 채팅 입력창 (엔터키 및 전송 화살표 버튼 내장)
+    chat_prompt = st.chat_input("질문을 입력하고 전송 버튼(➤)을 누르세요 (예: 토트넘 대 리버풀 누가 이겨?)")
+    
+    user_query = selected_quick or chat_prompt
+
+    if user_query:
+        # 사용자 메시지 기록
+        st.session_state.chat_messages.append({"role": "user", "content": user_query})
+        
+        # AI 답변 생성
+        voice_script, voice_res = voice_agent.generate_voice_response(user_query)
+        st.session_state.chat_messages.append({
+            "role": "assistant", 
+            "content": voice_script,
+            "script": voice_script
+        })
+        st.rerun()
+
+# ==================== 탭 2: 배트맨 승무패 14경기 분석 ====================
 with tab_toto:
     st.subheader("🎟️ 배트맨 축구토토 승무패 회차별 14경기 AI 분석 & 대중 몰표 함정 탐지")
     st.markdown("""
@@ -169,24 +261,39 @@ with tab_toto:
     """)
 
     available_rounds = toto_analyzer.get_available_rounds()
-    selected_round = st.selectbox("📅 승무패 회차 선택", available_rounds, index=0)
+    
+    t_col1, t_col2 = st.columns([2, 1])
+    with t_col1:
+        sel_box_round = st.selectbox(
+            "📅 승무패 회차 선택", 
+            available_rounds, 
+            index=0,
+            format_func=lambda x: f"{x} (20{x[:2]}년 {int(x[2:])}회차)"
+        )
+    with t_col2:
+        custom_round_input = st.text_input("✍️ 회차 직접 입력", placeholder="예: 53, 54, 55")
+
+    # 직접 입력한 번호가 있으면 우선 적용
+    if custom_round_input and custom_round_input.strip():
+        in_val = custom_round_input.strip()
+        selected_round = f"26{int(in_val):04d}" if len(in_val) <= 2 else in_val
+    else:
+        selected_round = sel_box_round
 
     if selected_round:
         round_res = toto_analyzer.analyze_round(selected_round)
         
-        # 상단 요약 지표
-        r_col1, r_col2, r_col3, r_col4 = st.columns(4)
+        # 상단 요약 지표 (모바일 반응형 2열 배치)
+        r_col1, r_col2 = st.columns(2)
         with r_col1:
-            st.metric("회차 번호", f"{selected_round}회차", f"총 {round_res['total_matches']}경기")
+            st.metric("회차 번호", f"20{selected_round[:2]}년 {int(selected_round[2:])}회", f"총 {round_res['total_matches']}경기")
+            st.metric("🚨 대중 몰표 함정", f"{round_res['trap_detected_count']} 경기", "이변/역배 주의")
         with r_col2:
             st.metric("AI 단통 적중 수", f"{round_res['correct_count']} / 14 경기", f"적중률 {round_res['accuracy_rate']}%")
-        with r_col3:
-            st.metric("🚨 대중 몰표 함정 감지", f"{round_res['trap_detected_count']} 경기", "이변/역배 주의")
-        with r_col4:
             st.metric("추천 조합 방식", "단통 9 + 복식 5", "1등 독식 타겟")
 
         st.write("---")
-        st.markdown(f"### 📋 {selected_round}회차 14경기 상세 AI 분석표")
+        st.markdown(f"### 📋 {selected_round} (20{selected_round[:2]}년 {int(selected_round[2:])}회차) 14경기 상세 AI 분석표")
 
         # 14경기 테이블 데이터 구성
         table_rows = []
@@ -213,171 +320,6 @@ with tab_toto:
             st.markdown("#### 🚨 이 회차의 핵심 이변(대중 몰표 함정) 분석")
             for t in traps:
                 st.warning(f"**{t['Match_No']}번 [{t['HomeTeam']} vs {t['AwayTeam']}]**: {t['Trap_Reason']}")
-
-# ==================== 탭 1: AI 음성 대화 ====================
-with tab_voice:
-    st.markdown("""
-    <div class="voice-box">
-        <h3 style="margin-top:0; color:#1E3A8A;">🎙️ 축구 분석 AI와 음성으로 대화하기</h3>
-        <p style="color:#475569; margin-bottom:0.5rem;">
-            마이크를 켜고 편하게 말해보세요! AI가 질문을 알아듣고 분석 결과와 이유를 <b>한국어 음성</b>으로 직접 브리핑해 드립니다.
-        </p>
-        <p style="font-size:0.9rem; color:#6B7280;">
-            💡 <b>말씀 예시</b>: <br>
-            • <i>"승무패 51회차 1번 경기 분석해줘"</i><br>
-            • <i>"아스날이랑 첼시 경기 누가 이겨?"</i><br>
-            • <i>"레알 마드리드 다음 경기 챔스인데 바르샤전 어때?"</i>
-        </p>
-    </div>
-    """, unsafe_allow_html=True)
-
-    voice_component_html = """
-    <div style="font-family: sans-serif; text-align: center; padding: 10px;">
-        <button id="permBtn" style="
-            background: #10B981; color: white; border: none; border-radius: 8px;
-            padding: 8px 16px; font-weight: bold; cursor: pointer; margin-bottom: 12px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        " onclick="requestMobilePermissions()">
-            📲 핸드폰 마이크 & 실시간 알림 권한 허용하기
-        </button>
-        <br>
-        <button id="recordBtn" style="
-            background: linear-gradient(135deg, #3B82F6 0%, #1D4ED8 100%);
-            color: white; border: none; border-radius: 50px;
-            padding: 14px 28px; font-size: 1.1rem; font-weight: bold;
-            cursor: pointer; box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            transition: all 0.2s ease;
-        ">
-            🎤 마이크 켜고 말하기
-        </button>
-        <div id="statusText" style="margin-top: 10px; font-size: 0.95rem; color: #64748B;">버튼을 누르고 말씀하세요...</div>
-    </div>
-
-    <script>
-        function requestMobilePermissions() {
-            // 1. 알림 권한 요청
-            if ('Notification' in window) {
-                Notification.requestPermission().then(function(permission) {
-                    if (permission === 'granted') {
-                        alert('✅ 핸드폰 알림 권한이 허용되었습니다! 승무패 마감 전 픽 알림을 받아보실 수 있습니다.');
-                        new Notification('⚽ 축구 AI 파트너', { body: '핸드폰 연동이 완료되었습니다! 언제든 편하게 말 걸어주세요.' });
-                    }
-                });
-            }
-            // 2. 마이크 권한 요청
-            if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
-                navigator.mediaDevices.getUserMedia({ audio: true }).then(function(stream) {
-                    document.getElementById('permBtn').innerText = '✅ 핸드폰 권한 연동 완료 (마이크/알림 ON)';
-                    document.getElementById('permBtn').style.background = '#059669';
-                }).catch(function(err) {
-                    console.log('Mic error:', err);
-                });
-            }
-        }
-        const recordBtn = document.getElementById('recordBtn');
-        const statusText = document.getElementById('statusText');
-        
-        let recognition = null;
-        if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
-            const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
-            recognition = new SpeechRec();
-            recognition.lang = 'ko-KR';
-            recognition.continuous = false;
-            recognition.interimResults = false;
-
-            recognition.onstart = function() {
-                recordBtn.style.background = '#DC2626';
-                recordBtn.innerText = '🔴 듣고 있습니다... 말씀하세요!';
-                statusText.innerText = '음성을 인식 중입니다...';
-            };
-
-            recognition.onresult = function(event) {
-                const transcript = event.results[0][0].transcript;
-                statusText.innerText = '인식 완료: "' + transcript + '"';
-                recordBtn.style.background = '#10B981';
-                recordBtn.innerText = '✅ 음성 인식 완료';
-                
-                const inputArea = window.parent.document.querySelector('input[data-testid="stTextInputRootElement"] input');
-                if (inputArea) {
-                    inputArea.value = transcript;
-                    inputArea.dispatchEvent(new Event('input', { bubbles: true }));
-                    inputArea.dispatchEvent(new Event('change', { bubbles: true }));
-                }
-            };
-
-            recognition.onerror = function(event) {
-                recordBtn.style.background = '#3B82F6';
-                recordBtn.innerText = '🎤 마이크 켜고 말하기';
-                statusText.innerText = '인식 오류: ' + event.error;
-            };
-
-            recognition.onend = function() {
-                recordBtn.style.background = '#3B82F6';
-                recordBtn.innerText = '🎤 마이크 켜고 말하기';
-            };
-        } else {
-            statusText.innerText = '현재 브라우저에서 마이크 Web Speech API를 지원하지 않습니다. 아래 텍스트 창에 입력해 주세요.';
-        }
-
-        recordBtn.addEventListener('click', function() {
-            if (recognition) {
-                try {
-                    recognition.start();
-                } catch(e) {
-                    recognition.stop();
-                }
-            }
-        });
-    </script>
-    """
-    components.html(voice_component_html, height=120)
-
-    user_query = st.text_input("💬 음성 인식 텍스트 (또는 직접 입력):", placeholder="예: 아스날 대 토트넘 다음 경기 챔스인데 누가 이겨?")
-
-    if user_query:
-        voice_script, voice_res = voice_agent.generate_voice_response(user_query)
-        
-        st.markdown("#### 🤖 AI 음성 답변")
-        st.info(f"🗣️ **AI**: {voice_script}")
-
-        # Web Speech Synthesis (TTS) 한국어 여성 목소리 설정 (안전한 문자열 템플릿 치환)
-        escaped_script = json.dumps(voice_script, ensure_ascii=False)
-        tts_html = """
-        <script>
-            function speakFemale(text) {
-                if ('speechSynthesis' in window) {
-                    window.speechSynthesis.cancel();
-                    const utterance = new SpeechSynthesisUtterance(text);
-                    utterance.lang = 'ko-KR';
-                    utterance.rate = 1.05;
-                    utterance.pitch = 1.15;
-
-                    const voices = window.speechSynthesis.getVoices();
-                    const femaleVoice = voices.find(v => 
-                        v.lang.includes('ko') && (v.name.includes('Yuna') || v.name.includes('Heami') || v.name.includes('SunHi') || v.name.includes('Female') || v.name.includes('여성') || v.name.includes('Google 한국의'))
-                    ) || voices.find(v => v.lang.includes('ko'));
-
-                    if (femaleVoice) {
-                        utterance.voice = femaleVoice;
-                    }
-                    window.speechSynthesis.speak(utterance);
-                }
-            }
-            if (window.speechSynthesis.getVoices().length === 0) {
-                window.speechSynthesis.onvoiceschanged = () => speakFemale(__VOICE_TEXT__);
-            } else {
-                speakFemale(__VOICE_TEXT__);
-            }
-        </script>
-        <button onclick="speakFemale(__VOICE_TEXT__)" style="
-            background: linear-gradient(135deg, #EC4899 0%, #DB2777 100%);
-            color: white; border: none; border-radius: 6px;
-            padding: 8px 16px; font-weight: 600; cursor: pointer; margin-top: 5px;
-        ">
-            👩‍💼 여성 음성으로 다시 듣기
-        </button>
-        """.replace("__VOICE_TEXT__", escaped_script)
-        components.html(tts_html, height=50)
 
 # ==================== 탭 2: 단일 매치 분석 ====================
 with tab1:
